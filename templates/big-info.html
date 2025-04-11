@@ -1,0 +1,124 @@
+{% extends "base.html" %}
+
+{% block title %}BIG Registration — Step-by-Step Guide{% endblock %}
+
+{% block content %}
+  <section class="content" style="max-width: 900px; margin: auto; padding: 2rem 1.5rem;">
+    <h1 style="text-align: center; font-weight: 400; font-size: 2.2rem; color: #2f3e46;">
+      {% if lang == 'ru' %} Процедура регистрации в BIG
+      {% elif lang == 'uk' %} Процедура реєстрації в BIG
+      {% elif lang == 'nl' %} BIG-registratieprocedure
+      {% elif lang == 'es' %} Procedimiento de registro BIG
+      {% elif lang == 'tr' %} BIG Kayıt Süreci
+      {% elif lang == 'fa' %} روند ثبت‌نام در BIG
+      {% else %} BIG Registration Procedure
+      {% endif %}
+    </h1>
+
+    <div class="step">
+      <h2>1. Credential Evaluation (IDW)</h2>
+      <p>
+        {% if lang == 'ru' %}
+          Первый шаг к регистрации в BIG — это оценка вашего иностранного диплома и квалификаций через IDW (Internationale Diplomawaardering). Этот процесс включает подачу официальных документов об образовании для определения их эквивалентности голландским стандартам. Рекомендуется заранее подготовить все необходимые документы, включая дипломы, приложения к ним и свидетельства о прохождении стажировок.
+        {% elif lang == 'uk' %}
+          Перший крок до реєстрації в BIG — це оцінка вашого іноземного диплома та кваліфікацій через IDW (Internationale Diplomawaardering). Цей процес включає подання офіційних документів про освіту для визначення їх еквівалентності нідерландським стандартам. Рекомендується заздалегідь підготувати всі необхідні документи, включаючи дипломи, додатки до них та свідоцтва про проходження стажувань.
+        {% elif lang == 'nl' %}
+          De eerste stap naar registratie in het BIG-register is de waardering van uw buitenlandse diploma en kwalificaties via IDW (Internationale Diplomawaardering). Dit proces omvat het indienen van officiële onderwijsdocumenten om hun gelijkwaardigheid aan Nederlandse standaarden te bepalen. Het is raadzaam om vooraf alle benodigde documenten voor te bereiden, waaronder diploma's, bijlagen en certificaten van stages.
+        {% elif lang == 'es' %}
+          El primer paso para registrarse en el BIG es la evaluación de tu diploma y calificaciones extranjeras a través de IDW (Internationale Diplomawaardering). Este proceso implica presentar documentos educativos oficiales para determinar su equivalencia con los estándares holandeses. Se recomienda preparar con anticipación todos los documentos necesarios, incluyendo diplomas, anexos y certificados de prácticas.
+        {% elif lang == 'tr' %}
+          BIG'e kayıt olmanın ilk adımı, yabancı diplomanızın ve yeterliliklerinizin IDW (Internationale Diplomawaardering) aracılığıyla değerlendirilmesidir. Bu süreç, resmi eğitim belgelerinizin Hollanda standartlarına eşdeğerliğini belirlemek için sunulmasını içerir. Diplomalar, ekler ve staj sertifikaları dahil olmak üzere gerekli tüm belgeleri önceden hazırlamanız önerilir.
+        {% elif lang == 'fa' %}
+          اولین گام برای ثبت‌نام در BIG، ارزیابی مدرک تحصیلی و صلاحیت‌های خارجی شما از طریق IDW (Internationale Diplomawaardering) است. این فرآیند شامل ارائه مدارک تحصیلی رسمی برای تعیین معادل بودن آن‌ها با استانداردهای هلندی می‌باشد. توصیه می‌شود که از قبل تمامی مدارک مورد نیاز، از جمله دیپلم‌ها، پیوست‌ها و گواهی‌های کارآموزی را آماده کنید.
+        {% else %}
+          The first step towards BIG registration is the evaluation of your foreign diploma and qualifications through IDW (Internationale Diplomawaardering). This process involves submitting official educational documents to determine their equivalence to Dutch standards. It is advisable to prepare all necessary documents in advance, including diplomas, transcripts, and internship certificates.
+        {% endif %}
+      </p>
+    </div>
+
+    <div class="step">
+  <h2>2. Language Proficiency</h2>
+  <p>
+    {% if lang == 'ru' %}
+      Для успешной работы в Нидерландах необходимо владеть нидерландским языком как минимум на уровне B2. Это включает не только повседневное общение, но и знание медицинской терминологии. Официальным подтверждением может быть Staatsexamen NT2 (Programma II). Рекомендуется также изучать клинический голландский для прохождения экзаменов и работы с пациентами.
+    {% elif lang == 'uk' %}
+      Для успішної роботи в Нідерландах потрібно володіти нідерландською мовою на рівні не нижче B2. Це стосується як загального мовлення, так і медичної термінології. Підтвердженням може бути Staatsexamen NT2 (Programma II). Варто також вивчати клінічну нідерландську для успішного проходження іспитів і роботи з пацієнтами.
+    {% elif lang == 'nl' %}
+      Voor een succesvolle registratie moet je Nederlands beheersen op minimaal B2-niveau. Dit geldt voor algemene communicatie én medische terminologie. Staatsexamen NT2 (Programma II) is een erkend bewijs. Het is aan te raden om ook medisch Nederlands te leren voor examens en praktijk.
+    {% elif lang == 'es' %}
+      Para trabajar en los Países Bajos, necesitas dominar el neerlandés al menos a nivel B2. Esto incluye la comunicación cotidiana y el vocabulario médico. El Staatsexamen NT2 (Programa II) es una certificación oficial. También se recomienda estudiar neerlandés médico para aprobar los exámenes y tratar con pacientes.
+    {% elif lang == 'tr' %}
+      Hollanda'da çalışmak için en az B2 seviyesinde Hollandaca bilmek gereklidir. Bu, günlük iletişim kadar tıbbi terimleri de kapsar. Resmi bir belge olarak Staatsexamen NT2 (Programma II) kabul edilir. Sınavları geçmek ve hasta iletişimi için tıbbi Hollandaca da öğrenilmelidir.
+    {% elif lang == 'fa' %}
+      برای کار در هلند باید حداقل در سطح B2 به زبان هلندی مسلط باشید. این شامل مکالمات عمومی و واژگان پزشکی است. آزمون رسمی Staatsexamen NT2 (Programma II) به عنوان مدرک معتبر شناخته می‌شود. یادگیری زبان هلندی پزشکی نیز برای آزمون‌ها و کار با بیماران توصیه می‌شود.
+    {% else %}
+      To work in the Netherlands, you need Dutch language skills at a minimum B2 level. This includes both general communication and medical vocabulary. Staatsexamen NT2 (Programma II) is an official certification. It’s also recommended to study medical Dutch to pass exams and interact with patients.
+    {% endif %}
+  </p>
+</div>
+
+<div class="step">
+  <h2>3. BI-Toets (Basic Medical Knowledge)</h2>
+  <p>
+    {% if lang == 'ru' %}
+      BI-toets — это профессиональный экзамен, проверяющий ваши базовые медицинские знания, понимание нидерландской системы здравоохранения, а также знание соответствующих законов и этики. Экзамен включает вопросы с множественным выбором, клинические ситуации и интерпретацию медицинской информации. Является обязательным шагом перед допуском к практике.
+    {% elif lang == 'uk' %}
+      BI-toets — це професійний іспит, який перевіряє базові медичні знання, розуміння системи охорони здоров'я Нідерландів, а також знання законодавства та етики. Іспит включає питання з вибором відповіді, клінічні ситуації та інтерпретацію медичної інформації. Є обов'язковим етапом перед допуском до практики.
+    {% elif lang == 'nl' %}
+      De BI-toets is een professionele toets die je medische basiskennis test, evenals je begrip van het Nederlandse zorgsysteem, wetgeving en medische ethiek. De toets bevat meerkeuzevragen, casussen en interpretatie van medische gegevens. Deze stap is verplicht voordat je mag starten met praktijkervaring.
+    {% elif lang == 'es' %}
+      El BI-toets es un examen profesional que evalúa tus conocimientos médicos básicos, el entendimiento del sistema de salud neerlandés, leyes y ética médica. Incluye preguntas de opción múltiple, casos clínicos y análisis de información médica. Es obligatorio antes de poder ejercer.
+    {% elif lang == 'tr' %}
+      BI-toets, temel tıbbi bilginizi, Hollanda sağlık sistemi hakkındaki bilginizi, yasalar ve etik bilgilerinizi ölçen mesleki bir sınavdır. Çoktan seçmeli sorular, klinik senaryolar ve tıbbi bilgi yorumlama içerir. Uygulamaya geçmeden önce bu adım zorunludur.
+    {% elif lang == 'fa' %}
+      آزمون BI یک آزمون حرفه‌ای است که دانش پایه پزشکی، درک سیستم مراقبت سلامت هلند، قوانین و اخلاق پزشکی شما را ارزیابی می‌کند. آزمون شامل سؤالات چندگزینه‌ای، سناریوهای بالینی و تفسیر اطلاعات پزشکی است. این مرحله قبل از شروع به کار اجباری است.
+    {% else %}
+      The BI-toets is a professional exam testing your basic medical knowledge, understanding of the Dutch healthcare system, relevant laws, and medical ethics. It includes multiple-choice questions, clinical scenarios, and interpretation of medical data. This step is mandatory before starting supervised practice.
+    {% endif %}
+  </p>
+</div>
+
+<div class="step">
+  <h2>4. Professional Practice Evaluation</h2>
+  <p>
+    {% if lang == 'ru' %}
+      После сдачи BI-toets и оценки диплома вы можете быть направлены на профессиональную стажировку или экзамен в зависимости от уровня вашего образования и опыта. Некоторые кандидаты проходят адаптационный период (aanpassingsstage) под наблюдением. Это помогает доказать практические навыки и соответствие голландским стандартам.
+    {% elif lang == 'uk' %}
+      Після складання BI-toets та оцінки диплома вас можуть направити на професійну практику або додатковий іспит залежно від вашого рівня освіти й досвіду. Деякі кандидати проходять адаптаційний період (aanpassingsstage) під наглядом. Це допомагає підтвердити практичні навички та відповідність стандартам Нідерландів.
+    {% elif lang == 'nl' %}
+      Na het behalen van de BI-toets en diplomawaardering kun je worden toegewezen aan een praktijkstage of aanvullende toets, afhankelijk van je opleiding en ervaring. Sommige kandidaten volgen een aanpassingsstage onder supervisie. Dit helpt om praktische vaardigheden aan te tonen volgens de Nederlandse normen.
+    {% elif lang == 'es' %}
+      Tras aprobar el BI-toets y la evaluación de tu diploma, puedes ser asignado a una pasantía profesional o evaluación adicional según tu formación y experiencia. Algunos candidatos realizan un período de adaptación (aanpassingsstage) bajo supervisión. Esto ayuda a demostrar habilidades prácticas según los estándares holandeses.
+    {% elif lang == 'tr' %}
+      BI-toets ve diploma değerlendirmesinden sonra, eğitim ve deneyiminize göre mesleki bir staj veya değerlendirme sınavına yönlendirilebilirsiniz. Bazı adaylar, gözetim altında geçen uyum süreci (aanpassingsstage) ile yetkinliklerini gösterir. Bu süreç Hollanda standartlarına uygunluğu kanıtlamak için önemlidir.
+    {% elif lang == 'fa' %}
+      پس از قبولی در آزمون BI و ارزیابی مدارک، ممکن است بسته به سطح تحصیلات و تجربه‌تان به کارآموزی حرفه‌ای یا آزمون عملی ارجاع داده شوید. برخی داوطلبان دوره تطبیقی (aanpassingsstage) را تحت نظارت می‌گذرانند. این مرحله برای اثبات مهارت‌های عملی مطابق با استانداردهای هلند مهم است.
+    {% else %}
+      After passing the BI-toets and credential evaluation, you may be assigned to a professional internship or additional assessment depending on your education and experience. Some candidates go through a supervised adaptation period (aanpassingsstage). This helps demonstrate practical skills according to Dutch standards.
+    {% endif %}
+  </p>
+</div>
+
+<div class="step">
+  <h2>5. Apply for BIG Registration</h2>
+  <p>
+    {% if lang == 'ru' %}
+      После завершения всех шагов вы можете подать официальную заявку на регистрацию в реестре BIG. Это включает загрузку всех необходимых документов на сайте <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a>, оплату регистрационного сбора и ожидание подтверждения. После одобрения вы получите номер BIG, который дает право официально работать стоматологом в Нидерландах.
+    {% elif lang == 'uk' %}
+      Після виконання всіх кроків ви можете подати офіційну заявку на реєстрацію в реєстрі BIG. Це передбачає завантаження всіх необхідних документів на сайті <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a>, оплату збору та очікування підтвердження. Після схвалення ви отримаєте номер BIG, що дає право офіційно працювати стоматологом у Нідерландах.
+    {% elif lang == 'nl' %}
+      Na het afronden van alle stappen kun je een officiële aanvraag indienen voor registratie in het BIG-register. Dit houdt in dat je alle vereiste documenten uploadt op <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a>, het registratiebedrag betaalt en wacht op goedkeuring. Na goedkeuring ontvang je een BIG-nummer waarmee je officieel als tandarts in Nederland mag werken.
+    {% elif lang == 'es' %}
+      Una vez que hayas completado todos los pasos, puedes presentar tu solicitud oficial para el registro en el BIG. Esto incluye subir todos los documentos necesarios en <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a>, pagar la tasa de registro y esperar la aprobación. Tras la aprobación, recibirás tu número BIG que te autoriza a trabajar oficialmente como dentista en los Países Bajos.
+    {% elif lang == 'tr' %}
+      Tüm adımları tamamladıktan sonra BIG kaydı için resmi başvuruda bulunabilirsiniz. Gerekli belgeleri <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a> adresine yükleyip kayıt ücretini ödedikten sonra onay sürecini beklemeniz gerekir. Onaylandıktan sonra, Hollanda'da resmi olarak diş hekimi olarak çalışmanızı sağlayan BIG numarasını alırsınız.
+    {% elif lang == 'fa' %}
+      پس از تکمیل همه مراحل، می‌توانید درخواست رسمی خود را برای ثبت در BIG ارائه دهید. این شامل بارگذاری تمام مدارک لازم در <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a>، پرداخت هزینه ثبت‌نام و انتظار برای تأیید است. پس از تأیید، شماره BIG دریافت می‌کنید که اجازه کار رسمی به عنوان دندانپزشک در هلند را می‌دهد.
+    {% else %}
+      Once you have completed all the steps, you can submit your official application for inclusion in the BIG register. This includes uploading all required documents to <a href="https://www.bigregister.nl" target="_blank">bigregister.nl</a>, paying the registration fee, and waiting for approval. Once approved, you will receive your BIG number, allowing you to officially practice as a dentist in the Netherlands.
+    {% endif %}
+  </p>
+</div>
+
+  </section>
+{% endblock %}

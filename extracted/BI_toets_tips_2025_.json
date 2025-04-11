@@ -1,0 +1,2746 @@
+[
+  {
+    "page": 1,
+    "text": "2025",
+    "images": [
+      "5a4033847fb94fedb9d3f7df167a2fbf.png"
+    ],
+    "summary": "The text block contains only the year '2025'.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      98.1937484741211,
+      936.491455078125,
+      178.2577667236328,
+      979.4034423828125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 1,
+    "text": "Beroepsinhoudelijke toets",
+    "images": [],
+    "summary": "The text block refers to a professional content examination, likely in the context of dental education or practice.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      98.99976348876953,
+      438.428955078125,
+      903.2344970703125,
+      502.7564392089844
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 1,
+    "text": "Tandartsen",
+    "images": [],
+    "summary": "The text block contains the word 'Tandartsen', which is Dutch for 'dentists'.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      98.59393310546875,
+      577.505859375,
+      248.264892578125,
+      607.755859375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "Eligibility: \nCost: 1500 euros",
+    "images": [
+      "90436b71ab004158a3c7a309a254bf2f.png"
+    ],
+    "summary": "The text block provides information about eligibility and cost, which is 1500 euros.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      98.5999984741211,
+      78.21478271484375,
+      537.7750244140625,
+      246.852294921875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "Candidates must pass the Dutch(B2+)/English(B2 reading) language tests and must have submitted and have their \ndocuments approved by CIBG.",
+    "images": [],
+    "summary": "Candidates are required to pass language tests in Dutch and English and have their documents approved by CIBG.",
+    "tags": [
+      "ethics_law"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      345.2478942871094,
+      1716.8907470703125,
+      422.52789306640625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "The test is held twice annually (spring/summer and autumn/winter).",
+    "images": [],
+    "summary": "The test is conducted biannually during the spring/summer and autumn/winter seasons.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      471.2478942871094,
+      1056.1956787109375,
+      506.52789306640625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "Candidates must take all components in one session unless exceptional circumstances arise. There is a possibility to \npostpone your exam due to some circumstances.",
+    "images": [],
+    "summary": "Candidates are required to take all exam components in one session, but may postpone due to exceptional circumstances.",
+    "tags": [
+      "exam_tip",
+      "ethics_law"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      555.2478637695312,
+      1740.4296875,
+      632.5278930664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "Test duration: 2-3 months",
+    "images": [],
+    "summary": "The text specifies a test duration of 2-3 months.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      681.2478637695312,
+      462.0171203613281,
+      716.5278930664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "- September till December \n- April till June",
+    "images": [],
+    "summary": "The text block lists two time periods: September to December and April to June.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      135.0,
+      723.2478637695312,
+      517.0330200195312,
+      800.5278930664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "Theory: June and December",
+    "images": [],
+    "summary": "The text block mentions two months, June and December, possibly indicating a theory or concept related to these months.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      135.0,
+      849.2478637695312,
+      542.4981079101562,
+      884.5278930664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 2,
+    "text": "Number of participants each batch- 60",
+    "images": [],
+    "summary": "The text specifies that each batch consists of 60 participants.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      135.0,
+      933.2478637695312,
+      676.7033081054688,
+      968.5278930664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "Test components",
+    "images": [
+      "e984146d45644485969802b2bfc93807.png"
+    ],
+    "summary": "The text block is a heading or label for a section on test components.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      772.455078125,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "a. Theoretical Exams",
+    "images": [],
+    "summary": "The text block refers to theoretical exams in the context of dental education.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      75.10542297363281,
+      197.84368896484375,
+      289.9617614746094,
+      221.84368896484375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "Basic Medical Sciences: Multiple choice \nTHK 1: Multiple choice, Cariology, saliva, endodontics, paediatric dentistry, periodontology. \nTHK II: Multiple choice: Prosthetics(Removable dentures, kroon en brug, Implantology, complete denture), Orthodontics, Oral surgery, Kinesiology\nRadiology: Multiple choice \nStatistics: Multiple choice - Open book \nMethodology: Short answer - Open book",
+    "images": [],
+    "summary": "The text outlines multiple choice and short answer topics in dental education, covering areas such as cariology, endodontics, prosthetics, orthodontics, oral surgery, radiology, and methodology.",
+    "tags": [
+      "endodontics",
+      "periodontology",
+      "prosthodontics",
+      "orthodontics",
+      "oral_surgery",
+      "radiology",
+      "pedodontics",
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      111.10540008544922,
+      226.84368896484375,
+      1538.529296875,
+      395.84368896484375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "b. Preclinical Tests (practical skills, e.g., crown preparation, root canal access). Simodont",
+    "images": [],
+    "summary": "The text discusses preclinical tests focusing on practical dental skills like crown preparation and root canal access, mentioning the use of Simodont technology.",
+    "tags": [
+      "prosthodontics",
+      "endodontics",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      75.10542297363281,
+      429.84368896484375,
+      945.1311645507812,
+      453.84368896484375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "1. Manual vaardigheden- cross or donut \n2. Caries excavation \n3. Endodontic preparation: Incisors and molars \n4. Kroon preparation- lower molar",
+    "images": [],
+    "summary": "The text block lists various dental procedures and preparations, including caries excavation and endodontic preparation for incisors and molars.",
+    "tags": [
+      "endodontics",
+      "dental_materials",
+      "prosthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      111.10540008544922,
+      487.84368896484375,
+      567.64306640625,
+      598.8436889648438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "c. Intake, Social Dentistry, and Ethics (patient interactions and ethical scenarios).",
+    "images": [],
+    "summary": "The text discusses aspects of patient interactions, social dentistry, and ethical scenarios in dental practice.",
+    "tags": [
+      "ethics_law"
+    ],
+    "type": "text",
+    "block_coords": [
+      75.10542297363281,
+      632.8436889648438,
+      876.284423828125,
+      656.8436889648438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "- Short form or essay form - Ethics and Social Dentistry\n- Intake: Spreken exam- 10 min over Zoom",
+    "images": [],
+    "summary": "The text mentions different formats for an ethics and social dentistry exam, including a short form or essay form, with a 10-minute oral exam conducted over Zoom.",
+    "tags": [
+      "ethics_law",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      111.10540008544922,
+      661.8436889648438,
+      648.3167114257812,
+      714.8436889648438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "d. Treatment Planning (diagnosis and creating treatment plans)- Short form vragen",
+    "images": [],
+    "summary": "The text discusses the aspect of treatment planning, specifically focusing on diagnosis and creating treatment plans in a short form question format.",
+    "tags": [
+      "diagnostics",
+      "clinical_guideline",
+      "question_block"
+    ],
+    "type": "text",
+    "block_coords": [
+      75.10542297363281,
+      748.8436889648438,
+      884.0437622070312,
+      772.8436889648438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "- Endodontics \n- Casus 1: Long treatment plan \n- Casus 2: Trauma/Resorption \n- Casus 3: Cariology/Pediatric treatment planning",
+    "images": [],
+    "summary": "The text outlines three endodontic cases focusing on long treatment plans, trauma/resorption, and pediatric treatment planning in cariology.",
+    "tags": [
+      "endodontics",
+      "pedodontics",
+      "case_study"
+    ],
+    "type": "text",
+    "block_coords": [
+      111.10540008544922,
+      777.8436889648438,
+      587.654296875,
+      888.8436889648438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 3,
+    "text": "e. Gebits reininging: In phantom head",
+    "images": [],
+    "summary": "The text refers to dental cleaning in a phantom head context.",
+    "tags": [
+      "diagnostics",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      75.10542297363281,
+      922.8436889648438,
+      459.80316162109375,
+      946.8436889648438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 4,
+    "text": "Schedule:",
+    "images": [
+      "47e4a32924984b2a9046528bde1dc913.png",
+      "ee35f17262104a2c975a19dd2d6fbe72.png",
+      "23eea638be2b4b709660e75fe9db216e.png"
+    ],
+    "summary": "The text block contains a schedule, but no specific details are provided.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      507.1700134277344,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "Study tips theory: General: 70%",
+    "images": [
+      "af575b8334a348a389d545a683a357a7.png"
+    ],
+    "summary": "The text block provides a study tip suggesting that 70% of focus should be on general theory.",
+    "tags": [
+      "exam_tip",
+      "card_summary"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      1324.78515625,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• Last 5 years: 80-90 % of questions for the exams are repeated.",
+    "images": [],
+    "summary": "A significant percentage of exam questions, around 80-90%, have been repeated over the last five years.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      88.552490234375,
+      256.2921447753906,
+      1245.160400390625,
+      311.31744384765625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• Solve this questions first, use sources: Canvas or dutch dental textbooks or dutch guidelines",
+    "images": [],
+    "summary": "The text instructs to solve questions using sources like Canvas, Dutch dental textbooks, or Dutch guidelines.",
+    "tags": [
+      "question_block",
+      "reference"
+    ],
+    "type": "question",
+    "block_coords": [
+      136.55250549316406,
+      333.8997497558594,
+      1774.5810546875,
+      388.925048828125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "available online (example: trauma or perio classification). Learn the relevant theory also.",
+    "images": [],
+    "summary": "The text advises learning the relevant theory for topics like trauma or periodontal classification, which are available online.",
+    "tags": [
+      "periodontology",
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      174.95249938964844,
+      380.8202209472656,
+      1692.6358642578125,
+      425.55621337890625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• Read and memorise these question just before the exam (2x).",
+    "images": [],
+    "summary": "The text advises students to read and memorize certain questions twice just before the exam.",
+    "tags": [
+      "exam_tip",
+      "card_learning"
+    ],
+    "type": "text",
+    "block_coords": [
+      136.55250549316406,
+      452.9148254394531,
+      1238.3636474609375,
+      507.94012451171875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• Tentament vragen: 5-10% questions. These are questions that are collected or available for some",
+    "images": [],
+    "summary": "The text mentions that 5-10% of questions are tentament vragen, which are collected or available for some purpose.",
+    "tags": [
+      "question_block"
+    ],
+    "type": "text",
+    "block_coords": [
+      88.552490234375,
+      530.42236328125,
+      1804.1497802734375,
+      585.4476318359375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "subjects in CANVAS. These questions are more for ACTA dental students and are in-depth.",
+    "images": [],
+    "summary": "The text refers to in-depth questions for ACTA dental students available in CANVAS.",
+    "tags": [
+      "question_block",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      126.95249938964844,
+      577.3427734375,
+      1705.69140625,
+      622.0787963867188
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• The questions in last 5 years are remembered questions, has grammar, spelling or are incomplete.",
+    "images": [],
+    "summary": "The text discusses issues with the remembered questions from the last five years, highlighting problems with grammar, spelling, or completeness.",
+    "tags": [
+      "question_block",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      88.552490234375,
+      649.4373779296875,
+      1814.248779296875,
+      704.462646484375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "The answers might not be entirely correct.  Discuss question in whatsapp groups or with peers.",
+    "images": [],
+    "summary": "The text suggests discussing questions with peers or in WhatsApp groups to verify the correctness of answers.",
+    "tags": [
+      "question_block"
+    ],
+    "type": "text",
+    "block_coords": [
+      126.95249938964844,
+      695.474609375,
+      1820.9300537109375,
+      741.2474365234375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• ChatGPT: Basic Medisch, Statistics and Methodology",
+    "images": [],
+    "summary": "The text block mentions 'ChatGPT: Basic Medisch, Statistics and Methodology'.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      88.552490234375,
+      768.6292724609375,
+      1056.5396728515625,
+      823.654541015625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• Youtube: https://www.youtube.com/@mentaldental",
+    "images": [],
+    "summary": "The text block provides a link to a YouTube channel named Mental Dental.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      88.552490234375,
+      846.13671875,
+      1010.459716796875,
+      901.1619873046875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 5,
+    "text": "• Other: Osmosis - Basic medische",
+    "images": [],
+    "summary": "The text block mentions 'Osmosis - Basic medische', likely referring to a basic medical concept or resource related to osmosis.",
+    "tags": [
+      "physiology"
+    ],
+    "type": "text",
+    "block_coords": [
+      88.552490234375,
+      923.644287109375,
+      713.8197631835938,
+      978.6695556640625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "Practical exam tips:",
+    "images": [
+      "de8ed1687df3427299392f6ab65a7bb9.png"
+    ],
+    "summary": "The text block is intended to provide practical tips for dental exams.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      887.885009765625,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• Total 9 sessions: 2 are test",
+    "images": [],
+    "summary": "The text mentions a total of 9 sessions, with 2 designated as test sessions.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      231.34768676757812,
+      728.4719848632812,
+      300.1293029785156
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• It gets better with time.",
+    "images": [],
+    "summary": "The text suggests that a certain condition or situation improves over time.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      327.7821350097656,
+      667.9920654296875,
+      396.5637512207031
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• The failure rate is around 5%.",
+    "images": [],
+    "summary": "The text states that the failure rate is approximately 5%.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      424.2165222167969,
+      804.9359130859375,
+      492.9981384277344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• Manual vaardigheden: 3 chances",
+    "images": [],
+    "summary": "The text mentions 'Manual vaardigheden' with a note on having 3 chances.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      520.6509399414062,
+      882.3599243164062,
+      589.4324951171875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• Crown Prep: 2 chances. 1st chance: 1 crown prep in proef toets, 2nd chance",
+    "images": [],
+    "summary": "The text discusses the opportunities for crown preparation practice, mentioning a first chance in a proef toets and a second chance.",
+    "tags": [
+      "prosthodontics",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      617.0853271484375,
+      1807.895751953125,
+      685.8668823242188
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "- 2 crown prep.",
+    "images": [],
+    "summary": "The text refers to the preparation of two dental crowns.",
+    "tags": [
+      "prosthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      674.5358276367188,
+      501.7679748535156,
+      730.455810546875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• Caries excavation: 1",
+    "images": [],
+    "summary": "The text block refers to the topic of caries excavation.",
+    "tags": [
+      "endodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      764.9541015625,
+      609.2399291992188,
+      833.7356567382812
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 6,
+    "text": "• Endodontics: 2, Incisor & molar",
+    "images": [],
+    "summary": "The text block mentions endodontics concerning incisors and molars.",
+    "tags": [
+      "endodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      861.3885498046875,
+      818.280029296875,
+      930.1701049804688
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 7,
+    "text": "Manual vaardigheden- 90%\nhttps://www.youtube.com/watch?v=vujEJtGQ1Y4&t=28s",
+    "images": [
+      "d59d1fac27e144b8b095fb4a046e6669.png",
+      "df52607ed754445eb8b8ef865142ccac.png"
+    ],
+    "summary": "The text block references a YouTube link related to manual skills with a proficiency level of 90%.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      98.5999984741211,
+      78.21478271484375,
+      1575.6248779296875,
+      246.852294921875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "Crown",
+    "images": [
+      "3650773b1c184d29aa3ec25856f3a2e1.png",
+      "bc8364349454467896642b31b1452a64.png",
+      "0ef3a74b2d834af89b1ae6258fe6599e.png"
+    ],
+    "summary": "The text block contains the word 'Crown', which could refer to a dental restoration covering a tooth or the anatomical part of a tooth above the gum line.",
+    "tags": [
+      "anatomy",
+      "prosthodontics",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      380.17999267578125,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "CRITERIA A (moeten allemaal voldoende zijn)",
+    "images": [],
+    "summary": "The text outlines criteria labeled as 'A' that must all be sufficiently met.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      209.68218994140625,
+      662.3734130859375,
+      238.84217834472656
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "A1 Voldoende ruimte",
+    "images": [],
+    "summary": "The text 'A1 Voldoende ruimte' is in Dutch and translates to 'A1 Sufficient space,' but lacks context to provide a detailed summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      258.2822265625,
+      359.73834228515625,
+      287.4422302246094
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "A2 Geen ondersnijdingen",
+    "images": [],
+    "summary": "The text refers to a dental concept related to 'geen ondersnijdingen' which means 'no undercuts'.",
+    "tags": [
+      "prosthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      306.8822021484375,
+      411.321533203125,
+      336.0422058105469
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "A3 Niet beschadigd buurelementen",
+    "images": [],
+    "summary": "The text refers to the importance of not damaging adjacent teeth during dental procedures.",
+    "tags": [
+      "ethics_law",
+      "oral_surgery",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      355.482177734375,
+      530.5343627929688,
+      384.6421813964844
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "CRITERIA B (moet minimaal één voldoende zijn)",
+    "images": [],
+    "summary": "The text specifies a criterion labeled 'B' which requires at least one sufficient condition to be met.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      501.2822265625,
+      694.9750366210938,
+      530.4421997070312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "B1 Retentie",
+    "images": [],
+    "summary": "The text block appears to be a heading or title related to dental retention, possibly in a different language.",
+    "tags": [
+      "orthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      549.8822021484375,
+      247.27200317382812,
+      579.0421752929688
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "B2 Schouder (locatie van outline)",
+    "images": [],
+    "summary": "The text block refers to the location of an outline on the shoulder, labeled as B2.",
+    "tags": [
+      "anatomy"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      598.482177734375,
+      511.6582946777344,
+      627.6421508789062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "B3 Glad & Afgerond",
+    "images": [],
+    "summary": "The text block 'B3 Glad & Afgerond' does not provide enough information for a detailed summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      647.0822143554688,
+      353.9519958496094,
+      676.2421875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "Burs used:",
+    "images": [],
+    "summary": "The text block is incomplete and only mentions 'Burs used'.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      744.2822265625,
+      246.54959106445312,
+      773.4421997070312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "For occlusal reduction- 16 red",
+    "images": [],
+    "summary": "The text mentions a specific measurement for occlusal reduction using a red indicator, likely referring to a dental procedure or tool setting.",
+    "tags": [
+      "orthodontics",
+      "prosthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      792.8822021484375,
+      467.9495544433594,
+      822.0421752929688
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "Contact break- 10 blue",
+    "images": [],
+    "summary": "The text block mentions 'Contact break- 10 blue', which appears to be an incomplete or unclear statement possibly related to dental materials or equipment settings.",
+    "tags": [
+      "dental_materials"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      841.482177734375,
+      392.9136047363281,
+      870.6421508789062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "Axial reduction- 14 blue",
+    "images": [],
+    "summary": "The text refers to the axial reduction of a dental component, possibly indicating a measurement or specification marked as '14 blue'.",
+    "tags": [
+      "prosthodontics",
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      890.0822143554688,
+      404.8080139160156,
+      919.2421875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 8,
+    "text": "Polishing 16 red",
+    "images": [],
+    "summary": "The text block is too brief to provide a meaningful summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      938.6821899414062,
+      300.36962890625,
+      967.8421630859375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 9,
+    "text": "Endo preparatie:",
+    "images": [
+      "d45a835083484cbab74676f4109cac14.png",
+      "5694e71555e94e46945ad80351d33e9a.png",
+      "df2bcebb4a6e4fc08d69d8cb4d590cd3.png",
+      "fa61e012dc574d718e6a1cbfbf303bc0.png"
+    ],
+    "summary": "The text block introduces the topic of endodontic preparation, likely discussing techniques or procedures related to it.",
+    "tags": [
+      "endodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      767.5250244140625,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "Caries",
+    "images": [
+      "c263f5e02c5b47daa12fd5f1b072c77b.png",
+      "ae851d0d361d4051971917a30d580bc7.png",
+      "f9b91d83d7dd4a5e9f55353ad778a6f2.png"
+    ],
+    "summary": "Caries refers to the decay of teeth caused by bacterial activity leading to cavities.",
+    "tags": [
+      "pathology",
+      "diagnostics",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      373.635009765625,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "Types:",
+    "images": [],
+    "summary": "The text block appears to be a heading or introduction to a list or classification, but lacks further context or details.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      175.1100311279297,
+      279.3620910644531,
+      231.030029296875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "1. Diep caries: High chance of pulp",
+    "images": [],
+    "summary": "The text discusses the high risk of pulp exposure associated with deep caries.",
+    "tags": [
+      "pathology",
+      "endodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      271.54443359375,
+      896.9940795898438,
+      327.46441650390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "exposure",
+    "images": [],
+    "summary": "The term 'exposure' in a dental context often refers to the condition where the pulp of a tooth is exposed due to decay or trauma, requiring immediate attention to prevent infection or further damage.",
+    "tags": [
+      "endodontics",
+      "diagnostics",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      184.86610412597656,
+      322.97869873046875,
+      409.79412841796875,
+      378.898681640625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "2. Shallow caries",
+    "images": [],
+    "summary": "The text block refers to a type of dental caries known as shallow caries.",
+    "tags": [
+      "pathology",
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      419.4130859375,
+      508.33807373046875,
+      475.33306884765625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "3. Arrested caries: Do not drill, will be",
+    "images": [],
+    "summary": "The text discusses the management of arrested caries, emphasizing that drilling is not necessary.",
+    "tags": [
+      "pathology",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      515.8475341796875,
+      943.986083984375,
+      571.7675170898438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "indicated in history.",
+    "images": [],
+    "summary": "The text block is incomplete and lacks sufficient context for analysis.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      184.86610412597656,
+      567.2819213867188,
+      626.7540893554688,
+      623.201904296875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "Minimal invasive but good entrance of \npreparation",
+    "images": [],
+    "summary": "The text discusses the importance of minimal invasive yet effective preparation in dental procedures.",
+    "tags": [
+      "endodontics",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      663.71630859375,
+      944.4020385742188,
+      771.0706787109375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "Remove caries in all Enamel-dentine outline \n+ 1 mm into dentine in case of deep caries",
+    "images": [],
+    "summary": "The text advises removing caries from the enamel-dentine outline and extending 1 mm into the dentine for deep caries cases.",
+    "tags": [
+      "endodontics",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      811.5851440429688,
+      1064.402099609375,
+      918.9395141601562
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 10,
+    "text": "Remove all caries which stains in shallow \ncaries.",
+    "images": [],
+    "summary": "The text advises removing all carious material that is stained in shallow caries.",
+    "tags": [
+      "pathology",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      114.86609649658203,
+      959.4539184570312,
+      1011.74609375,
+      1066.808349609375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "Gebits reiniging: 1 hour prep, 10 min test",
+    "images": [
+      "bf9ca885befd4fd1a06453124664a8dc.png",
+      "ce9f8d7495eb492ab9de41b40b404189.png",
+      "ec98cf4be91245218f554a7b1a272d98.png",
+      "34722e80834e41f1963bf10a63ca7491.png"
+    ],
+    "summary": "The text block refers to a dental cleaning procedure with a preparation time of 1 hour and a test duration of 10 minutes.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      1670.9049072265625,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• Operator positions",
+    "images": [],
+    "summary": "The text block likely discusses the various positions a dental operator may take during procedures.",
+    "tags": [
+      "orthodontics",
+      "oral_surgery",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      236.19009399414062,
+      462.804443359375,
+      290.5275573730469
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• Pocket sonde",
+    "images": [],
+    "summary": "The text block mentions 'Pocket sonde', likely referring to a dental instrument used for measuring periodontal pocket depths.",
+    "tags": [
+      "periodontology",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      312.3462829589844,
+      381.352294921875,
+      366.6837463378906
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• Scalar: H6/7, 204 SD",
+    "images": [],
+    "summary": "The text block lists specific dental instruments or tools, possibly scalers, identified by their model numbers or codes.",
+    "tags": [
+      "dental_materials"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      388.5024719238281,
+      503.5684814453125,
+      442.8399353027344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• Questions: Canine fossa,",
+    "images": [],
+    "summary": "The text block refers to a question about the canine fossa.",
+    "tags": [
+      "anatomy",
+      "question_block"
+    ],
+    "type": "question",
+    "block_coords": [
+      99.0,
+      464.6587219238281,
+      570.990234375,
+      518.9961547851562
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• Salivary ducts",
+    "images": [],
+    "summary": "The text block mentions 'Salivary ducts', which are part of the salivary gland system in the mouth.",
+    "tags": [
+      "anatomy"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      540.8147583007812,
+      444.06524658203125,
+      595.1522216796875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• Gracy’s curette",
+    "images": [],
+    "summary": "Gracy's curette is likely a dental instrument used in periodontal therapy.",
+    "tags": [
+      "periodontology",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      616.970947265625,
+      414.34271240234375,
+      671.3084106445312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• 1-2",
+    "images": [],
+    "summary": "The text block seems to be a reference to a specific section or page range, but lacks context for further analysis.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      693.127197265625,
+      273.46319580078125,
+      747.4646606445312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• 11-14",
+    "images": [],
+    "summary": "The text block contains a range of numbers, possibly indicating ages or chapter numbers.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      769.2833251953125,
+      294.54669189453125,
+      823.6207885742188
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• 12-13",
+    "images": [],
+    "summary": "The text block contains a reference to pages 12-13.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      845.439453125,
+      294.54669189453125,
+      899.7769165039062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 11,
+    "text": "• After 5",
+    "images": [],
+    "summary": "The text block appears to be incomplete and does not provide sufficient information for analysis.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      921.5956420898438,
+      307.8186950683594,
+      975.93310546875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 12,
+    "text": "Intake gesprek",
+    "images": [
+      "edfaf6e8606d4e3c91b5b2b229112525.png",
+      "c82545b1200b4c409eea1bb24f71b050.png"
+    ],
+    "summary": "The text block is titled 'Intake gesprek', which translates to 'Intake conversation' in English, but no further content is provided to analyze.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      679.719970703125,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 12,
+    "text": "• Course: 3 sessions, 1 homework assessment. Cost 170 euro",
+    "images": [],
+    "summary": "The course consists of three sessions and one homework assessment, costing 170 euros.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      214.94790649414062,
+      1460.23193359375,
+      283.7295227050781
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 12,
+    "text": "• Duration 10-15 min",
+    "images": [],
+    "summary": "The text block indicates a duration of 10-15 minutes.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      311.3822937011719,
+      586.343994140625,
+      380.1639099121094
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 12,
+    "text": "• Structuur:",
+    "images": [],
+    "summary": "The text block appears to be incomplete and lacks sufficient context to provide a meaningful summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      407.8167419433594,
+      372.8399963378906,
+      476.5983581542969
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 12,
+    "text": "1.vraagt naar reden komst  \n2. vraagt naar eigen indruk gebitsgezondheid en de verwachtingen \n3. legt de procedures goed uit \n4. brengt de consequenties en kosten ter sprake - not sure  \n5. maakt goed contact verbaal en non-verbaal  \n6. reflecteert op gemoedstoestand en toont empathie  \n7. vraagt door en vat samen  \n8. neemt GVL goed door en haalt aan wat voor behandeling van belang is \n9. herkent noodzaak nadere instructie patiënt of het doen van navraag. \n10. goede taalvaardigheid( in het Nederlands)",
+    "images": [],
+    "summary": "The text outlines key communication and procedural steps for dental practitioners to effectively engage with patients, including explaining procedures, discussing costs, and demonstrating empathy.",
+    "tags": [
+      "ethics_law",
+      "clinical_guideline",
+      "communication"
+    ],
+    "type": "text",
+    "block_coords": [
+      135.0,
+      466.79278564453125,
+      911.22998046875,
+      789.7927856445312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 13,
+    "text": "Ethiek:  Out of the blue",
+    "images": [
+      "07e0bd73deed47daadfeffc2f4ef402c.png"
+    ],
+    "summary": "The text block refers to an unexpected or surprising aspect of ethics.",
+    "tags": [
+      "ethics_law"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      1007.39501953125,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 13,
+    "text": "• Its not just ethics.",
+    "images": [],
+    "summary": "The text briefly mentions that the subject is not limited to ethics alone.",
+    "tags": [
+      "ethics_law"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      230.22372436523438,
+      539.1119995117188,
+      299.0053405761719
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 13,
+    "text": "• Also specifieke patiëntengroepen- gerodontologie, angst, verstandelijk en",
+    "images": [],
+    "summary": "The text discusses specific patient groups in dentistry, including gerodontology, anxiety, and intellectual disabilities.",
+    "tags": [
+      "pedodontics",
+      "gerodontology",
+      "ethics_law"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      326.6581115722656,
+      1735.703857421875,
+      395.4397277832031
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 13,
+    "text": "motorisch beperkten.",
+    "images": [],
+    "summary": "The text block appears to be incomplete and lacks context for analysis.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      384.108642578125,
+      618.2639770507812,
+      440.02862548828125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 13,
+    "text": "• Extra reading recommended: Psychopathologie, kindertandheelkunde-",
+    "images": [],
+    "summary": "The text block suggests extra reading on psychopathology in pediatric dentistry.",
+    "tags": [
+      "pedodontics",
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      474.5268859863281,
+      1676.327880859375,
+      543.3084716796875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 13,
+    "text": "Behaviour management.",
+    "images": [],
+    "summary": "The text block likely pertains to strategies and techniques for managing patient behavior in a dental setting.",
+    "tags": [
+      "pedodontics",
+      "ethics_law",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      531.9774169921875,
+      670.72802734375,
+      587.8973999023438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "Casus 1: Lang behandelplan",
+    "images": [
+      "bdd7cb4b3b68439ab7bf97c47d1f381f.png"
+    ],
+    "summary": "The text block refers to a case study involving a long-term treatment plan.",
+    "tags": [
+      "case_study",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      1199.3250732421875,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Fase 1: Acute Behandling",
+    "images": [],
+    "summary": "The text introduces the concept of 'Fase 1: Acute Behandling' which likely refers to an initial phase of acute treatment in a dental context.",
+    "tags": [
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      232.23980712890625,
+      479.72784423828125,
+      274.19659423828125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Fase 2: Initiale Behandling",
+    "images": [],
+    "summary": "The text refers to 'Fase 2: Initiale Behandling,' which suggests a stage in a treatment process.",
+    "tags": [
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      291.27178955078125,
+      487.83843994140625,
+      333.22857666015625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Fase 3: Evaluatiefase",
+    "images": [],
+    "summary": "The text block refers to a phase called 'Evaluatiefase' which is likely part of a structured process or protocol.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      350.3037109375,
+      421.1092834472656,
+      392.260498046875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Fase 4: Langtermijnbehandling",
+    "images": [],
+    "summary": "The text refers to 'Phase 4: Long-term treatment,' indicating a stage in a treatment plan.",
+    "tags": [
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      409.335693359375,
+      547.0133056640625,
+      451.29248046875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Fase 4 Evaluatie en Nazorg",
+    "images": [],
+    "summary": "The text refers to Phase 4, which involves evaluation and aftercare in a dental context.",
+    "tags": [
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      468.36767578125,
+      499.9603576660156,
+      510.324462890625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Important to know estimate cost of restorations, RCT, single crown, bridge, implant and duration of each fase of treatment.",
+    "images": [],
+    "summary": "The text emphasizes the importance of knowing the estimated costs and duration for various dental treatments such as restorations, root canal therapy, crowns, bridges, and implants.",
+    "tags": [
+      "prosthodontics",
+      "endodontics",
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      586.4317016601562,
+      1746.615478515625,
+      628.3884887695312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Four important trajectories: Behoud, Veiligstellen, TempAfbouw and Afbouw",
+    "images": [],
+    "summary": "The text mentions four important trajectories: Behoud, Veiligstellen, TempAfbouw, and Afbouw.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      645.4636840820312,
+      1133.69677734375,
+      687.4204711914062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Important to know: Voordelen en Nadelen van :",
+    "images": [],
+    "summary": "The text block introduces the importance of understanding the advantages and disadvantages of a certain topic.",
+    "tags": [
+      "definition",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      704.49560546875,
+      750.9192504882812,
+      746.452392578125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Plaatprosthese, Frame prothese, Etsbrug, Brug",
+    "images": [],
+    "summary": "The text lists different types of dental prostheses and bridges.",
+    "tags": [
+      "prosthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      763.527587890625,
+      799.9733276367188,
+      805.484375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Implant",
+    "images": [],
+    "summary": "The text block refers to the term 'Implant' in a dental context.",
+    "tags": [
+      "prosthodontics",
+      "oral_surgery",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      822.5596313476562,
+      290.2084655761719,
+      864.5164184570312
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Orthodontics",
+    "images": [],
+    "summary": "The text block is related to the field of orthodontics.",
+    "tags": [
+      "orthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      881.5916137695312,
+      363.40850830078125,
+      923.5484008789062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 14,
+    "text": "• Composite, indirect restoration, crown",
+    "images": [],
+    "summary": "The text block lists types of dental restorations including composite, indirect restoration, and crown.",
+    "tags": [
+      "dental_materials",
+      "prosthodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      940.6235961914062,
+      676.8216552734375,
+      982.5803833007812
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "Endo casus:",
+    "images": [
+      "22446bff82f34663910f23467c1e4774.png",
+      "44881fa60af7452f830c55558887c365.png"
+    ],
+    "summary": "The text block appears to be the beginning of a case study related to endodontics.",
+    "tags": [
+      "endodontics",
+      "case_study"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      599.8200073242188,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "• DETI and CEB score identification",
+    "images": [],
+    "summary": "The text block refers to the identification of DETI and CEB scores, likely related to dental assessments or evaluations.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      352.7959899902344,
+      899.9759521484375,
+      421.5776062011719
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "• Kwaliteit van kanalvullingen- Refer Canvas video,10 marks",
+    "images": [],
+    "summary": "The text refers to a video about the quality of canal fillings, worth 10 marks.",
+    "tags": [
+      "endodontics",
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      449.2304382324219,
+      1424.5198974609375,
+      518.0120239257812
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "• Casus:",
+    "images": [],
+    "summary": "The text block is incomplete and does not provide enough information for analysis.",
+    "tags": [
+      "case_study"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      545.6648559570312,
+      322.1520080566406,
+      614.4464111328125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "• Endodontic diagnosis and treatment planning",
+    "images": [],
+    "summary": "The text focuses on the process of diagnosing and planning treatment for endodontic cases.",
+    "tags": [
+      "endodontics",
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      642.0992431640625,
+      1196.23193359375,
+      710.8807983398438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "• Trauma related questions",
+    "images": [],
+    "summary": "The text block refers to questions related to dental trauma.",
+    "tags": [
+      "question_block",
+      "oral_surgery"
+    ],
+    "type": "question",
+    "block_coords": [
+      147.0,
+      738.5336303710938,
+      762.3119506835938,
+      807.315185546875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 15,
+    "text": "• Resorption related question",
+    "images": [],
+    "summary": "The text block refers to a question about resorption, likely related to dental or bone resorption processes.",
+    "tags": [
+      "question_block",
+      "pathology",
+      "diagnostics"
+    ],
+    "type": "question",
+    "block_coords": [
+      147.0,
+      834.968017578125,
+      801.3359985351562,
+      903.7495727539062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "Casus 2 en 3",
+    "images": [
+      "7b4f3ba83c6549658b79babe341f88c2.png"
+    ],
+    "summary": "The text block refers to cases 2 and 3, likely indicating specific clinical scenarios or examples.",
+    "tags": [
+      "case_study"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      620.3049926757812,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "• Casus 2:",
+    "images": [],
+    "summary": "The text block appears to introduce a case study labeled 'Casus 2'.",
+    "tags": [
+      "case_study"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      218.18020629882812,
+      362.18402099609375,
+      286.9618225097656
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "• Caries identification and treatment in x-rays and clinical pictures: ICDAS",
+    "images": [],
+    "summary": "The text discusses the identification and treatment of caries using x-rays and clinical pictures, specifically referencing the ICDAS system.",
+    "tags": [
+      "diagnostics",
+      "radiology"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      314.6145935058594,
+      1751.6878662109375,
+      383.3962097167969
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "classification- Dec 2024.",
+    "images": [],
+    "summary": "The text block appears to reference a classification system with a date of December 2024.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      195.0,
+      372.06512451171875,
+      749.783935546875,
+      427.985107421875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "• Kindertandheelkunde- June 2024",
+    "images": [],
+    "summary": "The text block refers to a publication or event related to pediatric dentistry scheduled for June 2024.",
+    "tags": [
+      "pedodontics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      462.4833068847656,
+      921.5758666992188,
+      531.264892578125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "• Casus 3:",
+    "images": [],
+    "summary": "The text block refers to a case study labeled as 'Casus 3'.",
+    "tags": [
+      "case_study"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      558.917724609375,
+      362.18402099609375,
+      627.6992797851562
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "• Trauma",
+    "images": [],
+    "summary": "The text block is titled 'Trauma', indicating a focus on injury-related content in dentistry.",
+    "tags": [
+      "oral_surgery",
+      "pathology"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      655.3521728515625,
+      379.99200439453125,
+      724.1337280273438
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 16,
+    "text": "• Resorption",
+    "images": [],
+    "summary": "The text block refers to the dental process of resorption.",
+    "tags": [
+      "pathology",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      751.7865600585938,
+      443.0159912109375,
+      820.568115234375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "Methodology- Openbook- yay!",
+    "images": [
+      "8b6a4a86c1fc4d49b6bcf43cb460366f.png"
+    ],
+    "summary": "The text block appears to be a playful expression rather than informative content from a dental textbook.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      1307.614990234375,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Articles are different every year",
+    "images": [],
+    "summary": "The text mentions that articles vary annually.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      243.1314697265625,
+      612.2108154296875,
+      291.9664001464844
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• But the questions are always similar or same:",
+    "images": [],
+    "summary": "The text suggests that questions are often similar or the same.",
+    "tags": [
+      "question_block"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      311.1768798828125,
+      840.6831665039062,
+      360.0118103027344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• PICO",
+    "images": [],
+    "summary": "PICO is a framework used to formulate clinical questions and guide evidence-based practice in dentistry.",
+    "tags": [
+      "diagnostics",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      379.2222900390625,
+      281.44561767578125,
+      428.0572204589844
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Onderzoek design",
+    "images": [],
+    "summary": "The text block refers to 'Onderzoek design', which translates to 'Research design' in English, indicating a focus on the structure and methodology of conducting research studies.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      447.2677001953125,
+      468.272216796875,
+      496.1026306152344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Null hypothesis",
+    "images": [],
+    "summary": "The text block refers to the concept of a null hypothesis.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      515.3131103515625,
+      433.57879638671875,
+      564.1480712890625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Selectie/observational bias",
+    "images": [],
+    "summary": "The text mentions 'selectie/observational bias', a type of bias in research studies.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      583.3585815429688,
+      609.6019897460938,
+      632.1934814453125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Type of statistics",
+    "images": [],
+    "summary": "The text block mentions a type of statistics.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      651.4039916992188,
+      455.01507568359375,
+      700.2388916015625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Evidence ladder",
+    "images": [],
+    "summary": "The text block refers to the concept of an 'evidence ladder' which is likely a hierarchy used to evaluate the strength of evidence in dental research or practice.",
+    "tags": [
+      "diagnostics",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      719.4494018554688,
+      444.92742919921875,
+      768.2843017578125
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Betrouwbaarheid",
+    "images": [],
+    "summary": "The text block contains the Dutch word 'Betrouwbaarheid', which translates to 'Reliability' in English.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      787.4948120117188,
+      451.1981201171875,
+      836.3297119140625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Validiteit",
+    "images": [],
+    "summary": "The text block contains the term 'Validiteit', which refers to the concept of validity, likely in the context of dental research or assessment.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      855.540283203125,
+      327.5217590332031,
+      904.375244140625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 17,
+    "text": "• Blindering",
+    "images": [],
+    "summary": "The text block contains the term 'Blindering' without additional context or explanation.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      923.585693359375,
+      343.91424560546875,
+      972.420654296875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "Statistics- Open book - yay!",
+    "images": [
+      "6135da1740f3419e807027d384070884.png"
+    ],
+    "summary": "The text expresses enthusiasm about having an open book for statistics.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      1176.969970703125,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• Descriptive statistics: Mean, Median, mode, range, Type of data(nominal, ordinal, range, ratio)",
+    "images": [],
+    "summary": "The text discusses descriptive statistics, including mean, median, mode, range, and types of data such as nominal, ordinal, range, and ratio.",
+    "tags": [
+      "definition",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      189.33102416992188,
+      1830.906005859375,
+      247.10755920410156
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• Inferential statistics: Hypothesis testing, Standard deviation and Type I and II error.",
+    "images": [],
+    "summary": "The text discusses inferential statistics, focusing on hypothesis testing, standard deviation, and Type I and II errors.",
+    "tags": [
+      "diagnostics",
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      270.4438781738281,
+      1638.9423828125,
+      328.2204284667969
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• T test",
+    "images": [],
+    "summary": "The text block refers to a statistical test known as the T test.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      351.5567932128906,
+      311.3039855957031,
+      409.3333435058594
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• Chi square test",
+    "images": [],
+    "summary": "The text block mentions the Chi square test, a statistical method used to assess the association between categorical variables.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      432.6697082519531,
+      482.3414611816406,
+      490.4462585449219
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• Anova test",
+    "images": [],
+    "summary": "The text block mentions the Anova test, a statistical method used to analyze differences among group means in a sample.",
+    "tags": [
+      "diagnostics"
+    ],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      513.7825927734375,
+      401.6611328125,
+      571.5591430664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• Questions with tables to calculate > or < mean, median- are simple if you know the concept",
+    "images": [],
+    "summary": "The text discusses the simplicity of questions involving tables to calculate mean or median if the concept is understood.",
+    "tags": [
+      "table",
+      "question_block",
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      594.8955078125,
+      1799.416259765625,
+      652.6720581054688
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "and shortcuts, no need to calculate all the values. Calculate only if you have enough time and \nwant to double check.",
+    "images": [],
+    "summary": "The text advises calculating values only if there is enough time and a desire to double-check, suggesting the use of shortcuts otherwise.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      139.32000732421875,
+      643.6419677734375,
+      1829.45458984375,
+      733.9276123046875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• Learn from: Notes on google drive, ChatGPT or YouTube",
+    "images": [],
+    "summary": "The text suggests learning from resources like Google Drive notes, ChatGPT, or YouTube.",
+    "tags": [
+      "card_learning"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      762.6341552734375,
+      1178.8505859375,
+      820.4107055664062
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "• The values of t,F score en chi-squares are given in the questions: no need to print and take",
+    "images": [],
+    "summary": "The text mentions that values for t, F score, and chi-squares are provided in the questions, so there is no need to print them.",
+    "tags": [
+      "question_block"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      843.7470703125,
+      1784.699462890625,
+      901.5236206054688
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 18,
+    "text": "the values.",
+    "images": [],
+    "summary": "The text block is too short and lacks context to provide a meaningful summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      139.32000732421875,
+      892.4935302734375,
+      344.7100830078125,
+      939.46630859375
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 19,
+    "text": "During the exam:",
+    "images": [
+      "e7ee852024d7450e850c02924fe16d34.png"
+    ],
+    "summary": "The text block appears to be incomplete and does not provide sufficient information for a summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      786.39501953125,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 19,
+    "text": "• Identity card: Passport or Dutch ID",
+    "images": [],
+    "summary": "The text specifies that an identity card can be a Passport or Dutch ID.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      332.2478942871094,
+      916.9678955078125,
+      401.0295104980469
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 19,
+    "text": "• Dictionary: English to Nederland, Nederland to English are allowed.",
+    "images": [],
+    "summary": "The text block indicates that translations between English and Dutch are permitted.",
+    "tags": [
+      "definition"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      428.6823425292969,
+      1609.367919921875,
+      497.4639587402344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 19,
+    "text": "• For open book: Statistics and Methodology",
+    "images": [],
+    "summary": "The text block refers to a section on statistics and methodology in an open book format.",
+    "tags": [
+      "reference"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      525.1167602539062,
+      1089.431884765625,
+      593.8983154296875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 19,
+    "text": "• You can take any type of notes, books.",
+    "images": [],
+    "summary": "The text suggests that you can take notes from any type of books.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      621.5511474609375,
+      1041.47998046875,
+      690.3327026367188
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 20,
+    "text": "Passing scores:",
+    "images": [
+      "da3c3bbbde8c4bebb1747d32fe6c804e.png"
+    ],
+    "summary": "The text block mentions passing scores, likely in the context of exams or assessments.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      78.21478271484375,
+      737.7750244140625,
+      179.5347900390625
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 20,
+    "text": "• Theory: 80%, 3 out of 4 must be pass score(5.5).",
+    "images": [],
+    "summary": "The theory component requires an 80% pass rate, with at least 3 out of 4 sections needing a score of 5.5 or higher to pass.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      208.21884155273438,
+      1220.2799072265625,
+      277.0004577636719
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 20,
+    "text": "• Preclinical: All have to be individually passed.",
+    "images": [],
+    "summary": "The statement emphasizes that all preclinical courses must be passed individually.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      304.6532287597656,
+      1144.4879150390625,
+      373.4348449707031
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 20,
+    "text": "• Treatment planning: Casus 1/2/3: 2 out of 3 must be pass. Pass score is",
+    "images": [],
+    "summary": "The text discusses the requirement for passing treatment planning cases, where 2 out of 3 cases must be passed to achieve a passing score.",
+    "tags": [
+      "exam_tip",
+      "clinical_guideline"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      401.0876159667969,
+      1703.11181640625,
+      469.8692321777344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 20,
+    "text": "55%?",
+    "images": [],
+    "summary": "The text block contains a percentage value, possibly indicating a statistical or quantitative measure.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      458.5382080078125,
+      275.0639953613281,
+      514.4581909179688
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 21,
+    "text": "What happens when you fail? \nDepends on your situation",
+    "images": [
+      "f8e247095eb846a8a4e606a177d9a8c7.png"
+    ],
+    "summary": "The outcome of failure varies depending on the specific circumstances.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      98.5999984741211,
+      78.21478271484375,
+      1261.969970703125,
+      246.852294921875
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 21,
+    "text": "• Aanvullende cursus",
+    "images": [],
+    "summary": "The text block refers to an additional course.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      332.2478942871094,
+      579.0960083007812,
+      401.0295104980469
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 21,
+    "text": "• Repeat everything after 2 years. This means you have to repeat the language",
+    "images": [],
+    "summary": "The text suggests repeating a certain process or content every two years.",
+    "tags": [
+      "exam_tip"
+    ],
+    "type": "text",
+    "block_coords": [
+      99.0,
+      428.6823425292969,
+      1804.2479248046875,
+      497.4639587402344
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 21,
+    "text": "test also.",
+    "images": [],
+    "summary": "The text block contains insufficient information to provide a meaningful summary.",
+    "tags": [],
+    "type": "text",
+    "block_coords": [
+      147.0,
+      486.1328125,
+      355.0320129394531,
+      542.0527954101562
+    ],
+    "block_id": -1
+  },
+  {
+    "page": 22,
+    "text": "Questions?",
+    "images": [
+      "2df1f9d5dde94da3be575864b546b508.png"
+    ],
+    "summary": "The text block contains a prompt for questions.",
+    "tags": [
+      "question_block"
+    ],
+    "type": "question",
+    "block_coords": [
+      708.5048828125,
+      463.165283203125,
+      1173.1998291015625,
+      564.4852905273438
+    ],
+    "block_id": -1
+  }
+]

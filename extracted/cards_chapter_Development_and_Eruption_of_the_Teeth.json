@@ -1,0 +1,154 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What are the three main divisions of a tooth crown?",
+      "answer": "The crown of a tooth may be divided into thirds in three directions: incisocervically or occlusocervically, mesiodistally, or labiolingually or buccolingually.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is a line angle in dental anatomy?",
+      "answer": "A line angle is formed by the junction of two surfaces and derives its name from the combination of the two surfaces that join.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What is a point angle in dental anatomy?",
+      "answer": "A point angle is formed by the junction of three surfaces. The point angle also derives its name from the combination of the names of the surfaces forming it.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "Which of the following teeth is not considered a succedaneous tooth (Universal system)?\nA. 24\nB. 19\nC. 28\nD. 11",
+      "answer": "B. 19",
+      "tags": [
+        "orthodontics",
+        "question_block"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How are the line angles of anterior teeth named?",
+      "answer": "The line angles of the anterior teeth are named based on the surfaces they join, such as mesiolabial, distolingual, distolabial, labioincisal, mesiolingual, and linguoincisal.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the table of measurements for teeth?",
+      "answer": "The table of measurements is used for carving individual teeth to average dimensions, which cannot be set into place for an ideal occlusion.",
+      "tags": [
+        "dental_materials",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the primary function of the dental pulp?\nA. Enamel\nB. Dentin\nC. Cementum\nD. Periodontal ligament",
+      "answer": "B. Dentin",
+      "tags": [
+        "physiology",
+        "question_block"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What are the stages of tooth development covered in the chapter?",
+      "answer": "The stages include prenatal, perinatal, and postnatal tooth development.",
+      "tags": [
+        "physiology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is enamel hypoplasia?",
+      "answer": "Enamel hypoplasia is a general term referring to all quantitative defects of enamel thickness, ranging from single or multiple pits to entirely missing enamel.",
+      "tags": [
+        "pathology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the importance of learning dental anatomy terminology.",
+      "answer": "Terminology is an established basis for communication, and the terms used in describing the morphology of teeth are used in every aspect of dental practice.",
+      "tags": [
+        "definition",
+        "summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the role of cementum in tooth anatomy?",
+      "answer": "Cementum covers the root of the tooth in a thin layer and is similar in some ways to bone tissue.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which permanent teeth tend to show evidence of calcification at birth?\nA. Central incisors\nB. Canines\nC. First molar\nD. Second molar",
+      "answer": "C. First molar",
+      "tags": [
+        "physiology",
+        "question_block"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How do practitioners assess dental age?",
+      "answer": "Practitioners assess dental age by looking into a child's mouth to note the teeth that have emerged through the gingiva.",
+      "tags": [
+        "diagnostics",
+        "clinical_guideline"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What fraction of the tooth root is developed when a primary tooth crown passes through the alveolar gingiva?\nA. 3/4\nB. 2/3\nC. 1/2\nD. 1/4",
+      "answer": "B. 2/3",
+      "tags": [
+        "physiology",
+        "question_block"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the primary first molars' emergence?",
+      "answer": "The primary first molars' emergence marks the beginning of the development of occlusion and a neuromuscular substrate for more complex mandibular and tongue functions.",
+      "tags": [
+        "physiology",
+        "orthodontics"
+      ],
+      "image_hint": false
+    }
+  ]
+}

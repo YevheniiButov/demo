@@ -1,0 +1,124 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the primary function of maxillary incisors?",
+      "answer": "The primary function of maxillary incisors is to punch and cut food material during the process of mastication.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the difference between an incisal ridge and an incisal edge?",
+      "answer": "The incisal ridge is the rounded portion of the crown in newly erupted incisors, while the incisal edge is formed by the junction of the linguoincisal surface and the labial surface after occlusal wear.",
+      "tags": [
+        "definition",
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which tooth is the widest mesiodistally among the anterior teeth?",
+      "answer": "Maxillary central incisor",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is a shovel-shaped incisor?",
+      "answer": "A shovel-shaped incisor is a variation with exaggerated marginal ridges, common in Mongoloid races.",
+      "tags": [
+        "anatomy",
+        "pathology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is a common anomaly of the maxillary central incisor?",
+      "answer": "A short root or an unusually long crown.",
+      "tags": [
+        "pathology",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How does gender affect the size of maxillary central incisors?",
+      "answer": "Crown sizes are gender dimorphic, with male incisors generally larger than female incisors.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the characteristics of the maxillary central incisor.",
+      "answer": "The maxillary central incisor is the widest anterior tooth mesiodistally, functions mainly in cutting food, has a distinct incisal ridge, and can exhibit variations such as shovel-shaped incisors.",
+      "tags": [
+        "anatomy",
+        "summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the crest of curvature in the central incisor?",
+      "answer": "The crest of curvature represents the contact area with neighboring teeth and affects the level of the contact area.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which aspect of the maxillary central incisor shows a scoop-like form?",
+      "answer": "The lingual aspect.",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How does the incisal ridge change over time?",
+      "answer": "The incisal ridge becomes an incisal edge as occlusal wear creates a flattened surface.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the typical length of the crown of a maxillary central incisor?",
+      "answer": "10 to 11 mm",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the role of the mesial and distal marginal ridges in the central incisor?",
+      "answer": "They border the concavity on the lingual surface, contributing to the scoop-like form.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    }
+  ]
+}

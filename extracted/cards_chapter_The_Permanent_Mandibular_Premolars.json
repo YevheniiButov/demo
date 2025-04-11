@@ -1,0 +1,126 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the general shape of the crown of the maxillary first premolar from the occlusal aspect?",
+      "answer": "The occlusal aspect of the maxillary first premolar resembles a roughly six-sided or hexagonal figure.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "definition",
+        "diagram"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Describe the mesial developmental depression on the maxillary first premolar.",
+      "answer": "The mesial developmental depression is a marked depression on the mesial surface of the crown, continuing apically beyond the cervical line and joining a deep developmental depression between the roots.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which cusp is generally shorter on the maxillary first premolar?",
+      "answer": "Lingual cusp",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the significance of the buccal and lingual triangular ridges on the maxillary first premolar.",
+      "answer": "The buccal triangular ridge is prominent and converges with the tip of the buccal cusp, while the lingual triangular ridge is less prominent and converges with the tip of the lingual cusp.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the usual curvature of the cervical line on the mesial surface of the maxillary first premolar?",
+      "answer": "About 1 mm on average",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key differences between the maxillary first and second premolars.",
+      "answer": "The maxillary first premolar typically has two roots and a more pronounced mesial developmental depression, while the second premolar usually has a single root and lacks the mesial depression.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the typical length difference between the buccal and lingual cusps of the maxillary first premolar?",
+      "answer": "The lingual cusp is always shorter than the buccal cusp, with an average difference of about 1 mm.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Where is the crest of curvature of the buccal outline of the maxillary first premolar located?",
+      "answer": "Approximately at the junction of the cervical and middle thirds",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the root bifurcation of the maxillary first premolar.",
+      "answer": "When bifurcated, the root of the maxillary first premolar is bifurcated for half its total length, with the bifurcation beginning more occlusally mesially than distally.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which aspect of the maxillary first premolar is most likely to show a developmental groove in the enamel of the marginal ridge?",
+      "answer": "Mesial aspect",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Provide an overview of the occlusal surface features of the maxillary first premolar.",
+      "answer": "The occlusal surface is circumscribed by cusp and marginal ridges, with a well-defined central developmental groove dividing it evenly buccolingually, and no supplemental grooves in most cases.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_summary"
+      ],
+      "image_hint": false
+    }
+  ]
+}

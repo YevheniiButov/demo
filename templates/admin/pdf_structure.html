@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Структура PDF: {{ filename }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Структура PDF: {{ filename }}</h1>
+        <a href="{{ url_for('pdf_bp.pdf_upload') }}" class="button">Назад к загруженным файлам</a>
+
+        {% if structure %}
+            {% if structure|length > 0 %}
+                <ul>
+                    {% for chapter in structure %}
+                        <li>
+                            <h2>{{ chapter.title }}</h2>
+                            <p><strong>Тема:</strong> {{ chapter.theme }}</p>
+                            <p><strong>Начальная страница:</strong> {{ chapter.start_page }}</p>
+                            <p><strong>Конечная страница:</strong> {{ chapter.end_page }}</p>
+                            <p><strong>Количество блоков:</strong> {{ chapter.content_block_ids|length }}</p>
+                            <div class="actions">
+                                <a href="{{ url_for('pdf_bp.chapter_summary', filename=filename, chapter_index=loop.index0) }}" class="button">Создать конспект</a>
+                                <a href="{{ url_for('pdf_bp.chapter_cards', filename=filename, chapter_index=loop.index0) }}" class="button">Создать карточки</a>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p>Структура не найдена.</p>
+            {% endif %}
+        {% else %}
+            <p>Ошибка загрузки структуры.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

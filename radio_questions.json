@@ -1,0 +1,2290 @@
+[
+    {
+      "id": "8ef15e9e-9aa3-487c-bebb-d1227f22cd45",
+      "number": "1",
+      "question": "Een metalen restauratie geeft als röntgenbeeld:",
+      "options": [
+        {
+          "id": "a",
+          "text": "een radiopake structuur."
+        },
+        {
+          "id": "b",
+          "text": "een radiolucente structuur."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "abc8d1c4-6137-4e7a-b7e1-ec2189c9879c",
+      "number": "2",
+      "question": "Een verandering van de inschietrichting van de bundel t.o.v. een object kan aanzienlijke veranderingen in het beeld opleveren.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "a85ab9fb-6e00-46e7-998f-400d3c45e377",
+      "number": "3",
+      "question": "Bij de bissectriceregel-techniek worden geen filmhouders (instelapparaten) toegepast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "0f745f47-cd3a-4aa6-a332-e9dcc3ab8c28",
+      "number": "4",
+      "question": "De bissectrice is de lijn die de hoek tussen de as van het element en de as van de film in tweeën deelt (divides in half).",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "869ccbd6-f5ce-4541-a901-20ab41fe8b7a",
+      "number": "5",
+      "question": "Bij een divergerende bundel moet bij de bissectricetechniek de focus van het röntgenapparaat geplaatst worden op een lijn die door de apex en loodrecht op de bissectrice tussen film en element loopt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "ecfdd86a-1aee-466d-9e59-3300c75214cf",
+      "number": "6",
+      "question": "Bij het vervaardigen van een bissectriceopname dient het midden van de bundel op de apex te worden gericht (aimed at the apex).",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "107ddafb-e640-4c65-a54d-3614a0024c6f",
+      "number": "7",
+      "question": "Bij de bissectriceregel-techniek dient de röntgenbundel loodrecht op de film geplaatst te worden",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "3bd73616-de09-4cd4-8296-beba12303191",
+      "number": "8",
+      "question": "Wanneer bij een poging tot toepassing van de bissectriceregel-techniek de bundel loodrecht is gericht op de as van het element dan wordt dit element te kort op de foto afgebeeld.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9c5a2f0d-6fb9-41c5-9122-6f24d7f5594b",
+      "number": "9",
+      "question": "Wanneer bij een poging tot toepassing van de bissectriceregel-techniek de bundel loodrecht is gericht op film dan wordt dit element te kort op de foto afgebeeld.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "34e1aac9-6c09-475c-b13a-228f678e3a11",
+      "number": "10",
+      "question": "Als een gebitselement te kort wordt afgebeeld dan is de bundelrichting onjuist geweest, namelijk:",
+      "options": [
+        {
+          "id": "a",
+          "text": "te veel van mesiaal of distaal."
+        },
+        {
+          "id": "b",
+          "text": "te veel van boven- of onderaf. (too much from above and below)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "49eb4610-7b73-43ec-9ad9-abaaf38b5414",
+      "number": "12",
+      "question": "Als een gebitselement in de onderkaak te lang wordt afgebeeld dan is de bundelrichting",
+      "options": [
+        {
+          "id": "a",
+          "text": "te veel van bovenaf geweest."
+        },
+        {
+          "id": "b",
+          "text": "te veel van distaal geweest."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "e9b7b4e4-98cd-4c54-b1a5-859f0afce031",
+      "number": "13",
+      "question": "Een bissectriceregel-techniek met een divergerende bundel levert altijd vertekening (always yields) in een gebitselement op.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "2e59476f-d2d3-4aa7-86e3-49a2d0e6cbd8",
+      "number": "14",
+      "question": "Bij een opname (image) volgens de bissectriceregel-techniek met een divergerende bundel treedt vertekening in het beeld op.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "aab77a3e-cd94-49c1-9d4b-4377920f3665",
+      "number": "15",
+      "question": "Bij een juiste toepassing van de bissectriceregel-techniek treedt geen vergroting van de gebitselementen op.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist."
+        },
+        {
+          "id": "b",
+          "text": "Onjuist"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "a6190f65-8b9b-43cf-bd4c-1a1a37a5310b",
+      "number": "17",
+      "question": "Op een röntgenopname, genomen volgens de bissectriceregel-techniek, staan de wortelpunten van de elementen niet op de foto (roots of the teeth are not in the photo). Dit wordt veroorzaakt door een onjuiste horizontale instelling",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "dc10179e-10e0-4f02-9a91-4450053ee576",
+      "number": "18",
+      "question": "Op een röntgenopname, genomen volgens de bissectriceregel-techniek zijn de gebit elementen gedeeltelijk overlapt afgebeeld (the elements are overlapped). Dit komt door een onjuiste horizontale instelling",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "913d5ba2-9bfa-45c4-9fe1-138c689619fd",
+      "number": "19",
+      "question": "De juiste horizontale instelling van de bundel bij een opname volgens de bissectriceregeltechniek is verschillend van die bij de rechthoekregel-techniek.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "8102ee9d-f2af-4842-870b-b3956166793d",
+      "number": "20",
+      "question": "De juiste verticale instelling van de bundel bij een opname volgens de bissectriceregel-techniek is dezelfde als die bij de rechthoekregeltechniek.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "c06a9338-2a70-4cad-9f80-09e50413bdd4",
+      "number": "21",
+      "question": "Bij de bissectriceregeltechniek is de vertekening in het beeld minder bij gebruik van een lange tubus dan bij een korte tubus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "5eb9f176-d4bb-4b7f-aba8-9fcb91277f76",
+      "number": "1",
+      "question": "22-Bij een juiste toepassing van de bissectricetechniek met een röntgenapparaat met een divergerende bundel (beam) zal een gebitselement op ware grootte en zonder vertekening worden weergegeven.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist"
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "81808151-529d-4bb0-962d-ea39d14f88bf",
+      "number": "24",
+      "question": "Een bissectriceregel opname is de beste opnametechniek voor de diagnose van cariës.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "3cbee208-afe5-42de-a19f-8675a2b9910a",
+      "number": "25",
+      "question": "Vanwege (due to the) de vertekening kunnen er geen digitale beelden worden vervaardigd volgens de bissectrice techniek.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "d0a42799-a425-457e-b239-74f9a9c6f825",
+      "number": "26",
+      "question": "Bij de rechthoekregel-techniek staat de bundel loodrecht op de film.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "6cfeb90a-7fc4-4971-824a-f51301eb6a16",
+      "number": "27",
+      "question": "Het gebruik van filmhouders is een essentieel onderdeel (essential part) voor het toepassen (applying) van de rechthoekregeltechniek",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "4f697544-0e9a-4f7d-a141-ad4947172c2f",
+      "number": "28",
+      "question": "De rechthoekregel-techniek en de parallel-techniek zijn de twee verschillende technieken om intraorale periapicale foto’s mee te maken",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "c98c4391-e2d1-4caf-bc55-da245d24377f",
+      "number": "29",
+      "question": "Wanneer gebruik wordt gemaakt van de rechthoekregel-techniek, dat wil zeggen loodrecht op de film ingeschoten opnames:",
+      "options": [
+        {
+          "id": "a",
+          "text": "is de radiologische apex altijd gelegen op de plaats van de anatomische apex."
+        },
+        {
+          "id": "b",
+          "text": "is door overprojectie niet altijd goed te bepalen waar de anatomische apex zich bevindt."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "7114b0f5-06ec-4ab0-a377-e247015da7ff",
+      "number": "30",
+      "question": "Bij de rechthoekregel-techniek wordt een betere afbeelding van de cervicale randen van de gebitselementen verkregen dan bij de bissectriceregel-techniek",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "fb093bd9-9536-4087-bcbf-0a2e033241ed",
+      "number": "31",
+      "question": "Bij de rechthoek-techniek (evenwijdige bundel) treedt geen vertekening in het beeld op wanneer de bundel loodrecht op de film is geplaatst",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "ab862e53-90c0-46fc-9872-6273b8e090c3",
+      "number": "32",
+      "question": "Het botniveau wordt ten behoeve van parodontaal onderzoek het meest werkelijkheidsgetrouw afgebeeld op een.",
+      "options": [
+        {
+          "id": "a",
+          "text": "occlusale opname."
+        },
+        {
+          "id": "b",
+          "text": "Panoramaopname."
+        },
+        {
+          "id": "c",
+          "text": "Periapicale opname."
+        },
+        {
+          "id": "d",
+          "text": "bitewing opname."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "859bf222-dbae-4a4c-b6d4-774562c435cb",
+      "number": "33",
+      "question": "De beste opnametechniek om pockets zichtbaar te maken is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "de bitewingtechniek."
+        },
+        {
+          "id": "b",
+          "text": "de rechthoekregeltechniek."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "3c5a96de-12f7-4f46-9d06-bd7816cab63e",
+      "number": "34",
+      "question": "Bitewingopnamen worden gebruikt voor parodontale diagnostiek.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "63e631f8-6bcb-41b0-aa66-aafc31b764f8",
+      "number": "35",
+      "question": "Parodontaal botverlies is op periapicale opnamen beter te beoordelen dan op bitewings.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "1ffb5200-2c24-4880-91c4-d9e30771e7f1",
+      "number": "36",
+      "question": "De beste opnametechniek bij een patiënt met diepe pockets is",
+      "options": [
+        {
+          "id": "a",
+          "text": "een serie verticale bitewings links en rechts."
+        },
+        {
+          "id": "b",
+          "text": "periapicale opnamen van de premolaren en molaren."
+        },
+        {
+          "id": "c",
+          "text": "een orthopantomogram."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "7a898d4e-47f4-4459-93e2-44e41d072e01",
+      "number": "38",
+      "question": "Verticale bitewings zijn met name geschikt voor",
+      "options": [
+        {
+          "id": "a",
+          "text": "diagnostiek van parodontale botdefecten."
+        },
+        {
+          "id": "b",
+          "text": "diagnostiek van diepe cariës in onder- en bovenkaak tegelijk."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "4f3f2c2e-0373-488a-9d0a-da36de0d5d8b",
+      "number": "39",
+      "question": "Verticale bitewings worden bij patiënten die veel parodontale afbraak (breakdown) hebben gemaakt",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "8f22f651-4dd0-470c-be9d-6312023b477f",
+      "number": "40",
+      "question": "Een periapicale opname is te verkiezen boven een bitewingopname voor parodontale diagnostiek",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "84e86ebf-9711-4695-842b-97e9853bf521",
+      "number": "41",
+      "question": "Een histologische coupe van een dentinelaesie laat in het algemeen altijd een minder diepe laesie zien dan het beeld op de bitewing röntgenfoto.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "2492462c-55dc-4ccf-a27d-cfc650978f43",
+      "number": "42",
+      "question": "Op bitewings kan occlusale cariës minder goed worden opgespoord (detected)  dan approximale cariës.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "0c49aef9-d963-4671-a438-3f21490ba434",
+      "number": "43",
+      "question": "Op bitewings kan approximale cariës, wortelcariës en occlusale cariës goed worden opgespoord (detected).",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "8081746c-3569-40be-8354-73ef8e5b3b30",
+      "number": "44",
+      "question": "Welke opnametechniek is het meest geschikt (suitable) voor de diagnostiek van cariës",
+      "options": [
+        {
+          "id": "a",
+          "text": "periapicale opname."
+        },
+        {
+          "id": "b",
+          "text": "bitewing opname."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "b1cf5593-9dcb-454a-99bd-dc3b47e1d0e7",
+      "number": "45",
+      "question": "Bitewing röntgenfoto’s zijn niet geschikt voor het opsporen van secundaire cariës onder amalgaamvullingen vanwege een gebrek aan contrast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "92812fc1-afa5-45f7-85bd-aa8824bf1b5d",
+      "number": "46",
+      "question": "Verticale bitewings worden bij zittende en horizontale bitewings bij liggende patiënten gemaakt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "a8356fb0-2ae4-48e3-9d1a-04185263ecb8",
+      "number": "47",
+      "question": "Het voordeel van verticale bitewing is",
+      "options": [
+        {
+          "id": "a",
+          "text": "dat er minder approximale overlap optreedt."
+        },
+        {
+          "id": "b",
+          "text": "er meer van de processus alveolaris wordt afgebeeld."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "0c5a56dd-5a07-4c2f-a760-04d5dc0f6f82",
+      "number": "48",
+      "question": "In geval van wortelcariës is het aan te bevelen om verticale bitewings te maken:",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "57cb7492-c12d-4d41-bc5c-92540642047b",
+      "number": "49",
+      "question": "De hoeveelheid geëxtraheerde elementen uit een mond heeft invloed op de cariësdetectie m.b.v. bitewings",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "7f53716f-a73d-4e24-aa24-da41b250a73c",
+      "number": "50",
+      "question": "Cariës op het buccale vlak van een ondermolaar wordt bij een bitewingopname hoger geprojecteerd op de foto dan cariës op het linguale vlak.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "c1ddd0f3-3710-4183-a4cc-114eea8efdf5",
+      "number": "51",
+      "question": "Er wordt een bitewing opname en tevens een periapicale opname gemaakt van een geïmpacteerde premolaar in de onderkaak welke linguaal van de tandboog ligt. Bij welke opname reikt de premolaar meer naar occlusaal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "de bitewing opname."
+        },
+        {
+          "id": "b",
+          "text": "de periapicale opname."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "bdbcdbfc-7f3e-4c56-b9b5-d7d062f9bf12",
+      "number": "52",
+      "question": "De verticale instelling bij een bitewing opname hangt af van de hoogte van de mondbodem (mouth bottom)🔮",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "e0c3ed04-6f8e-4656-9b88-46a541f4b82b",
+      "number": "53",
+      "question": "De verticale instelling bij een bitewing opname hangt af van de hoogte van het palatum",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "92d831cd-9d2e-462b-be7a-c9a910aafd8f",
+      "number": "54",
+      "question": "Als een film scheefte achter de gebitelementen wordt geplaatst tijdens het maken van een bitewing opname dan verloopt het kauwvlak schuin over de foto",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "2cd90a0d-1fdc-4130-a389-bad9fe03a6a3",
+      "number": "55",
+      "question": "Het kauwvlak verloopt schuin over een bitewing opname als de patiënt voorover heeft gezeten tijdens het maken van de opname",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "b9b8a42f-a425-4a57-80f9-266d5327d5c3",
+      "number": "56",
+      "question": "Voor een bitewing opname is een evenwijdige bundel te verkiezen boven een divergerende bundel",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "b4cefb3a-50c1-430c-a450-82b3123ce28f",
+      "number": "57",
+      "question": "Vanwege de curve van de tandboog (dental arch) is voor een bitewing opname een divergerende bundel te verkiezen (prefer) boven een evenwijdige (parallel) bundel",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "5637145a-4c10-4dda-a1d1-f16e15acbc02",
+      "number": "58",
+      "question": "Overlap van de contactpunten op een bitewing wordt veroorzaakt door een onjuiste verticale instelling",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "706126c2-158f-4781-b102-6e09fdf0d117",
+      "number": "59",
+      "question": "Overlap van de contactvlakken op een bitewing kan worden gecorrigeerd door wijziging van:",
+      "options": [
+        {
+          "id": "a",
+          "text": "de horizontale instelling."
+        },
+        {
+          "id": "b",
+          "text": "de verticale instelling."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "2640906d-4124-43cc-bb2d-562cd511f554",
+      "number": "60",
+      "question": "Een grotere focus-object afstand is, bij het vervaardigen van bitewings voor de cariës diagnostiek, gunstiger dan een kleine focus-object afstand",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "4f0fd28a-25e7-4c5c-bc9a-8ad54c714cbc",
+      "number": "61",
+      "question": "Een voordeel van het maken van bitewing opnamen ‘uit de hand’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "dat minder snel verticale bitewing opnamen behoeven gemaakt te worden."
+        },
+        {
+          "id": "b",
+          "text": "dat extra diafragmering niet noodzakelijk is."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "fd114902-2552-4126-b924-48fe42b41643",
+      "number": "1",
+      "question": "62-Een panorama opname (OPG) is bijzonder geschikt voor de diagnostiek van cariës en parodontale afwijkingen omdat de gehele dentitie in beeld wordt gebracht.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "487a9f81-2a41-4356-9736-93552f99f8cd",
+      "number": "63",
+      "question": "De halsschaduw:",
+      "options": [
+        {
+          "id": "a",
+          "text": "is bij elk element in meerdere of mindere mate aanwezig."
+        },
+        {
+          "id": "b",
+          "text": "is vooral te zien bij meer wortelige elementen."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "08d56eef-ef4a-449d-a4b6-70041abb34c8",
+      "number": "30",
+      "question": "64-De halsschaduw is een verschijnsel dat wordt veroorzaakt door",
+      "options": [
+        {
+          "id": "a",
+          "text": "beginnende cariës in het cervicale gebied."
+        },
+        {
+          "id": "b",
+          "text": "de vorm van het element."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "5be38d3b-1f9c-4c0a-9cc3-5f0863fed445",
+      "number": "65",
+      "question": "De halsschaduw is een verschijnsel (occurence) dat wordt veroorzaakt door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "de dikte van het glazuur en de vorm van het element."
+        },
+        {
+          "id": "b",
+          "text": "aanwezigheid van de gingiva en de begrenzing van het botniveau."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "d668247e-c7a2-4487-bf49-2d731f1b1e2b",
+      "number": "66",
+      "question": "De halsschaduw is een verschijnsel dat gemakkelijk verward wordt met beginnende cariës in het cervicale gebied.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "8e710d86-3583-40cb-85bc-06f614f5e839",
+      "number": "67",
+      "question": "Röntgenologische cervicale halsschaduw kent bij een ronde of ovale wortel een geleidelijker grijswaarden verloop dan wortelcariës.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "32e08c85-354a-4e0f-9b04-4e11dacfef9b",
+      "number": "68",
+      "question": "Een parodontaalspleet  (periodontal space) is als een radiolucente lijn op de foto zichtbaar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "4b80a666-2e86-4c94-b8ea-d5ff110c07ac",
+      "number": "69",
+      "question": "De eerste verschijnselen (sign) van een periapicale ontsteking zijn röntgenologisch zichtbaar (visible) door:",
+      "options": [
+        {
+          "id": "a",
+          "text": "verbreding van de parodontaalspleet."
+        },
+        {
+          "id": "b",
+          "text": "het verdwijnen van het trabekelpatroon."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "bfb7f581-4ad2-46d9-bd84-ae2dcb2167a2",
+      "number": "70",
+      "question": "Rondom een implantaat is geen parodontaalspleet zichtbaar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist"
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "4f64023f-ded1-4ce6-b7cb-15641f1162fa",
+      "number": "71",
+      "question": "Door een concaviteit in een wortel zijn aan één zijde soms wel vier parodontaalspleten zichtbaar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "3157aa04-9b6c-4189-8f74-02dba1306782",
+      "number": "72",
+      "question": "Het aantal parodontaalspleten dat op een röntgenfoto aan 1 zijde van een wortel kan worden geteld is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 of 3.✅"
+        },
+        {
+          "id": "b",
+          "text": "2 of 3."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "ee6e8b19-d2e8-4c5c-806b-563c01e86d88",
+      "number": "73",
+      "question": "Per zijde van een wortel kan de parodontaalspleet maximaal",
+      "options": [
+        {
+          "id": "a",
+          "text": "2x worden afgebeeld.    (depicted)"
+        },
+        {
+          "id": "b",
+          "text": "3x worden afgebeeld.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "2a794039-831c-4517-8ebd-4a2b7937279f",
+      "number": "74",
+      "question": "Aan één zijde van een wortel kunnen maximaal hoeveel parodontaalspleten worden aangetroffen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 parodontaalspleten.✅"
+        },
+        {
+          "id": "b",
+          "text": "4 parodontaalspleten."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "389f4ea2-fede-441d-8df0-4fb79b515691",
+      "number": "75",
+      "question": "Als een element een wortelgroeve heeft, dan is er kans op vier parodontaal lijnen aan die zijde van de wortel.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "b65321ea-0773-49ea-a8dc-803782cd1b39",
+      "number": "76",
+      "question": "Hoeveel parodontaalspleten kan je maximaal aan één zijde van een element met twee wortelkanalen (buccaal en palatinaal) zien?",
+      "options": [
+        {
+          "id": "a",
+          "text": "twee."
+        },
+        {
+          "id": "b",
+          "text": "drie."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "c86a7b9a-f382-4e2e-92e6-f27401ba83b3",
+      "number": "77",
+      "question": "Indien sprake is van twee parodontaalspleten per zijde van een element heeft het element twee wortels",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "8a5e433b-be8b-4228-9ca3-e63cb2564756",
+      "number": "78",
+      "question": "Als de contour van een wortel drie parodontaalspleten (aan een zijde) vertoont, dan wijst dit op🔮",
+      "options": [
+        {
+          "id": "a",
+          "text": "een wortel met een wortelgroef.*"
+        },
+        {
+          "id": "b",
+          "text": "Twee wortels."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "d97376b9-d3b1-49ac-b309-a6e6a5d51b54",
+      "number": "80",
+      "question": "Een geïmpacteerde cuspidaat heeft beter contrast wanneer deze (cuspidaat) buccaal van de incisieven ligt dan wanneer deze palatinaal is gelokaliseerd.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "83dac3aa-37d5-448f-90f1-51163aaaca97",
+      "number": "81",
+      "question": "Wanneer een geïmpacteerde premolaar naar linguaal ligt met de kroon, dan lijkt de kroon op de opname minder radiopaak dan wanneer de impactierichting naar buccaal is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "d279c835-1ed4-4f51-9299-89b44e7d4616",
+      "number": "82",
+      "question": "Een geïmpacteerde premolaar heeft een beter contrast wanneer deze buccaal ligt dan wanneer deze palatinaal is gelocaliseerd",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "2f956633-c173-4a1f-a21d-c2a1ac680819",
+      "number": "83",
+      "question": "Het meest radioopaque deel van een scheef geïmplacteerd element ligt naar bucaal (naar de röntgenbundel toe)",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "1a3399c0-eeb5-4c90-a9e3-702592d7d6f5",
+      "number": "84",
+      "question": "Wanneer een geïmpacteerde cuspidaat vermoedelijk aan de palatinale zijde van een tweede incisief ligt, dan is dit af te leiden uit",
+      "options": [
+        {
+          "id": "a",
+          "text": "de incisief welke goed waarneembaar is (in tegenstelling tot de situatie van een buccale locatie van de cuspidaat)."
+        },
+        {
+          "id": "b",
+          "text": "een tweede opname vanuit een iets andere projectierichting."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9c0a2e73-0ac4-48ea-9525-c7b64fc06103",
+      "number": "85",
+      "question": "Er worden twee opnamen van een geïmpacteerde cuspidaat in de bovenkaak gemaakt welke buccaal van de incisieven ligt. Bij de tweede opname was het röntgentoestel meer van boven af gericht. Wat gebeurt er met de afbeelding van de cuspidaat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "de cuspidaat wordt meer apicaal over de incisieven geprojecteerd."
+        },
+        {
+          "id": "b",
+          "text": "de cuspidaat wordt meer incisaal over de incisieven geprojecteerd.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "3492dbac-7bdc-442b-916b-45e1085e96a1",
+      "number": "86",
+      "question": "Er worden twee opnamen van een geïmpacteerde cuspidaat in de bovenkaak gemaakt welke palatinaal van de incisieven ligt. Bij de tweede opname was het röntgentoestel minder steil gericht. Wat gebeurt er met de afbeelding van de cuspidaat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "de cuspidaat wordt meer apicaal over de incisieven geprojecteerd."
+        },
+        {
+          "id": "b",
+          "text": "de cuspidaat wordt meer incisaal over de incisieven geprojecteerd."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "e69517fb-2810-49cb-9cbd-935e428572c5",
+      "number": "87",
+      "question": "Stel een geïmpacteerde premolaar ligt met de kroon naar buccaal. Dan geldt het volgende:",
+      "options": [
+        {
+          "id": "a",
+          "text": "de kroon is radiopaker dan wanneer de premolaar naar palatinaal ligt."
+        },
+        {
+          "id": "b",
+          "text": "er is geen verschil in opaciteit van de kroon ten opzichte (differ) van ligging naar palatinaal."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "b53709cc-ba09-4ed2-85a0-869184a9fa45",
+      "number": "88",
+      "question": "Bij het maken van een röntgenfoto van het bovenfront wordt de buis te veel verticaal van boven gericht. De elementen worden hierdoor langer dan in werkelijkheid afgebeeld.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "4b6154f5-f8df-4007-b89a-5e8cb8fffdcb",
+      "number": "89",
+      "question": "De glazuurkap is op een röntgenopname zichtbaar omdat",
+      "options": [
+        {
+          "id": "a",
+          "text": "de straling approximaal en occlusaal over een langere weglengte door het glazuur gaat dan elders in het element.✅"
+        },
+        {
+          "id": "b",
+          "text": "het glazuur meer radiolucent is dan de andere componenten van het element."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "302d7f08-cfaa-4fd0-ada3-10879111eaa9",
+      "number": "90",
+      "question": "De glazuurkap is met name approximaal zichtbaar omdat",
+      "options": [
+        {
+          "id": "a",
+          "text": "de weglengte van de straling door het glazuur hier langer is dan buccaal en linguaal.✅"
+        },
+        {
+          "id": "b",
+          "text": "het glazuur hier dikker is dan buccaal en linguaal."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "ff963ad0-db8b-4c2e-84f9-7d78886ac32e",
+      "number": "91",
+      "question": "Sclerotisch dentine op een röntgenopname is",
+      "options": [
+        {
+          "id": "a",
+          "text": "meer radiolucent dan dentine."
+        },
+        {
+          "id": "b",
+          "text": "minder radiolucent dan dentine."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "fc9bf9b1-bec3-434b-87ec-b946f6d20191",
+      "number": "93",
+      "question": "Sclerotisch dentine zoals zichtbaar op een intraorale röntgenopname kan worden veroorzaakt door zink- en tin-ionen",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "54b3e255-6269-47d6-88db-8b468955402d",
+      "number": "94",
+      "question": "Sclerotisch dentine zoals zichtbaar op een intraorale röntgenopname kan worden veroorzaakt door kwik- en lood-ionen",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "7df3c4bd-702a-4dd2-9683-cba370658abd",
+      "number": "95",
+      "question": "Sclerotisch dentine en een cement-onderlaag kunnen op een röntgenopname van elkaar worden onderscheiden aan de hand van de volgende kenmerken",
+      "options": [
+        {
+          "id": "a",
+          "text": "de begrenzing en de vorm van het radiopake gebied."
+        },
+        {
+          "id": "b",
+          "text": "de aanwezigheid van een metalen restauratie."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "056e725b-5489-482a-b428-de33fd4fbf37",
+      "number": "96",
+      "question": "‘Sclerotisch dentine’ ontstaat alleen indien carieus weefsel onder een restauratie aanwezig is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "99d99ac1-e5dc-4090-80d0-0fd48a15aaae",
+      "number": "97",
+      "question": "Sclerotisch dentine (witte cariës) en radiopake onderlagen geven op de röntgenfoto bijna hetzelfde beeld te zien en zijn daardoor gemakkelijk met elkaar te verwarren.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "a094dd23-e53e-4a0d-92ce-719c41d3494d",
+      "number": "99",
+      "question": "De linea mylohyoidea ligt ten opzichte (towards) van de linea obliqua externa",
+      "options": [
+        {
+          "id": "a",
+          "text": "hoger."
+        },
+        {
+          "id": "b",
+          "text": "meer naar mesiaal."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "f072ed19-1a90-489c-8858-8db5c76c3be1",
+      "number": "100",
+      "question": "De radiopaciteit van een guttapercha stift is",
+      "options": [
+        {
+          "id": "a",
+          "text": "minder dan die van dentine."
+        },
+        {
+          "id": "b",
+          "text": "meer dan die van dentine."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9495acd2-1756-40cc-bef1-f8bf48eea984",
+      "number": "101",
+      "question": "Guttapercha is op een röntgenfoto opaker dan dentine vanwege:",
+      "options": [
+        {
+          "id": "a",
+          "text": "de weglengte van de straling door het materiaal."
+        },
+        {
+          "id": "b",
+          "text": "het soort materiaal."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "38b7d823-e222-427e-a863-b05a2b6aa18f",
+      "number": "102",
+      "question": "De radiopaciteit van de tegenwoordige composieten is",
+      "options": [
+        {
+          "id": "a",
+          "text": "minder dan die van dentine."
+        },
+        {
+          "id": "b",
+          "text": "meer dan die van dentine, maar minder dan die van glazuur."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "4bc5912e-cff9-4e4b-a0b6-b4c0c6155ce0",
+      "number": "103",
+      "question": "De radiopaciteit van de tegenwoordige composieten wordt met opzet zo gemaakt dat deze:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hoger is dan die van cariës."
+        },
+        {
+          "id": "b",
+          "text": "Gelijk is aan die van glazuur."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "899437ed-151c-4e61-88d5-5cedf15f8f3a",
+      "number": "104",
+      "question": "De röntgenologische bothoogte wordt doorgaans gemeten t.o.v.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het occlusale vlak."
+        },
+        {
+          "id": "b",
+          "text": "glazuur-cement grens."
+        },
+        {
+          "id": "c",
+          "text": "de glazuur-dentine grens."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "42c7fb00-5bfa-4c7f-8c91-8e346cf56488",
+      "number": "105",
+      "question": "De uitbreiding van een carieuze laesie op een röntgenopname t.o.v. de klinische uitbreiding van de laesie is doorgaans",
+      "options": [
+        {
+          "id": "a",
+          "text": "meer."
+        },
+        {
+          "id": "b",
+          "text": "minder."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "18693151-c670-4f5e-ba04-2aad2c608b16",
+      "number": "106",
+      "question": "Een radiolucent gebied op een röntgenfoto is een licht gebied ten opzichte (related to) van de omgeving.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "fc626b0f-0cdd-42cf-8290-f4489774ac3d",
+      "number": "107",
+      "question": "Ik maak een röntgenfoto van een metalen plaatje. Op een röntgenfoto is dit plaatje donkerder dan de omgeving.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9bb31d5c-b418-473c-a73b-1c0fe0e52ee8",
+      "number": "108",
+      "question": "De processus coronoideus wordt afgebeeld:",
+      "options": [
+        {
+          "id": "a",
+          "text": "in de buurt van de 17 of 27."
+        },
+        {
+          "id": "b",
+          "text": "op periapicale opnamen van de onderkaak."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "b05dbf27-970f-4e5a-a1f2-0a8dc52c976d",
+      "number": "109",
+      "question": "Volgens verschillende onderzoeken wordt bij adolescenten meer dan 50% meer dentinecariës gevonden op basis van röntgenfoto’s dan met spiegel en sonde.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "286274dd-a989-464a-b26e-2af4ef8cda1d",
+      "number": "110",
+      "question": "Volgens een onderzoek van Barr en Gresham wordt ruim 70% meer glazuurcariës gevonden op basis van röntgenfoto’s dan met spiegel en sonde.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "29216db8-87a2-4057-980f-8e592d4a0d02",
+      "number": "111",
+      "question": "De klinische inspectie:",
+      "options": [
+        {
+          "id": "a",
+          "text": "kan de aanleiding zijn tot het maken van een opname."
+        },
+        {
+          "id": "b",
+          "text": "moet bij elke opname worden overwogen."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "0b33ce3f-c32c-4ccb-b3fb-eabcea921528",
+      "number": "112",
+      "question": "Naarmate er meer restauraties in een gebit aanwezig zijn, neemt de effectiviteit van klinische inspectie meer af dan die van röntgendiagnostiek.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "7cf7e1cd-888f-4cde-bfa0-ab20e920a452",
+      "number": "113",
+      "question": "Welke vorm van inspectie wordt het minst benadeeld door het aantal in de mond aanwezige restauraties:",
+      "options": [
+        {
+          "id": "a",
+          "text": "klinische inspectie."
+        },
+        {
+          "id": "b",
+          "text": "radiologische inspectie."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "029ce4af-5f38-4cca-8e80-0b9378ddfdea",
+      "number": "114",
+      "question": "Het wortelkanaal is radiolucent op een röntgenopname, omdat:",
+      "options": [
+        {
+          "id": "a",
+          "text": "het meer naar binnen gelegen is in het element."
+        },
+        {
+          "id": "b",
+          "text": "het minder verkalkt (calcified) is dan de omgeving."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9ab177a8-3c2a-42e3-bc7d-0012d4681658",
+      "number": "115",
+      "question": "Dentine is op een röntgenopname minder radiopaak dan glazuur omdat:",
+      "options": [
+        {
+          "id": "a",
+          "text": "het meer naar binnen gelegen is in het element."
+        },
+        {
+          "id": "b",
+          "text": "het minder calcium bevat dan glazuur."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "51e297f7-3c56-4342-85a5-2b9419706990",
+      "number": "116",
+      "question": "Het trabekelpatroon dat op een röntgenopname te zien is, wordt grotendeels (merendeels) veroorzaakt door:",
+      "options": [
+        {
+          "id": "a",
+          "text": "de architectuur van de trabekels in het spongieuze bot."
+        },
+        {
+          "id": "b",
+          "text": "oneffenheden van de binnenzijde van de corticalis."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "76bcd6ac-121f-4332-a298-d8910e5162f7",
+      "number": "117",
+      "question": "Sclerotisch bot in het periapicale gebied is kenmerkend voor:",
+      "options": [
+        {
+          "id": "a",
+          "text": "een acute periapicale ontsteking."
+        },
+        {
+          "id": "b",
+          "text": "een chronische periapicale ontsteking."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "b57254cf-04e4-4c24-ace6-5f23e552ab8b",
+      "number": "118",
+      "question": "Een langzaam periapicaal ontstekingsproces kenmerkt zich door:",
+      "options": [
+        {
+          "id": "a",
+          "text": "botverdichting in plaats van botverlies."
+        },
+        {
+          "id": "b",
+          "text": "het geleidelijk verdwijnen van de lamina dura. Uitleg: in acute fase."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "eda5033a-c4ac-4056-9709-3eff2fd58171",
+      "number": "119",
+      "question": "Bij de beoordeling van het botniveau gebruikt men als referentie:",
+      "options": [
+        {
+          "id": "a",
+          "text": "een lijn parallel aan het occlusale vlak."
+        },
+        {
+          "id": "b",
+          "text": "de verbindingslijn van de glazuur-cementgrens van twee naburige elementen."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "3982c5ec-d9ea-4cf6-baac-8f549b28bea8",
+      "number": "120",
+      "question": "Een angulair botdefect kan beter zichtbaar worden wanneer de foto onder een hoek wordt  gemaakt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "54581e6f-5d24-4053-b354-87ff0e48a422",
+      "number": "121",
+      "question": "Een periapicale radiolucentie vereist om zichtbaar te zijn botresorptie:",
+      "options": [
+        {
+          "id": "a",
+          "text": "tot aan de binnenzijde van de corticalis.✅"
+        },
+        {
+          "id": "b",
+          "text": "van minimaal 2 millimeter in doorsnede."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "8278e64d-fc8c-4142-a362-adb5e41fcb27",
+      "number": "122",
+      "question": "De anatomische apex ligt op de contour van de röntgenologische wortelpunt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "666d1034-ea6a-4d3b-b06c-813565a95358",
+      "number": "123",
+      "question": "Als de opnamerichting van een premolaaropname meer van mesiaal wordt gekozen,",
+      "options": [
+        {
+          "id": "a",
+          "text": "dan verschuift het foramen mentale naar mesiaal."
+        },
+        {
+          "id": "b",
+          "text": "dan verschuift het foramen mentale meer naar distaal."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "941f76ff-d442-4024-85b4-d3cfa97ed8ec",
+      "number": "124",
+      "question": "U ziet een radiopake structuur in het periapicale gebied van de tweede premolaar van de onderkaak. Op een tweede opname welke specifiek van de molaren is gemaakt blijkt de structuur ten opzichte van de tweede premolaar naar mesiaal te zijn verplaatst. Dat betekent dat de opake structuur ten opzichte van de elementen gelegen is aan de:",
+      "options": [
+        {
+          "id": "a",
+          "text": "buccale zijde van de kaak."
+        },
+        {
+          "id": "b",
+          "text": "linguale zijde van de kaak."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "0d19892d-82c7-4dfa-822d-4571b318f0dd",
+      "number": "125",
+      "question": "De verschuivingsregel houdt in dat structuren die dichter bij film of sensor liggen op de afbeelding",
+      "options": [
+        {
+          "id": "a",
+          "text": "naar mesiaal verschuiven als de röntgenbron meer van mesiaal wordt gericht."
+        },
+        {
+          "id": "b",
+          "text": "naar apicaal verschuiven als de röntgenbundel meer van bovenaf wordt gericht."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "d1b60b16-eca0-42ec-bdf6-fa2e865754e7",
+      "number": "126",
+      "question": "Als er op een opname één alveolair botniveau te zien is (in tegenstelling tot twee botniveaus), dan betekent dit dat:🎩🎩🎩",
+      "options": [
+        {
+          "id": "a",
+          "text": "de bovenzijde van de proc. alveolaris horizontaal verloopt."
+        },
+        {
+          "id": "b",
+          "text": "er desondanks verschil kan zijn in de buccale en linguale hoogte van de proc. alveolaris.✅"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": "badee044-59a6-47f0-b98c-78d2c53b9c92",
+      "number": "127",
+      "question": "Wanneer op een bite-wing opname twee botniveaus zichtbaar zijn, dan komt dit hoogstwaarschijnlijk door: 🎩🎩🎩",
+      "options": [
+        {
+          "id": "a",
+          "text": "de inschietrichting van de opname."
+        },
+        {
+          "id": "b",
+          "text": "een verschillende hoogte van de buccale en linguale botlamel."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "43c74d48-8103-471e-a857-561caa814ac9",
+      "number": "128",
+      "question": "De radio-opaciteit van een restauratie in een element wordt hoofdzakelijk bepaald door aard en hoeveelheid van het vulmateriaal.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "93794b4b-c7a9-40e2-a1f5-f6f6c7de66a8",
+      "number": "129",
+      "question": "De lamina dura is op de foto zichtbaar als een:",
+      "options": [
+        {
+          "id": "a",
+          "text": "radiopake lijn."
+        },
+        {
+          "id": "b",
+          "text": "radiolucente lijn."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "11ec4794-a5a8-4c0f-b04e-76a4fc56ae63",
+      "number": "130",
+      "question": "Bij een pulpitis is er geen sprake van resorptie van de apicale lamina dura",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "b3d4c4c4-b5ce-40de-a840-a23b10406c2e",
+      "number": "131",
+      "question": "Het ontbreken van de lamina dura in het apicale gebied kan duiden op:",
+      "options": [
+        {
+          "id": "a",
+          "text": "een onjuiste verticale instelling."
+        },
+        {
+          "id": "b",
+          "text": "een beginnende periapicale ontsteking."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "266b0cf0-fa99-4889-ab6f-076712e0f3d0",
+      "number": "132",
+      "question": "Een periapicale radiolucente is op de röntgenfoto zichtbaar als:",
+      "options": [
+        {
+          "id": "a",
+          "text": "de cortex bijna verdwenen is."
+        },
+        {
+          "id": "b",
+          "text": "de cortex bereikt is."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "2576d1c8-238e-4b82-a9f5-864aa10789e9",
+      "number": "133",
+      "question": "Het beginstadium van hypercementose is te zien als een verbreding van de lamina dura.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist"
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "8ab8eab2-e416-476d-aefe-480bafdc97e3",
+      "number": "134",
+      "question": "De röntgenologische begrenzing van een cariëslaesie is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "beperkter dan de begrenzing van de ontkalking."
+        },
+        {
+          "id": "b",
+          "text": "uitgebreider dan de bacteriologische uitbreiding."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "d4ed1471-943c-46d9-a9b6-f519916e043e",
+      "number": "135",
+      "question": "Na een correct uitgevoerde behandeling bij een per ongeluk geëxponeerde pulpa door niet geïnfecteerd dentine wordt er nieuw dentine afgezet. Dit dentine heet:",
+      "options": [
+        {
+          "id": "a",
+          "text": "secundair dentine."
+        },
+        {
+          "id": "b",
+          "text": "tertiair dentine."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "26f198a4-c6c2-4ae2-a03b-55ee509819c1",
+      "number": "136",
+      "question": "Het röntgenbeeld als projectiebeeld geeft geen informatie over de derde dimensie.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "ded883ab-cca6-4476-828f-4c83d1a59dd3",
+      "number": "137",
+      "question": "De afbakening van de canalis mandibularis is op een röntgenopname zichtbaar omdat",
+      "options": [
+        {
+          "id": "a",
+          "text": "het kanaal apicaal van de molaren verloopt."
+        },
+        {
+          "id": "b",
+          "text": "het kanaal omgeven is door een dunne corticale wand."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "5542d9ac-07df-4f26-8d60-d84c187d4212",
+      "number": "138",
+      "question": "Een wortelfractuur welke niet zichtbaar is op een röntgenopname direct na het ongeval, is een paar dagen later soms wel zichtbaar ten gevolge van oedeemvorming.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "fe8c9331-f2d5-4d55-895b-f06803d49ac0",
+      "number": "139",
+      "question": "Als het front wordt afgebeeld bij een tomografische panoramaopname, dan zijn hierop in dit gebied de halswervels ook wazig zichtbaar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "d4f5fd11-2207-467c-a4cc-08a93841814a",
+      "number": "140",
+      "question": "Een \"ghost image' op een tomografische panoramaopname is altijd onscherper dan het echte object.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "55be995a-a094-4f13-a1b6-307e09a18ca6",
+      "number": "141",
+      "question": "Als de incisieven te breed zijn afgebeeld op een panoramische opname, dan heeft de patiënt te ver van de film/cassette afgestaan.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "6705d70f-e256-460d-b67b-ec55ef8f6faf",
+      "number": "142",
+      "question": "Indien incisieven op een panoramische opname smaller worden afgebeeld dan anatomisch te verklaren is dan is de oorzaak vermoedelijk erin gelegen dat de patiënt te ver naar voren heeft gestaan bij de opname.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "dfd07d2b-1531-4764-9c12-41d0f3ec5876",
+      "number": "143",
+      "question": "Wanneer een patiënt even beweegt tijdens het maken van een tomografische panoramaopname dan is de hele opname onbruikbaar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist."
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "ade6908b-5146-4281-9f15-6edc23562efb",
+      "number": "144",
+      "question": "Bij de nieuwste toestellen voor panoramische röntgenopnamen is de scherpte van het beeld te vergelijken met die van intraorale röntgenopnamen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist."
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "af27d205-abcd-4f82-b8bd-17342fcb90fe",
+      "number": "145",
+      "question": "De verticale vertekening van digitale panorama-opnamen is kleiner dan die van conventionele opnamen (d.w.z. opnamen op film).🎩🎩🎩",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist."
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "7868aeaa-db25-4310-b92f-2b2079ae30bb",
+      "number": "146",
+      "question": "Op een panoramische opname zijn metingen in een horizontaal vlak meer betrouwbaar dan metingen in een verticaal vlak.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist."
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "25379d80-881f-4dff-9cb8-6677dc78687d",
+      "number": "147",
+      "question": "Voor het vaststellen van kaakgewrichtsafwijkingen is een panoramische opname een zeer betrouwbare keus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist"
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "6b61167e-df76-4330-9e3c-dca1717bb6ba",
+      "number": "148",
+      "question": "De stralingsdosis van een MRI-opname is lager dan die van een CT-opname.",
+      "options": [
+        {
+          "id": "a",
+          "text": "juist."
+        },
+        {
+          "id": "b",
+          "text": "onjuist."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "a35c6bd7-d41e-41d6-85a5-644b891ad717",
+      "number": "149",
+      "question": "De beeldvorming bij MRI berust op de absorptie van fotonen in de niet gemineraliseerde weefsels",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juist"
+        },
+        {
+          "id": "b",
+          "text": "Onjuist."
+        }
+      ],
+      "answer": "b"
+    }
+  ]

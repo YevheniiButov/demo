@@ -1,0 +1,166 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the primary function of proximal contact areas in dental arches?",
+      "answer": "Proximal contact areas help prevent food impaction between teeth and stabilize the dental arches by ensuring positive contact between adjacent teeth.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the shape and significance of interproximal spaces.",
+      "answer": "Interproximal spaces are triangular spaces between teeth, normally filled with gingival tissue. They allow for proper spacing of teeth and the accommodation of gingival tissue, which helps maintain oral health.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What are embrasures, and what function do they serve?",
+      "answer": "Embrasures are spillway spaces formed by the curvatures of adjacent teeth, providing a path for food during mastication and preventing food from being forced through contact areas.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which of the following teeth typically have the greatest curvature of the cervical line?",
+      "answer": "#8 mesial",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "True or False: From the occlusal view, it is possible to draw a straight line through the contact areas of the mandibular second premolar and the three molars.",
+      "answer": "True",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How do the shapes of incisal and occlusal surfaces relate to their function?",
+      "answer": "The shapes of incisal and occlusal surfaces are related to their function of cutting and grinding food, and the movements of the mandible required for chewing.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the role of tooth form in relation to the periodontium.",
+      "answer": "Tooth form, including contact areas, interproximal spaces, and embrasures, plays a critical role in protecting the periodontium by preventing food impaction and ensuring proper spacing for gingival tissue.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of buccal and lingual contours at the cervical thirds of crowns?",
+      "answer": "Buccal and lingual contours at the cervical thirds of crowns help direct food away from the gingival tissues, protecting them during mastication.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which of the following is a benefit of proximal contact areas between adjacent teeth?",
+      "answer": "Stabilization of the dental arches and prevention of food impaction.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the concept of 'form follows function' in dentistry.",
+      "answer": "In dentistry, 'form follows function' means that the shape and biomechanical attributes of teeth and restorations are designed to support their function, such as chewing and esthetics.",
+      "tags": [
+        "anatomy",
+        "prosthodontics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How do contact areas differ between anterior and posterior teeth?",
+      "answer": "Anterior teeth have smaller, more circumscribed contact areas, while posterior teeth have larger, flatter contact areas to distribute occlusal forces more effectively.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which of the following terms describes a triangular space between teeth normally filled with gingival tissue?",
+      "answer": "Interproximal space",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the role of gingival tissue in interproximal spaces?",
+      "answer": "Gingival tissue fills interproximal spaces to protect underlying structures and maintain periodontal health by preventing food impaction and trauma.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the importance of proper alignment and contact of teeth.",
+      "answer": "Proper alignment and contact of teeth are crucial for preventing food impaction, stabilizing dental arches, and maintaining periodontal health.",
+      "tags": [
+        "anatomy",
+        "periodontology",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which tooth surface tends to have the greatest curvature of the cervical line?",
+      "answer": "#8 mesial",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block title %}Register — Become a Tandarts{% endblock %}
+
+{% block content %}
+  <div class="form-container">
+    <h1>
+      {% if lang == 'ru' %}Создайте аккаунт
+      {% elif lang == 'uk' %}Створіть акаунт
+      {% elif lang == 'nl' %}Maak een account aan
+      {% elif lang == 'es' %}Crea tu cuenta
+      {% elif lang == 'tr' %}Hesap oluştur
+      {% elif lang == 'fa' %}ساخت حساب کاربری
+      {% else %}Create Your Account
+      {% endif %}
+    </h1>
+
+    <form action="{{ url_for('auth_bp.register', lang=lang) }}" method="post">
+      <label for="name">
+        {% if lang == 'ru' %}Полное имя
+        {% elif lang == 'uk' %}Повне ім’я
+        {% elif lang == 'nl' %}Volledige naam
+        {% elif lang == 'es' %}Nombre completo
+        {% elif lang == 'tr' %}Ad Soyad
+        {% elif lang == 'fa' %}نام کامل
+        {% else %}Full Name
+        {% endif %}
+      </label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">
+        {% if lang == 'ru' %}Электронная почта
+        {% elif lang == 'uk' %}Електронна пошта
+        {% elif lang == 'nl' %}E-mailadres
+        {% elif lang == 'es' %}Correo electrónico
+        {% elif lang == 'tr' %}E-posta
+        {% elif lang == 'fa' %}ایمیل
+        {% else %}Email
+        {% endif %}
+      </label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="password">
+        {% if lang == 'ru' %}Пароль
+        {% elif lang == 'uk' %}Пароль
+        {% elif lang == 'nl' %}Wachtwoord
+        {% elif lang == 'es' %}Contraseña
+        {% elif lang == 'tr' %}Şifre
+        {% elif lang == 'fa' %}رمز عبور
+        {% else %}Password
+        {% endif %}
+      </label>
+      <input type="password" id="password" name="password" required>
+
+      <label for="confirm">
+        {% if lang == 'ru' %}Подтвердите пароль
+        {% elif lang == 'uk' %}Підтвердіть пароль
+        {% elif lang == 'nl' %}Bevestig wachtwoord
+        {% elif lang == 'es' %}Confirmar contraseña
+        {% elif lang == 'tr' %}Şifreyi onayla
+        {% elif lang == 'fa' %}تأیید رمز عبور
+        {% else %}Confirm Password
+        {% endif %}
+      </label>
+      <input type="password" id="confirm" name="confirm" required>
+
+      <button type="submit">
+        {% if lang == 'ru' %}Зарегистрироваться
+        {% elif lang == 'uk' %}Зареєструватися
+        {% elif lang == 'nl' %}Registreren
+        {% elif lang == 'es' %}Registrarse
+        {% elif lang == 'tr' %}Kaydol
+        {% elif lang == 'fa' %}ثبت نام
+        {% else %}Register
+        {% endif %}
+      </button>
+    </form>
+  </div>
+{% endblock %}

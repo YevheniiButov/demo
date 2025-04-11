@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Карточки главы: {{ chapter_title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Карточки главы: {{ chapter_title }}</h1>
+        <a href="{{ url_for('pdf_bp.pdf_structure', filename=filename) }}" class="button">Назад к структуре</a>
+
+        <div class="cards-list">
+            {% if cards %}
+                {% for card in cards %}
+                    <div class="card">
+                        <h3>{{ card.type|capitalize }}</h3>
+                        <p class="question"><strong>Вопрос:</strong> {{ card.question }}</p>
+                        <p class="answer"><strong>Ответ:</strong> {{ card.answer }}</p>
+                        <p class="tags"><strong>Теги:</strong> {{ card.tags|join(', ') }}</p>
+                        <p class="image-hint"><strong>Нужно изображение:</strong> {% if card.image_hint %}Да{% else %}Нет{% endif %}</p>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p>Карточки не найдены.</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

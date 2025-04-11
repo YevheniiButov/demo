@@ -1,0 +1,1 @@
+openai.api_key = os.getenv("OPENAI_API_KEY") or "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"

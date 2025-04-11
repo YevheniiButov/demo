@@ -1,0 +1,1564 @@
+{
+  "type": "lesson",
+  "slug": "lesson-1",
+  "language": [
+    "ru",
+    "en",
+    "nl",
+    "uk",
+    "fa",
+    "tr",
+    "es",
+    "pt"
+  ],
+  "category": "Стоматологическая анатомия и физиология (Часть 1)",
+  "category_title": {
+    "ru": "Стоматологическая анатомия и физиология (Часть 1)",
+    "en": "Dental anatomy and physiology (part 1)",
+    "nl": "Tandanatomie en fysiologie (deel 1)",
+    "uk": "Стоматологічна анатомія та фізіологія (частина 1)",
+    "fa": "آناتومی و فیزیولوژی دندانپزشکی (قسمت 1)",
+    "tr": "Diş Anatomisi ve Fizyolojisi (Bölüm 1)",
+    "es": "Anatomía y fisiología dental (Parte 1)",
+    "pt": "Anatomia e fisiologia dentária (Parte 1)"
+  },
+  "learning_blocks": [
+    {
+      "block_title": {
+        "ru": "Строение зубов",
+        "en": "The structure of the teeth",
+        "nl": "De structuur van de tanden",
+        "uk": "Структура зубів",
+        "fa": "ساختار دندانها",
+        "tr": "Dişlerin yapısı",
+        "es": "La estructura de los dientes",
+        "pt": "A estrutura dos dentes"
+      },
+      "cards": [
+        {
+          "type": "text",
+          "content": {
+            "ru": "У человека в постоянном прикусе обычно 32 зуба, которые классифицируются на четыре основные группы в зависимости от их формы и функции:\n\n* **Резцы (incisivi):** 8 зубов (по 4 на каждой челюсти), предназначены для откусывания пищи.\n* **Клыки (canini):** 4 зуба (по 2 на каждой челюсти), используются для разрывания пищи.\n* **Премоляры (premolares):** 8 зубов (по 4 на каждой челюсти), служат для измельчения пищи.\n* **Моляры (molares):** 12 зубов (по 6 на каждой челюсти), также предназначены для пережевывания пищи. Третьи моляры часто называют \"зубами мудрости\".",
+            "en": "A person in constant bite usually has 32 teeth, which are classified into four main groups depending on their shape and function:\n\n*** incisors (Incisivi): ** 8 teeth (4 on each jaw), designed for biting food.\n*** Fangs (Canini): ** 4 teeth (2 on each jaw), used to break food.\n*** Premolares: ** 8 teeth (4 on each jaw), serve to grind food.\n*** Molyars (molares): ** 12 teeth (6 on each jaw), also designed to chew food. Third molars are often called \"wisdom teeth.\"",
+            "nl": "Een persoon in constante beet heeft meestal 32 tanden, die zijn ingedeeld in vier hoofdgroepen, afhankelijk van hun vorm en functie:\n\n*** Incisors (Incisivi): ** 8 tanden (4 op elke kaak), ontworpen voor het bijten van voedsel.\n*** Fangs (canini): ** 4 tanden (2 op elke kaak), gebruikt om voedsel te breken.\n*** Premolares: ** 8 tanden (4 op elke kaak), dienen om voedsel te malen.\n*** Molyars (Molares): ** 12 tanden (6 op elke kaak), ook ontworpen om voedsel te kauwen. Derde kiezen worden vaak 'verstandskiezen' genoemd.",
+            "uk": "Людина, що перебуває в постійному укусі, зазвичай має 32 зуби, які класифікуються на чотири основні групи залежно від їх форми та функції:\n\n*** різці (incisivi): ** 8 зубів (4 на кожній щелепі), розроблені для кусання їжі.\n*** Ікла (Каніні): ** 4 зуби (2 на кожній щелепі), використовуються для порушення їжі.\n*** Premolares: ** 8 зубів (4 на кожній щелепі), подайте для подрібнення їжі.\n*** Моляри (моря): ** 12 зубів (6 на кожній щелепі), також розроблені для жування їжі. Третій моляри часто називають \"зубами мудрості\".",
+            "fa": "یک فرد در نیش ثابت معمولاً 32 دندان دارد که بسته به شکل و عملکرد آنها به چهار گروه اصلی طبقه بندی می شوند:\n\n*** incisors (incisivi): ** 8 دندان (4 در هر فک) ، برای گاز گرفتن غذا طراحی شده است.\n*** Fangs (Canini): ** 4 دندان (2 در هر فک) ، برای شکستن غذا استفاده می شود.\n*** Premolares: ** 8 دندان (4 در هر فک) ، برای خرد کردن مواد غذایی سرو کنید.\n*** مولیارها (مولرها): ** 12 دندان (6 در هر فک) ، همچنین برای جویدن مواد غذایی طراحی شده است. مولرهای سوم اغلب \"دندان خرد\" خوانده می شوند.",
+            "tr": "Sabit ısırık olan bir kişinin genellikle şekillerine ve işlevlerine bağlı olarak dört ana gruba ayrılan 32 diş vardır:\n\n*** Kesici dişler (İncisivi): ** yiyecek ısırmak için tasarlanmış 8 diş (her çenede 4).\n*** Fangs (Canini): ** 4 diş (her çenede 2), yiyecekleri kırmak için kullanılır.\n*** Premolares: ** 8 diş (her çenede 4), yiyecek öğütmeye hizmet eder.\n*** Molyarlar (molar): ** 12 diş (her çenede 6), ayrıca yiyecekleri çiğnemek için tasarlanmıştır. Üçüncü azı dişlerine genellikle \"bilgelik dişleri\" denir.",
+            "es": "Una persona con mordida constante generalmente tiene 32 dientes, que se clasifican en cuatro grupos principales dependiendo de su forma y función:\n\n*** Incisores (incisivi): ** 8 dientes (4 en cada mandíbula), diseñado para morder alimentos.\n*** Fangs (Canini): ** 4 dientes (2 en cada mandíbula), se usa para romper los alimentos.\n*** Premolares: ** 8 dientes (4 en cada mandíbula), sirva para moler la comida.\n*** Molyars (molares): ** 12 dientes (6 en cada mandíbula), también diseñado para masticar alimentos. Los terceros molares a menudo se llaman \"dientes del juicio\".",
+            "pt": "Uma pessoa em constante mordida geralmente tem 32 dentes, que são classificados em quatro grupos principais, dependendo de sua forma e função:\n\n*** Incisivos (incisivi): ** 8 dentes (4 em cada mandíbula), projetados para morder comida.\n*** Fangs (Canini): ** 4 dentes (2 em cada mandíbula), usados ​​para quebrar os alimentos.\n*** pré -molares: ** 8 dentes (4 em cada mandíbula), sirva para moer comida.\n*** Molyars (Molares): ** 12 dentes (6 em ​​cada mandíbula), também projetados para mastigar alimentos. Terceiros molares são frequentemente chamados de \"dentes do siso\"."
+          }
+        },
+        {
+          "type": "image",
+          "url": "example.com/images/zuby_klassifikacia.jpg",
+          "alt": {
+            "ru": "Изображение классификации зубов",
+            "en": "Image of teeth classification",
+            "nl": "Afbeelding van tandenclassificatie",
+            "uk": "Зображення класифікації зубів",
+            "fa": "تصویر طبقه بندی دندان ها",
+            "tr": "Diş sınıflandırmasının görüntüsü",
+            "es": "Imagen de la clasificación de dientes",
+            "pt": "Imagem da classificação dos dentes"
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Каждый зуб состоит из трех основных частей:\n\n* **Коронка (corona dentis):** Видимая часть зуба, покрытая эмалью.\n* **Шейка (collum dentis):** Переходная часть между коронкой и корнем, расположенная на уровне десны.\n* **Корень (radix dentis):** Часть зуба, находящаяся в костной лунке челюсти (альвеоле) и покрытая цементом.",
+            "en": "Each tooth consists of three main parts:\n\n*** Crown (corona dentis): ** The visible part of the tooth covered with enamel.\n*** neck (collum dentis): ** The transition part between the crown and the root located at the gum level.\n*** root (Radix dentis): ** Part of the tooth located in the bone hole of the jaw (alveoleum) and covered with cement.",
+            "nl": "Elke tand bestaat uit drie hoofdonderdelen:\n\n*** Crown (Corona Dentis): ** Het zichtbare deel van de tand bedekt met glazuur.\n*** nek (collum dentis): ** Het overgangsdeel tussen de kroon en de wortel op het tandvleesniveau.\n*** wortel (radix dentis): ** Een deel van de tand in het botgat van de kaak (alveoleum) en bedekt met cement.",
+            "uk": "Кожен зуб складається з трьох основних частин:\n\n*** Корона (Corona dentis): ** Видима частина зуба, покрита емальою.\n*** Шия (Collum dentis): ** Перехідна частина між коронкою та коренем, розташованим на рівні ясен.\n*** Корінь (radix dentis): ** Частина зуба, розташована в кістковому отворі щелепи (альвеолев) і покрита цементом.",
+            "fa": "هر دندان از سه قسمت اصلی تشکیل شده است:\n\n*** تاج (Corona Dentis): ** قسمت قابل مشاهده دندان پوشیده از مینای دندان.\n*** گردن (Collum Dentis): ** قسمت انتقال بین تاج و ریشه واقع در سطح لثه.\n*** ROOT (RADIX DENTIS): ** بخشی از دندان واقع در سوراخ استخوان فک (آلوئول) و با سیمان پوشانده شده است.",
+            "tr": "Her diş üç ana bölümden oluşur:\n\n*** Crown (Corona Dentis): ** Dişin görünür kısmı emaye ile kaplı.\n*** Boyun (Collum dentis): ** Taç ve sakız seviyesinde bulunan kök arasındaki geçiş kısmı.\n*** Kök (Radix Dentis): ** Dişin çenenin kemik deliğinde (alveoleum) bulunan ve çimento ile kaplı bir kısmı.",
+            "es": "Cada diente consta de tres partes principales:\n\n*** Crown (Corona dentis): ** La parte visible del diente cubierta de esmalte.\n*** Neck (Collum dentis): ** La parte de transición entre la corona y la raíz ubicada a nivel de goma.\n*** raíz (Radix dentis): ** Parte del diente ubicado en el orificio de la mandíbula de la mandíbula (alveoleo) y cubierta con cemento.",
+            "pt": "Cada dente consiste em três partes principais:\n\n*** Coroa (Corona Dentis): ** A parte visível do dente coberta com esmalte.\n*** Pescoço (Collum dentis): ** A parte de transição entre a coroa e a raiz localizada no nível da gengiva.\n*** Raiz (Radix dentis): ** Parte do dente localizada no orifício dos ossos da mandíbula (alvéolo) e coberto com cimento."
+          }
+        },
+        {
+          "type": "image",
+          "url": "example.com/images/chasti_zuba.jpg",
+          "alt": {
+            "ru": "Изображение частей зуба",
+            "en": "Image of parts of the tooth",
+            "nl": "Afbeelding van delen van de tand",
+            "uk": "Зображення частин зуба",
+            "fa": "تصویر قسمتهای دندان",
+            "tr": "Diş parçalarının görüntüsü",
+            "es": "Imagen de partes del diente",
+            "pt": "Imagem de partes do dente"
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Разные группы зубов имеют различное количество корней:\n\n* **Резцы и клыки:** Обычно по одному корню.\n* **Премоляры:** Верхние премоляры часто имеют два корня, нижние - один.\n* **Моляры:** Верхние моляры обычно имеют три корня, нижние - два. Третьи моляры могут иметь различное количество и форму корней.",
+            "en": "Different groups of teeth have a different number of roots:\n\n*** incisors and fangs: ** Usually one root.\n*** Premoles: ** Upper premolar often have two roots, the lower ones - one.\n*** Molyar: ** The upper molars usually have three roots, the lower - two. Third molar can have a different amount and shape of the roots.",
+            "nl": "Verschillende groepen tanden hebben een ander aantal wortels:\n\n*** snijtanden en tanden: ** Meestal één wortel.\n*** Premoles: ** Upper Premolar heeft vaak twee wortels, de onderste - één.\n*** Molyar: ** De bovenste kiezen hebben meestal drie wortels, de onderste - twee. Derde kies kan een andere hoeveelheid en vorm van de wortels hebben.",
+            "uk": "Різні групи зубів мають різну кількість коренів:\n\n*** різці та ікла: ** Зазвичай один корінь.\n*** премози: ** Верхній премоляр часто має два корені, нижні - одне.\n*** Мояр: ** Верхні моляри зазвичай мають три коріння, нижні - два. Третій моляр може мати різну кількість і форму коренів.",
+            "fa": "گروه های مختلف دندان تعداد متفاوتی از ریشه دارند:\n\n*** insisors and fangs: ** معمولاً یک ریشه.\n*** Premoles: ** Premolar فوقانی اغلب دارای دو ریشه ، قسمتهای پایین - یکی.\n*** مولیار: ** مولرهای فوقانی معمولاً سه ریشه دارند ، پایین - دو. مولر سوم می تواند مقدار و شکل متفاوتی از ریشه ها داشته باشد.",
+            "tr": "Farklı diş gruplarının farklı sayıda kökü vardır:\n\n*** Kesici dişler ve dişler: ** Genellikle bir kök.\n*** Premoles: ** Üst premolar genellikle iki kök, alt olanlar - bir tane.\n*** Molyar: ** Üst azı dişlerinde genellikle üç kök, alt - iki. Üçüncü molar köklerin farklı bir miktarına ve şekline sahip olabilir.",
+            "es": "Diferentes grupos de dientes tienen un número diferente de raíces:\n\n*** Incisores y colmillos: ** Por lo general, una raíz.\n*** Premolos: ** El premolar superior a menudo tiene dos raíces, las inferiores, una.\n*** Molyar: ** Los molares superiores generalmente tienen tres raíces, las más bajas - dos. El tercer molar puede tener una cantidad y forma diferentes de las raíces.",
+            "pt": "Diferentes grupos de dentes têm um número diferente de raízes:\n\n*** Incisivos e presas: ** Geralmente uma raiz.\n*** Premoles: ** O pré -molar superior geralmente tem duas raízes, as inferiores - uma.\n*** MOLYAR: ** Os molares superiores geralmente têm três raízes, a menor - dois. O terceiro molar pode ter uma quantidade e forma diferentes das raízes."
+          }
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "1",
+              "question": {
+                "ru": "Сколько клыков находится в постоянном прикусе человека?",
+                "en": "How many fangs are in a constant bite of a person?",
+                "nl": "Hoeveel tanden zijn er in een constante hap van een persoon?",
+                "uk": "Скільки ікл постійного укусу людини?",
+                "fa": "چند نیش در نیش ثابت یک شخص وجود دارد؟",
+                "tr": "Bir insanın sürekli bir ısırmasında kaç tane diş var?",
+                "es": "¿Cuántos colmillos tienen una mordida constante de una persona?",
+                "pt": "Quantas presas estão em uma mordida constante de uma pessoa?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "4",
+                    "en": "4",
+                    "nl": "4",
+                    "uk": "4",
+                    "fa": "4",
+                    "tr": "4",
+                    "es": "4",
+                    "pt": "4"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "6",
+                    "en": "6",
+                    "nl": "6",
+                    "uk": "6",
+                    "fa": "6",
+                    "tr": "6",
+                    "es": "6",
+                    "pt": "6"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "8",
+                    "en": "8",
+                    "nl": "8",
+                    "uk": "8",
+                    "fa": "8",
+                    "tr": "8",
+                    "es": "8",
+                    "pt": "8"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "12",
+                    "en": "12",
+                    "nl": "12",
+                    "uk": "12",
+                    "fa": "12",
+                    "tr": "12",
+                    "es": "12",
+                    "pt": "12"
+                  }
+                }
+              ],
+              "answer": "4",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "2",
+              "question": {
+                "ru": "Какая часть зуба непосредственно контактирует с десной?",
+                "en": "Which part of the tooth is directly in contact with the gum?",
+                "nl": "Welk deel van de tand staat direct in contact met het tandvlees?",
+                "uk": "Яка частина зуба безпосередньо контактує з гумкою?",
+                "fa": "کدام قسمت از دندان مستقیماً با آدامس در تماس است؟",
+                "tr": "Dişin hangi kısmı doğrudan sakız ile temas halinde?",
+                "es": "¿Qué parte del diente está directamente en contacto con la goma?",
+                "pt": "Qual parte do dente está diretamente em contato com a gengiva?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Коронка",
+                    "en": "Crown",
+                    "nl": "Kroon",
+                    "uk": "Коронка",
+                    "fa": "تاج",
+                    "tr": "Taç",
+                    "es": "Corona",
+                    "pt": "Coroa"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Шейка",
+                    "en": "Neck",
+                    "nl": "Nek",
+                    "uk": "Шия",
+                    "fa": "گردن",
+                    "tr": "Boyun",
+                    "es": "Cuello",
+                    "pt": "Pescoço"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Корень",
+                    "en": "Root",
+                    "nl": "Wortel",
+                    "uk": "Корінь",
+                    "fa": "ریشه",
+                    "tr": "Kök",
+                    "es": "Raíz",
+                    "pt": "Raiz"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Эмаль",
+                    "en": "Enamel",
+                    "nl": "Glazuur",
+                    "uk": "Емаль",
+                    "fa": "مینای",
+                    "tr": "Emaye",
+                    "es": "Esmalte",
+                    "pt": "Esmalte"
+                  }
+                }
+              ],
+              "answer": "Шейка",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "3",
+              "question": {
+                "ru": "Сколько корней обычно имеет верхний первый моляр?",
+                "en": "How many roots usually have the upper first molar?",
+                "nl": "Hoeveel wortels hebben meestal de bovenste eerste kies?",
+                "uk": "Скільки коренів зазвичай мають верхній перший моляр?",
+                "fa": "چه تعداد ریشه معمولاً مولر اول بالایی دارند؟",
+                "tr": "Kaç kök genellikle üst molar vardır?",
+                "es": "¿Cuántas raíces suele tener el primer molar superior?",
+                "pt": "Quantas raízes geralmente têm o primeiro molar superior?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "1",
+                    "en": "1",
+                    "nl": "1",
+                    "uk": "1",
+                    "fa": "1",
+                    "tr": "1",
+                    "es": "1",
+                    "pt": "1"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "2",
+                    "en": "2",
+                    "nl": "2",
+                    "uk": "2",
+                    "fa": "2",
+                    "tr": "2",
+                    "es": "2",
+                    "pt": "2"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "3",
+                    "en": "3",
+                    "nl": "3",
+                    "uk": "3",
+                    "fa": "3",
+                    "tr": "3",
+                    "es": "3",
+                    "pt": "3"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "4",
+                    "en": "4",
+                    "nl": "4",
+                    "uk": "4",
+                    "fa": "4",
+                    "tr": "4",
+                    "es": "4",
+                    "pt": "4"
+                  }
+                }
+              ],
+              "answer": "3",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_title": {
+        "ru": "Строение челюстей",
+        "en": "The structure of the jaws",
+        "nl": "De structuur van de kaken",
+        "uk": "Структура щелеп",
+        "fa": "ساختار فک ها",
+        "tr": "Çenelerin yapısı",
+        "es": "La estructura de las mandíbulas",
+        "pt": "A estrutura das mandíbulas"
+      },
+      "cards": [
+        {
+          "type": "text",
+          "content": {
+            "ru": "Верхняя челюсть (maxilla) - это парная кость, образующая верхнюю часть лица, верхнюю зубную дугу, нижнюю стенку глазницы, боковые стенки и дно носовой полости. Она состоит из тела и четырех отростков: лобного, скулового, альвеолярного и небного.",
+            "en": "The upper jaw (maxilla) is a paired bone that forms the upper part of the face, the upper dental arc, the lower wall of the eye socket, the side walls and the bottom of the nasal cavity. It consists of a body and four processes: frontal, zygomatic, alveolar and palatine.",
+            "nl": "De bovenkaak (maxilla) is een gepaarde bot dat het bovenste deel van het gezicht vormt, de bovenste tandheelkundige boog, de onderste wand van de oogkoker, de zijwanden en de bodem van de neusholte. Het bestaat uit een lichaam en vier processen: frontale, zygomatische, alveolaire en palatine.",
+            "uk": "Верхня щелепа (верхньощелепна) - це парна кістка, яка утворює верхню частину обличчя, верхню зубну дугу, нижню стінку очної розетки, бічні стінки та дно носової порожнини. Він складається з тіла та чотирьох процесів: лобовий, зигоматичний, альвеолярний та піднебінний.",
+            "fa": "فک فوقانی (فک بالا) یک استخوان زوج است که قسمت فوقانی صورت ، قوس دندانپزشکی فوقانی ، دیواره تحتانی سوکت چشم ، دیواره های جانبی و پایین حفره بینی را تشکیل می دهد. این بدن از بدن و چهار فرآیند تشکیل شده است: فرونتال ، زایگوماتیک ، آلوئولار و پالاتین.",
+            "tr": "Üst çene (maksilla), yüzün üst kısmını, üst diş arkını, göz yuvasının alt duvarı, yan duvarlar ve burun boşluğunun altını oluşturan eşleştirilmiş bir kemiktir. Bir vücut ve dört işlemden oluşur: frontal, zigomatik, alveoler ve palatin.",
+            "es": "La mandíbula superior (maxilar) es un hueso emparejado que forma la parte superior de la cara, el arco dental superior, la pared inferior del zócalo del ojo, las paredes laterales y la parte inferior de la cavidad nasal. Consiste en un cuerpo y cuatro procesos: frontal, cigomático, alveolar y palatino.",
+            "pt": "A mandíbula superior (maxila) é um osso emparelhado que forma a parte superior da face, o arco dentário superior, a parede inferior da tomada ocular, as paredes laterais e o fundo da cavidade nasal. Consiste em um corpo e quatro processos: frontal, zigomático, alveolar e palatino."
+          }
+        },
+        {
+          "type": "image",
+          "url": "example.com/images/verkhnyaya_chelust.jpg",
+          "alt": {
+            "ru": "Изображение верхней челюсти",
+            "en": "Image of the upper jaw",
+            "nl": "Afbeelding van de bovenkaak",
+            "uk": "Зображення верхньої щелепи",
+            "fa": "تصویر فک فوقانی",
+            "tr": "Üst çenenin görüntüsü",
+            "es": "Imagen de la mandíbula superior",
+            "pt": "Imagem da mandíbula superior"
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Нижняя челюсть (mandibula) - это непарная подковообразная кость, образующая нижнюю часть лица и нижнюю зубную дугу. Она состоит из тела и двух ветвей, каждая из которых имеет венечный и суставной отростки.",
+            "en": "The lower jaw (mandibula) is an unpaired horseshoe -shaped bone that forms the lower face and lower dental arc. It consists of a body and two branches, each of which has a coronary and articular process.",
+            "nl": "De onderkaak (mandibula) is een ongepaard hoefijzer -vormig bot dat het ondervlak vormt en een lagere tandboog. Het bestaat uit een lichaam en twee takken, die elk een coronair en gewrichtsproces hebben.",
+            "uk": "Нижня щелепа (Мандібула) -це непарна кістка підкови, яка утворює нижню обличчя та нижню зубну дугу. Він складається з тіла та двох гілок, кожна з яких має коронарний і суглобовий процес.",
+            "fa": "فک تحتانی (فک پایین) یک استخوان به شکل اسب سواری بدون جفت است که صورت پایین و قوس دندانپزشکی تحتانی را تشکیل می دهد. این بدن از بدن و دو شاخه تشکیل شده است که هر یک از آنها یک فرآیند عروق کرونر و مفصلی دارند.",
+            "tr": "Alt çene (mandibula), alt yüz ve alt diş arkını oluşturan eşleştirilmemiş at nalı şeklinde bir kemiktir. Her biri koroner ve eklem süreci olan bir vücut ve iki daldan oluşur.",
+            "es": "La mandíbula inferior (Mandibula) es un hueso en forma de herradura no apartado que forma la cara inferior y el arco dental inferior. Consiste en un cuerpo y dos ramas, cada una de las cuales tiene un proceso coronario y articular.",
+            "pt": "A mandíbula inferior (Mandibula) é um osso em forma de ferradura não emparelhado que forma a face inferior e o arco dentário inferior. Consiste em um corpo e dois galhos, cada um dos quais possui um processo coronariano e articular."
+          }
+        },
+        {
+          "type": "image",
+          "url": "example.com/images/nizhnyaya_chelust.jpg",
+          "alt": {
+            "ru": "Изображение нижней челюсти",
+            "en": "Image of the lower jaw",
+            "nl": "Afbeelding van de onderkaak",
+            "uk": "Зображення нижньої щелепи",
+            "fa": "تصویر فک پایین",
+            "tr": "Alt çenenin görüntüsü",
+            "es": "Imagen de la mandíbula inferior",
+            "pt": "Imagem da mandíbula inferior"
+          }
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "4",
+              "question": {
+                "ru": "Какой отросток верхней челюсти образует большую часть твердого неба?",
+                "en": "What process of the upper jaw forms most of the hard sky?",
+                "nl": "Welk proces van de bovenste kaak vormt het grootste deel van de harde lucht?",
+                "uk": "Який процес верхньої щелепи утворює більшу частину жорсткого неба?",
+                "fa": "چه فرایندی از فک فوقانی بیشتر آسمان سخت را تشکیل می دهد؟",
+                "tr": "Üst çenenin hangi işlemi sert gökyüzünün çoğunu oluşturur?",
+                "es": "¿Qué proceso de la mandíbula superior forma la mayor parte del cielo duro?",
+                "pt": "Que processo da mandíbula superior forma a maior parte do céu duro?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Лобный",
+                    "en": "Frontal",
+                    "nl": "Frontaal",
+                    "uk": "Фронтальний",
+                    "fa": "جبهه",
+                    "tr": "Frontal",
+                    "es": "Frontal",
+                    "pt": "Frontal"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Скуловой",
+                    "en": "Skulova",
+                    "nl": "Skulova",
+                    "uk": "Скулова",
+                    "fa": "اسکولوا",
+                    "tr": "Skulova",
+                    "es": "Skulova",
+                    "pt": "Skulova"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Альвеолярный",
+                    "en": "Alveolar",
+                    "nl": "Alveolair",
+                    "uk": "Альвеолярний",
+                    "fa": "انبوه",
+                    "tr": "Alveolar",
+                    "es": "Alveolar",
+                    "pt": "Alveolar"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Небный",
+                    "en": "Palatine",
+                    "nl": "Palatine",
+                    "uk": "Піднебінний",
+                    "fa": "پالاتین",
+                    "tr": "Palatin",
+                    "es": "Palatino",
+                    "pt": "Palatina"
+                  }
+                }
+              ],
+              "answer": "Небный",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "5",
+              "question": {
+                "ru": "Какой отросток нижней челюсти сочленяется с височной костью, образуя ВНЧС?",
+                "en": "What process of the lower jaw is articulated with the temporal bone, forming an ISC?",
+                "nl": "Welk proces van de onderkaak wordt gearticuleerd met het tijdelijke bot en vormt een ISC?",
+                "uk": "Який процес нижньої щелепи сформулюється з скроневою кісткою, утворюючи ISC?",
+                "fa": "چه فرایندی از فک پایین با استخوان زمانی بیان می شود و ISC را تشکیل می دهد؟",
+                "tr": "Alt çenenin hangi işlemi temporal kemik ile ifade edilir ve bir ISC oluşturur?",
+                "es": "¿Qué proceso de la mandíbula inferior se articula con el hueso temporal, formando un ISC?",
+                "pt": "Que processo da mandíbula inferior é articulado com o osso temporal, formando um ISC?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Венечный",
+                    "en": "Coronary",
+                    "nl": "Krans",
+                    "uk": "Коронарний",
+                    "fa": "کرونر",
+                    "tr": "Koroner",
+                    "es": "Coronario",
+                    "pt": "Coronariana"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Суставной",
+                    "en": "Articular",
+                    "nl": "Gewricht",
+                    "uk": "Суглобовий",
+                    "fa": "عناصر",
+                    "tr": "Eklem",
+                    "es": "Articular",
+                    "pt": "Articular"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Альвеолярный",
+                    "en": "Alveolar",
+                    "nl": "Alveolair",
+                    "uk": "Альвеолярний",
+                    "fa": "انبوه",
+                    "tr": "Alveolar",
+                    "es": "Alveolar",
+                    "pt": "Alveolar"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Угловой",
+                    "en": "Angular",
+                    "nl": "Hoekig",
+                    "uk": "Кутовий",
+                    "fa": "زاویه دار",
+                    "tr": "Açısal",
+                    "es": "Angular",
+                    "pt": "Angular"
+                  }
+                }
+              ],
+              "answer": "Суставной",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_title": {
+        "ru": "Мышцы челюстно-лицевой области",
+        "en": "The muscles of the maxillofacial region",
+        "nl": "De spieren van het maxillofaciale gebied",
+        "uk": "М’язи щелепно -лицьової області",
+        "fa": "عضلات منطقه فک بالا",
+        "tr": "Maksillofasiyal bölgenin kasları",
+        "es": "Los músculos de la región maxilofacial",
+        "pt": "Os músculos da região maxilofacial"
+      },
+      "cards": [
+        {
+          "type": "text",
+          "content": {
+            "ru": "Основные жевательные мышцы включают жевательную, височную, медиальную и латеральную крыловидные мышцы. Они отвечают за движения нижней челюсти.",
+            "en": "The main chewing muscles include chewing, temporal, medial and lateral pore muscles. They are responsible for the movements of the lower jaw.",
+            "nl": "De belangrijkste kauwspieren omvatten kauwen, tijdelijke, mediale en laterale poriespieren. Ze zijn verantwoordelijk voor de bewegingen van de onderkaak.",
+            "uk": "Основні жувальні м’язи включають жувальні, скроневі, медіальні та бічні м’язи пор. Вони відповідають за рухи нижньої щелепи.",
+            "fa": "ماهیچه های اصلی جویدنی شامل عضلات منافذ جویدنی ، موقتی ، داخلی و جانبی است. آنها مسئول حرکات فک پایین هستند.",
+            "tr": "Ana çiğneme kasları çiğneme, temporal, medial ve lateral gözenek kaslarını içerir. Alt çenenin hareketlerinden sorumludurlar.",
+            "es": "Los principales músculos de masticación incluyen los músculos de poros de masticación, temporal, medial y lateral. Son responsables de los movimientos de la mandíbula inferior.",
+            "pt": "Os principais músculos de mastigação incluem músculos de mastigação, tempora, medial e lateral. Eles são responsáveis ​​pelos movimentos da mandíbula inferior."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Жевательная мышца поднимает и слегка выдвигает нижнюю челюсть. Височная мышца поднимает, выдвигает и задвигает ее.",
+            "en": "The chewing muscle lifts and slightly extends the lower jaw. The temporal muscle lifts, puts forward and pushes it.",
+            "nl": "De kauwspierlipt en verlengt enigszins de onderkaak. De tijdelijke spier heft, stelt naar voren en duwt hem.",
+            "uk": "Жувальні м’язи піднімаються і трохи простягають нижню щелепу. Тимчасові м’язи піднімаються, висувають вперед і штовхають його.",
+            "fa": "عضله جویدنی بالا می رود و کمی فک پایین را گسترش می دهد. عضله زمانی بلند می شود ، جلو می رود و آن را هل می دهد.",
+            "tr": "Çiğneme kasları alt çeneyi kaldırır ve hafifçe uzatır. Geçici kas kaldırır, öne çıkarır ve iter.",
+            "es": "La masticación muscular se eleva y extiende ligeramente la mandíbula inferior. El músculo temporal se eleva, lo presenta y lo empuja.",
+            "pt": "Os elevadores musculares de mascar e estendem ligeiramente a mandíbula inferior. O músculo temporal levanta, levanta e o empurra."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Медиальная крыловидная мышца поднимает и слегка выдвигает нижнюю челюсть, участвуя в боковых движениях. Латеральная крыловидная мышца выдвигает нижнюю челюсть и опускает подбородок.",
+            "en": "The medial winged muscle lifts and slightly extends the lower jaw, participating in the side movements. The lateral wing muscle extends the lower jaw and lowers the chin.",
+            "nl": "De mediale gevleugelde spierliften en verlengt enigszins de onderkaak, die deelneemt aan de zijbewegingen. De laterale vleugelspier strekt de onderkaak uit en verlaagt de kin.",
+            "uk": "Медіальний крилатий м’язів піднімається і трохи простягає нижню щелепу, беручи участь у бічних рухах. Бічний м'яз крила простягає нижню щелепу і опускає підборіддя.",
+            "fa": "عضله بالدار میانی و اندکی فک پایین را گسترش می دهد و در حرکات جانبی شرکت می کند. عضله بال جانبی فک پایین را گسترش می دهد و چانه را پایین می آورد.",
+            "tr": "Medial kanatlı kas, yan hareketlere katılan alt çeneyi kaldırır ve hafifçe uzatır. Yan kanat kası alt çeneyi uzatır ve çeneyi indirir.",
+            "es": "El músculo alado medial se eleva y extiende ligeramente la mandíbula inferior, participando en los movimientos laterales. El músculo del ala lateral extiende la mandíbula inferior y baja la barbilla.",
+            "pt": "Os elevadores musculares mediais de asas e estende ligeiramente a mandíbula inferior, participando dos movimentos laterais. O músculo da asa lateral estende a mandíbula inferior e abaixa o queixo."
+          }
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "6",
+              "question": {
+                "ru": "Какая мышца отвечает за поднятие и задвижение нижней челюсти?",
+                "en": "What muscle is responsible for raising and sliding the lower jaw?",
+                "nl": "Welke spier is verantwoordelijk voor het opvoeden en schuiven van de onderkaak?",
+                "uk": "Який м'яз відповідає за підняття та ковзання нижньої щелепи?",
+                "fa": "چه عضله ای مسئول افزایش و کشویی فک پایین است؟",
+                "tr": "Alt çeneyi yükseltmek ve kaydırmaktan hangi kas sorumludur?",
+                "es": "¿Qué músculo es responsable de criar y deslizar la mandíbula inferior?",
+                "pt": "Que músculo é responsável por levantar e deslizar a mandíbula inferior?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Жевательная",
+                    "en": "Chewing",
+                    "nl": "Kauwen",
+                    "uk": "Жування",
+                    "fa": "جویدن",
+                    "tr": "Çiğneme",
+                    "es": "Masticación",
+                    "pt": "Mastigando"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Височная",
+                    "en": "Temporal",
+                    "nl": "Tijdelijk",
+                    "uk": "Тимчасовий",
+                    "fa": "موقت",
+                    "tr": "Zamansal",
+                    "es": "Temporal",
+                    "pt": "Temporal"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Медиальная крыловидная",
+                    "en": "Medial pingal",
+                    "nl": "Mediale pingal",
+                    "uk": "Медіальний пінгал",
+                    "fa": "پینگ",
+                    "tr": "Medial pingal",
+                    "es": "Pingal medial",
+                    "pt": "Pingal medial"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Латеральная крыловидная",
+                    "en": "The lateral pingal",
+                    "nl": "De laterale pingal",
+                    "uk": "Бічний пінгал",
+                    "fa": "پینگ جانبی",
+                    "tr": "Yanal pingal",
+                    "es": "El pingal lateral",
+                    "pt": "O pingal lateral"
+                  }
+                }
+              ],
+              "answer": "Височная",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "7",
+              "question": {
+                "ru": "Какая мышца в основном отвечает за выдвижение нижней челюсти?",
+                "en": "What muscle is mainly responsible for the nomination of the lower jaw?",
+                "nl": "Welke spier is voornamelijk verantwoordelijk voor de nominatie van de lagere kaak?",
+                "uk": "Який м'яз в основному відповідає за висунення нижньої щелепи?",
+                "fa": "کدام عضله عمدتاً مسئول نامزدی فک پایین است؟",
+                "tr": "Alt çenenin aday gösterilmesinden hangi kas sorumludur?",
+                "es": "¿Qué músculo es el principal responsable de la nominación de la mandíbula inferior?",
+                "pt": "Que músculo é o principal responsável pela nomeação da mandíbula inferior?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Жевательная",
+                    "en": "Chewing",
+                    "nl": "Kauwen",
+                    "uk": "Жування",
+                    "fa": "جویدن",
+                    "tr": "Çiğneme",
+                    "es": "Masticación",
+                    "pt": "Mastigando"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Височная",
+                    "en": "Temporal",
+                    "nl": "Tijdelijk",
+                    "uk": "Тимчасовий",
+                    "fa": "موقت",
+                    "tr": "Zamansal",
+                    "es": "Temporal",
+                    "pt": "Temporal"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Медиальная крыловидная",
+                    "en": "Medial pingal",
+                    "nl": "Mediale pingal",
+                    "uk": "Медіальний пінгал",
+                    "fa": "پینگ",
+                    "tr": "Medial pingal",
+                    "es": "Pingal medial",
+                    "pt": "Pingal medial"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Латеральная крыловидная",
+                    "en": "The lateral pingal",
+                    "nl": "De laterale pingal",
+                    "uk": "Бічний пінгал",
+                    "fa": "پینگ جانبی",
+                    "tr": "Yanal pingal",
+                    "es": "El pingal lateral",
+                    "pt": "O pingal lateral"
+                  }
+                }
+              ],
+              "answer": "Латеральная крыловидная",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_title": {
+        "ru": "Сосуды и нервы полости рта",
+        "en": "Vessels and nerves of the oral cavity",
+        "nl": "Schepen en zenuwen van de mondholte",
+        "uk": "Судини та нерви ротової порожнини",
+        "fa": "عروق و اعصاب حفره دهان",
+        "tr": "Ağız boşluğunun kapları ve sinirleri",
+        "es": "Vasos y nervios de la cavidad oral",
+        "pt": "Vasos e nervos da cavidade oral"
+      },
+      "cards": [
+        {
+          "type": "text",
+          "content": {
+            "ru": "Кровоснабжение полости рта осуществляется в основном ветвями наружной сонной артерии, включая верхнечелюстную и лицевую артерии.",
+            "en": "The blood supply to the oral cavity is carried out mainly by branches of the external carotid artery, including the maxillary and facial artery.",
+            "nl": "De bloedtoevoer naar de mondholte wordt voornamelijk uitgevoerd door takken van de externe halsslagader, inclusief de maxillaire en gezichtsslagader.",
+            "uk": "Кривавість порожнини ротової порожнини здійснюється переважно гілками зовнішньої сонної артерії, включаючи верхньощелепну та лицьову артерію.",
+            "fa": "خونریزی به حفره دهان به طور عمده توسط شاخه های شریان کاروتید خارجی ، از جمله شریان فک بالا و صورت انجام می شود.",
+            "tr": "Ağız boşluğuna kan akışı, esas olarak maksiller ve yüz arteri dahil olmak üzere dış karotis arter dalları tarafından gerçekleştirilir.",
+            "es": "El suministro de sangre a la cavidad oral se lleva a cabo principalmente por ramas de la arteria carótida externa, incluida la arteria maxilar y facial.",
+            "pt": "O suprimento sanguíneo para a cavidade oral é realizado principalmente por galhos da artéria carótida externa, incluindo a artéria maxilar e facial."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Венозный отток происходит во внутреннюю яремную и лицевую вены.",
+            "en": "The venous outflow occurs in the inner jugular and front veins.",
+            "nl": "De veneuze uitstroom vindt plaats in de binnenste hals en vooraders.",
+            "uk": "Венозний відтік відбувається у внутрішніх яремних та передніх венах.",
+            "fa": "جریان وریدی در رگهای ژوگولار و جلوی داخلی رخ می دهد.",
+            "tr": "Venöz çıkış iç juguler ve ön damarlarda meydana gelir.",
+            "es": "El flujo de salida venoso ocurre en las venas y delanteras y jugulares interiores.",
+            "pt": "A saída venosa ocorre nas veias jugulares e frontais internas."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Иннервация обеспечивается ветвями тройничного нерва (V), включая верхнечелюстной (V2) и нижнечелюстной (V3) нервы.",
+            "en": "Innervation is provided by branches of the trigeminal nerve (V), including the maxillary (V2) and the mandibular (V3) nerves.",
+            "nl": "Innervatie wordt geleverd door takken van de trigeminale zenuw (V), inclusief de maxillaire (V2) en de mandibulaire (V3) zenuwen.",
+            "uk": "Іннервація забезпечується гілками трійчастого нерва (V), включаючи верхньощелепні (V2) та нижньощелепні (V3) нерви.",
+            "fa": "عصب سازی توسط شاخه های عصب سه قلو (V) ، از جمله اعصاب فک بالا (V2) و اعصاب فک پایین (V3) ارائه می شود.",
+            "tr": "İnnervasyon, maksiller (V2) ve mandibular (V3) sinirler dahil olmak üzere trigeminal sinirin (V) dalları tarafından sağlanır.",
+            "es": "La inervación es proporcionada por ramas del nervio trigémino (V), incluidos los nervios maxilares (V2) y mandibulares (V3).",
+            "pt": "A inervação é fornecida pelos ramos do nervo trigêmeo (V), incluindo os nervos maxilares (V2) e os mandibulares (V3)."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Верхнечелюстной нерв (V2) иннервирует верхние зубы, десну, слизистую оболочку неба и верхнюю губу.",
+            "en": "The maxillary nerve (V2) innervates the upper teeth, gum, mucous membrane of the sky and upper lip.",
+            "nl": "De maxillaire zenuw (V2) innerveert de boventanden, het tandvlees, het slijmvliesmembraan van de lucht en de bovenlip.",
+            "uk": "Верхньощелепний нерв (v2) іннервує верхні зуби, гумку, слизову мембрану неба та верхню губу.",
+            "fa": "عصب فک بالا (V2) دندانهای فوقانی ، لثه ، غشای مخاطی آسمان و لب فوقانی را درون آن قرار می دهد.",
+            "tr": "Maksiller sinir (V2), üst dişleri, sakızı, gökyüzünün mukoza zarını ve üst dudağı innerve eder.",
+            "es": "El nervio maxilar (V2) inerva los dientes superiores, la encía, la membrana mucosa del cielo y el labio superior.",
+            "pt": "O nervo maxilar (v2) inerva os dentes superiores, goma, membrana mucosa do céu e lábio superior."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Нижнечелюстной нерв (V3) иннервирует нижние зубы, десну, слизистую оболочку щеки и нижней губы, а также жевательные мышцы.",
+            "en": "The mandibular nerve (V3) innervates the lower teeth, gum, mucous membrane of the cheek and lower lip, as well as chewing muscles.",
+            "nl": "De mandibulaire zenuw (V3) innerveert de onderste tanden, het tandvlees, het slijmvlies van de wang en de onderlip, evenals kauwspieren.",
+            "uk": "Мандибулярний нерв (V3) іннервує нижні зуби, ясну, слизову мембрану щоки і нижньої губи, а також жування м’язів.",
+            "fa": "عصب فک پایین (V3) دندانهای تحتانی ، لثه ، غشای مخاطی گونه و لب تحتانی و همچنین عضلات جویدنی را درون آن قرار می دهد.",
+            "tr": "Mandibular sinir (V3), alt dişleri, sakızı, yanak ve alt dudağın yanı sıra çiğneme kaslarını innerve eder.",
+            "es": "El nervio mandibular (V3) inerva los dientes inferiores, la encía, la membrana mucosa de la mejilla y el labio inferior, así como los músculos masticables.",
+            "pt": "O nervo mandibular (V3) inerva os dentes inferiores, goma, membrana mucosa da bochecha e lábio inferior, além de mastigar músculos."
+          }
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "8",
+              "question": {
+                "ru": "Какая артерия в основном кровоснабжает полость рта?",
+                "en": "What artery is mainly bloodsuit of the oral cavity?",
+                "nl": "Welke slagader is voornamelijk bloedsuit van de mondholte?",
+                "uk": "Яка артерія в основному є кровотоком ротової порожнини?",
+                "fa": "چه شریان عمدتا از رنگ خونی حفره دهان است؟",
+                "tr": "Çoğunlukla ağız boşluğunun Bloodsuit hangi arter?",
+                "es": "¿Qué arteria es principalmente el traje de sangre de la cavidad oral?",
+                "pt": "Qual a artéria é principalmente o macacão da cavidade oral?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Внутренняя сонная",
+                    "en": "Inner sleepy",
+                    "nl": "Inner Sleepy",
+                    "uk": "Внутрішній сонний",
+                    "fa": "خواب آلودگی",
+                    "tr": "İç uykulu",
+                    "es": "Sleepy interior",
+                    "pt": "Interno sonolento"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Наружная сонная",
+                    "en": "The outer sleepy",
+                    "nl": "De buitenste slaperige",
+                    "uk": "Зовнішній сонний",
+                    "fa": "خواب بیرونی",
+                    "tr": "Dış uykulu",
+                    "es": "El exterior somnoliento",
+                    "pt": "O exterior sonolento"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Подключичная",
+                    "en": "Subclavian",
+                    "nl": "Subclaviaans",
+                    "uk": "Підключний",
+                    "fa": "وابسته به زیر کلاو",
+                    "tr": "Subklavya",
+                    "es": "Subclavio",
+                    "pt": "Subclávia"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Плечевая",
+                    "en": "Shoulder",
+                    "nl": "Schouder",
+                    "uk": "Плече",
+                    "fa": "شانه",
+                    "tr": "Omuz",
+                    "es": "Hombro",
+                    "pt": "Ombro"
+                  }
+                }
+              ],
+              "answer": "Наружная сонная",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "9",
+              "question": {
+                "ru": "Какой нерв иннервирует нижние зубы?",
+                "en": "What nerve innervates the lower teeth?",
+                "nl": "Welke zenuw innerveert de onderste tanden?",
+                "uk": "Який нерв іннервує нижні зуби?",
+                "fa": "چه عصبی دندان های تحتانی را درون آن قرار می دهد؟",
+                "tr": "Alt dişleri hangi sinir içselleştirir?",
+                "es": "¿Qué nervio inerva los dientes inferiores?",
+                "pt": "Que nervo inerva os dentes inferiores?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Лицевой (VII)",
+                    "en": "Front (VII)",
+                    "nl": "Voorkant (vii)",
+                    "uk": "Фронт (vii)",
+                    "fa": "جلو (vii)",
+                    "tr": "Ön (vii)",
+                    "es": "Frente (vii)",
+                    "pt": "Frente (vii)"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Тройничный (V) - верхнечелюстная ветвь (V2)",
+                    "en": "Troinic (V) - maxillary branch (V2)",
+                    "nl": "Troinic (V) - Maxillaire Branch (V2)",
+                    "uk": "Троїнська (V) - верхньощелепна гілка (V2)",
+                    "fa": "Troinic (V) - شعبه فک بالا (V2)",
+                    "tr": "Troinic (V) - Maksiller Şube (V2)",
+                    "es": "Troínico (V) - Rama maxilar (V2)",
+                    "pt": "Troinic (V) - Ramo Maxilar (V2)"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Тройничный (V) - нижнечелюстная ветвь (V3)",
+                    "en": "Troinic (V) - MOSTELLOUST branch (V3)",
+                    "nl": "Troinic (V) - Mostelloust Branch (V3)",
+                    "uk": "Troinic (V) - гілка Mostelloust (V3)",
+                    "fa": "Troinic (V) - شعبه Mastelloust (V3)",
+                    "tr": "Troinic (V) - Mosteloust Şubesi (V3)",
+                    "es": "Troínico (V) - Rama Mostelloust (V3)",
+                    "pt": "Troinic (V) - Mostelloust Branch (V3)"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Языкоглоточный (IX)",
+                    "en": "Linguistics (IX)",
+                    "nl": "Taalkunde (ix)",
+                    "uk": "Лінгвістика (IX)",
+                    "fa": "زبانشناسی (IX)",
+                    "tr": "Dilbilim (IX)",
+                    "es": "Lingüística (IX)",
+                    "pt": "Linguística (IX)"
+                  }
+                }
+              ],
+              "answer": "Тройничный (V) - нижнечелюстная ветвь (V3)",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_title": {
+        "ru": "Функция и взаимодействие структур",
+        "en": "Function and interaction of structures",
+        "nl": "Functie en interactie van structuren",
+        "uk": "Функція та взаємодія структур",
+        "fa": "عملکرد و تعامل ساختارها",
+        "tr": "Yapıların işlevi ve etkileşimi",
+        "es": "Función e interacción de estructuras",
+        "pt": "Função e interação de estruturas"
+      },
+      "cards": [
+        {
+          "type": "text",
+          "content": {
+            "ru": "Жевательный аппарат обеспечивает механическую обработку пищи (пережевывание) с помощью зубов и движений нижней челюсти, осуществляемых жевательными мышцами.",
+            "en": "The chewing apparatus ensures the machining of food (chewing) with the help of teeth and movements of the lower jaw carried out by chewing muscles.",
+            "nl": "Het kauwapparaat zorgt voor de bewerking van voedsel (kauwen) met behulp van tanden en bewegingen van de onderkaak uitgevoerd door kauwspieren.",
+            "uk": "Жувальний апарат забезпечує обробку їжі (жування) за допомогою зубів та рухів нижньої щелепи, проведеної жувальними м’язами.",
+            "fa": "دستگاه جویدن با کمک دندان و حرکات فک پایین که با جویدن عضلات انجام می شود ، ماشینکاری غذا (جویدن) را تضمین می کند.",
+            "tr": "Çiğneme aparatı, dişlerin yardımıyla yiyeceklerin (çiğneme) işlenmesini ve kasların çiğnenmesi ile gerçekleştirilen alt çenenin hareketlerini sağlar.",
+            "es": "El aparato de masticación garantiza el mecanizado de alimentos (masticación) con la ayuda de los dientes y los movimientos de la mandíbula inferior realizada por los músculos masticados.",
+            "pt": "O aparelho de mastigação garante a usinagem de alimentos (mastigação) com a ajuda de dentes e movimentos da mandíbula inferior realizada por mastigar músculos."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Слюнные железы выделяют слюну, которая участвует в смачивании пищи, начальном этапе пищеварения и поддержании гигиены полости рта.",
+            "en": "The salivary glands emit saliva, which is involved in wetting the food, the initial stage of digestion and maintaining the hygiene of the oral cavity.",
+            "nl": "De speekselklieren stoten speeksel uit, die betrokken is bij het bevochtigen van het voedsel, de eerste fase van de spijsvertering en het handhaven van de hygiëne van de mondholte.",
+            "uk": "Слинні залози випромінюють слину, яка бере участь у змоченні їжі, початковій стадії травлення та підтримці гігієни ротової порожнини.",
+            "fa": "غدد بزاقی بزاق ساطع می کند ، که در خیس شدن مواد غذایی ، مرحله اولیه هضم و حفظ بهداشت حفره شفاهی نقش دارد.",
+            "tr": "Tükürük bezleri, yiyecekleri ıslatmada, sindirimin ilk aşamasını ve ağız boşluğunun hijyenini korumada yer alan tükürük yayar.",
+            "es": "Las glándulas salivales emiten saliva, que está involucrada en mojar el alimento, la etapa inicial de la digestión y mantener la higiene de la cavidad oral.",
+            "pt": "As glândulas salivares emitem saliva, que está envolvida na molhar os alimentos, o estágio inicial da digestão e a manutenção da higiene da cavidade oral."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Язык является важным органом вкуса, участвует в перемешивании пищи, глотании и речи.",
+            "en": "Language is an important body of taste, is involved in mixing food, swallowing and speech.",
+            "nl": "Taal is een belangrijke hoeveelheid smaak, is betrokken bij het mengen van voedsel, slikken en spraak.",
+            "uk": "Мова є важливим обсягом смаку, бере участь у змішуванні їжі, ковтання та мови.",
+            "fa": "زبان بدن مهمی از طعم و مزه است ، در مخلوط کردن غذا ، بلع و گفتار نقش دارد.",
+            "tr": "Dil önemli bir tat gövdesidir, yiyeceklerin karıştırılmasında, yutma ve konuşmanın yer almasıdır.",
+            "es": "El lenguaje es un cuerpo de gusto importante, está involucrado en la mezcla de alimentos, trago y habla.",
+            "pt": "A linguagem é um corpo importante de paladar, está envolvida na mistura de alimentos, engolir e fala."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Височно-нижнечелюстной сустав (ВНЧС) обеспечивает подвижное соединение нижней челюсти с черепом, позволяя совершать разнообразные движения.",
+            "en": "The temporomandibular joint (TMS) provides a movable connection of the lower jaw with the skull, allowing you to make a variety of movements.",
+            "nl": "Het temporomandibulaire gewricht (TMS) biedt een beweegbare verbinding van de onderkaak met de schedel, waardoor u een verscheidenheid aan bewegingen kunt maken.",
+            "uk": "Скромоменбулярний суглоб (TMS) забезпечує рухомий зв’язок нижньої щелепи з черепом, що дозволяє здійснювати різноманітні рухи.",
+            "fa": "مفصل تمپوروندیبولار (TMS) اتصال متحرک از فک پایین با جمجمه را فراهم می کند و به شما امکان می دهد انواع مختلفی از حرکات را انجام دهید.",
+            "tr": "Temporomandibular eklem (TMS), alt çenenin kafatası ile hareketli bir bağlantısını sağlar ve çeşitli hareketler yapmanıza izin verir.",
+            "es": "La junta temporomandibular (TMS) proporciona una conexión móvil de la mandíbula inferior con el cráneo, lo que le permite hacer una variedad de movimientos.",
+            "pt": "A articulação temporomandibular (TMS) fornece uma conexão móvel da mandíbula inferior com o crânio, permitindo que você faça uma variedade de movimentos."
+          }
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "10",
+              "question": {
+                "ru": "Какова основная функция жевательного аппарата?",
+                "en": "What is the main function of the chewing apparatus?",
+                "nl": "Wat is de belangrijkste functie van het kauwapparaat?",
+                "uk": "Яка основна функція жувального апарату?",
+                "fa": "عملکرد اصلی دستگاه جویدن چیست؟",
+                "tr": "Çiğneme cihazının ana işlevi nedir?",
+                "es": "¿Cuál es la función principal del aparato de masticación?",
+                "pt": "Qual é a principal função do aparelho de mastigação?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Обоняние",
+                    "en": "Smell",
+                    "nl": "Geur",
+                    "uk": "Запах",
+                    "fa": "بو",
+                    "tr": "Koku",
+                    "es": "Oler",
+                    "pt": "Cheiro"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Вкусовое восприятие",
+                    "en": "Taste perception",
+                    "nl": "Proefperceptie",
+                    "uk": "Смак сприйняття",
+                    "fa": "ادراک طعم",
+                    "tr": "Tat algısı",
+                    "es": "Percepción del sabor",
+                    "pt": "Percepção do gosto"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Механическая обработка пищи",
+                    "en": "Mechanical processing of food",
+                    "nl": "Mechanische verwerking van voedsel",
+                    "uk": "Механічна переробка їжі",
+                    "fa": "فرآوری مکانیکی غذا",
+                    "tr": "Yiyeceklerin mekanik işlenmesi",
+                    "es": "Procesamiento mecánico de alimentos",
+                    "pt": "Processamento mecânico de alimentos"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Дыхание",
+                    "en": "Breath",
+                    "nl": "Adem",
+                    "uk": "Дихати",
+                    "fa": "نفس",
+                    "tr": "Nefes",
+                    "es": "Aliento",
+                    "pt": "Respiração"
+                  }
+                }
+              ],
+              "answer": "Механическая обработка пищи",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "11",
+              "question": {
+                "ru": "Какую функцию выполняет слюна?",
+                "en": "What function does saliva perform?",
+                "nl": "Welke functie presteert speeksel?",
+                "uk": "Яку функцію виконує слина?",
+                "fa": "بزاق چه عملکردی را انجام می دهد؟",
+                "tr": "Tükürük hangi işlevi yerine getirir?",
+                "es": "¿Qué función realiza la saliva?",
+                "pt": "Que função a saliva desempenha?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Только увлажнение полости рта",
+                    "en": "Only moisturizing the oral cavity",
+                    "nl": "Alleen de mondholte hydrateren",
+                    "uk": "Тільки зволоження ротової порожнини",
+                    "fa": "فقط مرطوب کردن حفره دهان",
+                    "tr": "Sadece ağız boşluğunu nemlendirin",
+                    "es": "Solo hidratando la cavidad oral",
+                    "pt": "Apenas hidratar a cavidade oral"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Только начальное пищеварение",
+                    "en": "Only initial digestion",
+                    "nl": "Alleen de eerste spijsvertering",
+                    "uk": "Тільки початкове травлення",
+                    "fa": "فقط هضم اولیه",
+                    "tr": "Sadece ilk sindirim",
+                    "es": "Solo digestión inicial",
+                    "pt": "Somente digestão inicial"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Увлажнение, начальное пищеварение и поддержание гигиены",
+                    "en": "Moisturization, initial digestion and maintenance of hygiene",
+                    "nl": "Vochturisatie, initiële vertering en onderhoud van hygiëne",
+                    "uk": "Зволоження, початкове травлення та підтримка гігієни",
+                    "fa": "مرطوب سازی ، هضم اولیه و نگهداری بهداشت",
+                    "tr": "Hijyenin nemlendirilmesi, ilk sindirimi ve bakımı",
+                    "es": "Humectación, digestión inicial y mantenimiento de la higiene",
+                    "pt": "Hidratação, digestão inicial e manutenção da higiene"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Только участие в речи",
+                    "en": "Only participation in speech",
+                    "nl": "Alleen deelname aan spraak",
+                    "uk": "Тільки участь у мовленні",
+                    "fa": "فقط مشارکت در گفتار",
+                    "tr": "Sadece Konuşmaya Katılım",
+                    "es": "Solo participación en el habla",
+                    "pt": "Apenas participação no discurso"
+                  }
+                }
+              ],
+              "answer": "Увлажнение, начальное пищеварение и поддержание гигиены",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_title": {
+        "ru": "Челюстно-лицевая анатомия (общий обзор)",
+        "en": "Maxillofacial anatomy (general review)",
+        "nl": "Maxillofaciale anatomie (Algemene beoordeling)",
+        "uk": "Щелепно -лицьова анатомія (загальний огляд)",
+        "fa": "آناتومی فک بالا (بررسی عمومی)",
+        "tr": "Maksillofasiyal anatomi (genel inceleme)",
+        "es": "Anatomía maxilofacial (revisión general)",
+        "pt": "Anatomia maxilofacial (revisão geral)"
+      },
+      "cards": [
+        {
+          "type": "text",
+          "content": {
+            "ru": "Челюстно-лицевая область включает кости лицевого скелета (верхняя и нижняя челюсти, скуловые кости, носовые кости и др.), мышцы (жевательные, мимические), сосуды, нервы и мягкие ткани.",
+            "en": "The maxillofacial region includes the bones of the facial skeleton (upper and lower jaws, zygomatic bones, nasal bones, etc.), muscles (chewing, facial), blood vessels, nerves and soft tissues.",
+            "nl": "Het maxillofaciale gebied omvat de botten van het gezichtsskelet (bovenste en onderste kaken, zygomatische botten, nasale botten, enz.), Spieren (kauwen, gezicht), bloedvaten, zenuwen en zachte weefsels.",
+            "uk": "Дивалофазна область включає кістки скелета обличчя (верхня і нижня щелепа, зигоматичні кістки, носові кістки тощо), м’язи (жування, обличчя), судини, нерви та м'які тканини.",
+            "fa": "ناحیه فک بالا شامل استخوان های اسکلت صورت (فک های فوقانی و تحتانی ، استخوان های زایگوماتیک ، استخوان های بینی و غیره) ، عضلات (جویدن ، صورت) ، رگ های خونی ، اعصاب و بافت های نرم است.",
+            "tr": "Maksillofasiyal bölge, yüz iskeletinin kemiklerini (üst ve alt çeneler, zigomatik kemikler, burun kemikleri, vb.), Kasları (çiğneme, yüz), kan damarlarını, sinirleri ve yumuşak dokuları içerir.",
+            "es": "La región maxilofacial incluye los huesos del esqueleto facial (mandíbulas superiores e inferiores, huesos cigomáticos, huesos nasales, etc.), músculos (masticación, faciales), vasos sanguíneos, nervios y tejidos blandos.",
+            "pt": "A região maxilofacial inclui os ossos do esqueleto facial (mandíbulas superior e inferior, ossos zigomáticos, ossos nasais, etc.), músculos (mastigação, facial), vasos sanguíneos, nervos e tecidos moles."
+          }
+        },
+        {
+          "type": "text",
+          "content": {
+            "ru": "Знание челюстно-лицевой анатомии необходимо для понимания строения и функции зубочелюстной системы, а также для диагностики и лечения различных стоматологических заболеваний и патологий.",
+            "en": "Knowledge of the maxillofacial anatomy is necessary for understanding the structure and function of the dentition, as well as for the diagnosis and treatment of various dental diseases and pathologies.",
+            "nl": "Kennis van de maxillofaciale anatomie is noodzakelijk voor het begrijpen van de structuur en functie van het gebit, evenals voor de diagnose en behandeling van verschillende tandziekten en pathologieën.",
+            "uk": "Знання щелепно -лицьової анатомії необхідні для розуміння структури та функції зубного ряду, а також для діагностики та лікування різних зубних захворювань та патологій.",
+            "fa": "آگاهی از آناتومی فک بالا برای درک ساختار و عملکرد دندانپزشکی و همچنین برای تشخیص و درمان بیماری های مختلف دندانپزشکی و آسیب شناسی ضروری است.",
+            "tr": "Maksillofasiyal anatomi bilgisi, dişlerin yapısının ve işlevini anlamak ve çeşitli diş hastalıklarının ve patolojilerinin tanı ve tedavisi için gereklidir.",
+            "es": "El conocimiento de la anatomía maxilofacial es necesario para comprender la estructura y la función de la dentición, así como para el diagnóstico y tratamiento de diversas enfermedades y patologías dentales.",
+            "pt": "O conhecimento da anatomia maxilofacial é necessária para entender a estrutura e a função da dentição, bem como para o diagnóstico e tratamento de várias doenças e patologias dentárias."
+          }
+        }
+      ]
+    },
+    {
+      "block_title": {
+        "ru": "Итоговый тест: Стоматологическая анатомия и физиология (Часть 1)",
+        "en": "Final test: Dental anatomy and physiology (part 1)",
+        "nl": "Laatste test: tandanatomie en fysiologie (deel 1)",
+        "uk": "Заключний тест: стоматологічна анатомія та фізіологія (частина 1)",
+        "fa": "آزمایش نهایی: آناتومی و فیزیولوژی دندانپزشکی (قسمت 1)",
+        "tr": "Son Test: Diş Anatomisi ve Fizyolojisi (Bölüm 1)",
+        "es": "Prueba final: anatomía y fisiología dental (Parte 1)",
+        "pt": "Teste final: Anatomia e fisiologia dentária (Parte 1)"
+      },
+      "cards": [
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "id": "12",
+              "question": {
+                "ru": "Сколько премоляров находится в одной челюсти постоянного прикуса?",
+                "en": "How many premolars are in one jaw of a constant bite?",
+                "nl": "Hoeveel premolaren zitten er in één kaak van een constante beet?",
+                "uk": "Скільки премолярів є в одній щелепі постійного укусу?",
+                "fa": "چند پرمولر در یک فک یک نیش ثابت وجود دارد؟",
+                "tr": "Sabit bir ısırmanın bir çenesinde kaç tane premolar var?",
+                "es": "¿Cuántos premolares hay en una mandíbula de una mordida constante?",
+                "pt": "Quantos pré -molares estão em uma mandíbula de uma mordida constante?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "2",
+                    "en": "2",
+                    "nl": "2",
+                    "uk": "2",
+                    "fa": "2",
+                    "tr": "2",
+                    "es": "2",
+                    "pt": "2"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "4",
+                    "en": "4",
+                    "nl": "4",
+                    "uk": "4",
+                    "fa": "4",
+                    "tr": "4",
+                    "es": "4",
+                    "pt": "4"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "6",
+                    "en": "6",
+                    "nl": "6",
+                    "uk": "6",
+                    "fa": "6",
+                    "tr": "6",
+                    "es": "6",
+                    "pt": "6"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "8",
+                    "en": "8",
+                    "nl": "8",
+                    "uk": "8",
+                    "fa": "8",
+                    "tr": "8",
+                    "es": "8",
+                    "pt": "8"
+                  }
+                }
+              ],
+              "answer": "4",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "13",
+              "question": {
+                "ru": "Какая кость является непарной в лицевом скелете?",
+                "en": "What bone is unpaired in the facial skeleton?",
+                "nl": "Welk bot is ongepaard in het gezichtsskelet?",
+                "uk": "Яка кістка непарна в скелеті обличчя?",
+                "fa": "چه استخوان ای در اسکلت صورت وجود ندارد؟",
+                "tr": "Yüz iskeletinde hangi kemik eşleşmemiş?",
+                "es": "¿Qué hueso no está apartado en el esqueleto facial?",
+                "pt": "Que osso não está pareado no esqueleto facial?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Верхняя челюсть",
+                    "en": "Upper jaw",
+                    "nl": "Bovenkaak",
+                    "uk": "Верхня щелепа",
+                    "fa": "فک",
+                    "tr": "Üst çene",
+                    "es": "Mandíbula superior",
+                    "pt": "Mandíbula superior"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Скуловая кость",
+                    "en": "Squeezing bone",
+                    "nl": "Knijpen",
+                    "uk": "Стискання кістки",
+                    "fa": "استخوان فشرده",
+                    "tr": "Sıkıcı kemik",
+                    "es": "Hueso apretado",
+                    "pt": "Osso espremido"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Нижняя челюсть",
+                    "en": "Lower jaw",
+                    "nl": "Kaak",
+                    "uk": "Нижня щелепа",
+                    "fa": "فک پایین",
+                    "tr": "Alt çene",
+                    "es": "Boca baja",
+                    "pt": "Mandíbula inferior"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Носовая кость",
+                    "en": "The nasal bone",
+                    "nl": "Het neusbot",
+                    "uk": "Носова кістка",
+                    "fa": "استخوان بینی",
+                    "tr": "Burun kemiği",
+                    "es": "El hueso nasal",
+                    "pt": "O osso nasal"
+                  }
+                }
+              ],
+              "answer": "Нижняя челюсть",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            },
+            {
+              "id": "14",
+              "question": {
+                "ru": "Какой нерв обеспечивает чувствительность верхней губы?",
+                "en": "What nerve provides the sensitivity of the upper lip?",
+                "nl": "Welke zenuw biedt de gevoeligheid van de bovenlip?",
+                "uk": "Який нерв забезпечує чутливість верхньої губи?",
+                "fa": "چه عصبی حساسیت لب فوقانی را فراهم می کند؟",
+                "tr": "Hangi sinir üst dudağın hassasiyetini sağlar?",
+                "es": "¿Qué nervio proporciona la sensibilidad del labio superior?",
+                "pt": "Qual nervo fornece a sensibilidade do lábio superior?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "text": {
+                    "ru": "Лицевой",
+                    "en": "Facial",
+                    "nl": "Gezichtsbehandeling",
+                    "uk": "Обличчя",
+                    "fa": "صورت",
+                    "tr": "Yüz",
+                    "es": "Facial",
+                    "pt": "Facial"
+                  }
+                },
+                {
+                  "id": "b",
+                  "text": {
+                    "ru": "Тройничный (V2)",
+                    "en": "Troinic (V2)",
+                    "nl": "Troinic (v2)",
+                    "uk": "Троїнський (V2)",
+                    "fa": "Troinic (V2)",
+                    "tr": "Troinik (V2)",
+                    "es": "Troínico (V2)",
+                    "pt": "Troinic (V2)"
+                  }
+                },
+                {
+                  "id": "c",
+                  "text": {
+                    "ru": "Тройничный (V3)",
+                    "en": "Troinic (V3)",
+                    "nl": "Troinic (v3)",
+                    "uk": "Троїнський (V3)",
+                    "fa": "Troinic (V3)",
+                    "tr": "Troinik (V3)",
+                    "es": "Troínico (V3)",
+                    "pt": "Troinic (V3)"
+                  }
+                },
+                {
+                  "id": "d",
+                  "text": {
+                    "ru": "Подъязычный",
+                    "en": "Sublingual",
+                    "nl": "Sublinguaal",
+                    "uk": "Сублінгальний",
+                    "fa": "زیر زبانه",
+                    "tr": "Dil altı",
+                    "es": "Sublingual",
+                    "pt": "Sublingual"
+                  }
+                }
+              ],
+              "answer": "Тройничный (V2)",
+              "category": {
+                "ru": "Стоматологическая анатомия и физиология",
+                "en": "Dental anatomy and physiology",
+                "nl": "Tandanatomie en fysiologie",
+                "uk": "Стоматологічна анатомія та фізіологія",
+                "fa": "آناتومی و فیزیولوژی",
+                "tr": "Diş anatomisi ve fizyolojisi",
+                "es": "Anatomía y fisiología dental",
+                "pt": "Anatomia e fisiologia dentária"
+              },
+              "media": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

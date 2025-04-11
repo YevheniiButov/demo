@@ -1,0 +1,157 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the primary function of deciduous teeth in children?",
+      "answer": "Deciduous teeth, also known as primary teeth, help in the development of proper speech, chewing, and maintaining space for the permanent teeth.",
+      "tags": [
+        "anatomy",
+        "pedodontics",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the cingulum in primary incisors?",
+      "answer": "The cingulum is a raised, rounded area on the lingual surface of anterior teeth, providing structural support and playing a role in occlusion.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the difference in root structure between primary and permanent molars.",
+      "answer": "Primary molars have roots that are more spread out and slender compared to the more robust and closely packed roots of permanent molars.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "Which aspect of primary mandibular first molar is most distinct compared to other teeth?",
+      "answer": "The buccal aspect, which gives the tooth a primitive appearance.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "What is the primary function of the oblique ridge found in some primary maxillary molars?",
+      "answer": "It helps in the distribution and transfer of occlusal forces during chewing.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key differences between primary and permanent teeth.",
+      "answer": "Primary teeth are generally smaller, have thinner enamel and dentin layers, more pronounced cervical ridges, and roots that are more spread out compared to permanent teeth.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Why is the correct documentation of dental anomalies important in forensic dentistry?",
+      "answer": "Accurate documentation aids in the identification of individuals by comparing antemortem and postmortem dental records.",
+      "tags": [
+        "ethics_law",
+        "forensics",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What role does the mesial marginal ridge play in primary molars?",
+      "answer": "The mesial marginal ridge helps in maintaining the structural integrity of the tooth and facilitates proper occlusion.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which primary tooth is known for having a tubercle of Carabelli?",
+      "answer": "The primary maxillary second molar.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the developmental grooves in primary molars?",
+      "answer": "Developmental grooves help define the cusps and are important in the tooth's occlusal function.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "How does the occlusal surface of primary mandibular second molar differ from that of permanent mandibular first molar?",
+      "answer": "The primary mandibular second molar has three buccal cusps of almost equal size, unlike the permanent mandibular first molar.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "Which aspect of primary maxillary first molar is most similar to a permanent maxillary premolar?",
+      "answer": "The crown's occlusal surface.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the typical root structure of primary molars.",
+      "answer": "Primary molars have roots that are more slender, longer, and spread out compared to permanent molars, aiding in anchorage.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the function of the cervical ridge in primary teeth?",
+      "answer": "The cervical ridge provides structural support and helps in the proper alignment and spacing of teeth.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the primary role of the mesiolingual cusp in primary molars?",
+      "answer": "It is the most prominent cusp, aiding in occlusion and mastication.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    }
+  ]
+}

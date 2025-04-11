@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block title %}Admin — Users  <hr>
+  <h2>Edit Users</h2>
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <ul class="flashes">
+        {% for message in messages %}
+          <li>{{ message }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endwith %}
+
+  {% for user in users %}
+    
+    <button type="submit" name="action" value="delete" onclick="return confirm('Are you sure you want to delete this user?')" style="background-color: #e74c3c; color: white;">Delete</button>
+
+    </form>
+  {% endfor %}
+{% endblock %}
+
+{% block content %}
+  <div class="form-container" style="max-width: 800px;">
+    <h1>Admin: Manage Users</h1>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul class="flashes">
+          {% for message in messages %}
+            <li>{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    {% for user in users %}
+      <form method="post" class="user-edit-form" style="border: 1px solid #ccc; padding: 1rem; margin-bottom: 1rem; border-radius: 12px;">
+        <input type="hidden" name="user_id" value="{{ user.id }}">
+
+        <label>Name:</label>
+        <input type="text" name="name" value="{{ user.name }}">
+
+        <label>Email:</label>
+        <input type="email" name="email" value="{{ user.email }}">
+
+        <label>
+          <input type="checkbox" name="has_subscription" {% if user.has_subscription %}checked{% endif %}>
+          Has Subscription
+        </label>
+
+        <button type="submit">Save</button>
+      </form>
+    {% endfor %}
+
+  </div>
+{% endblock %}

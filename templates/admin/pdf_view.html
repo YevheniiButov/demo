@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Просмотр содержимого PDF{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>📄 Блоки из файла: {{ filename }}</h1>
+
+  {% if blocks %}
+    <div style="margin-bottom: 1.5rem;">
+      <a href="{{ url_for('pdf_bp.pdf_upload') }}" class="btn">⬅️ Назад к загрузке</a>
+    </div>
+
+    {% for block in blocks %}
+      <div style="border: 1px solid #ccc; padding: 1rem; border-radius: 12px; margin-bottom: 1.5rem;">
+        <h3>{{ block.chapter }}</h3>
+        <p style="white-space: pre-wrap;">{{ block.text }}</p>
+
+        {% if block.images %}
+          <div style="margin-top: 1rem;">
+            {% for img in block.images %}
+              <img src="{{ url_for('static', filename='extracted_images/' + img) }}" style="max-width: 300px; margin-right: 1rem;" alt="Изображение">
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        <div style="margin-top: 1rem;">
+          <a href="{{ url_for('pdf_bp.edit_pdf_block', filename=filename, block_index=loop.index0) }}" class="btn btn-outline">✏️ Edit</a>
+        </div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <p>❌ Нет блоков для отображения.</p>
+  {% endif %}
+</div>
+{% endblock %}

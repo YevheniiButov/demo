@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Edit PDF Block{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>✏️ Edit Block #{{ block_index }} in {{ filename }}</h1>
+  {% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <div class="flash-messages">
+      {% for message in messages %}
+        <p>{{ message }}</p>
+      {% endfor %}
+    </div>
+  {% endif %}
+  {% endwith %}
+
+  <form method="POST">
+    <div class="form-group">
+      <label for="chapter">Chapter:</label>
+      <input type="text" id="chapter" name="chapter" value="{{ block.chapter }}" required>
+    </div>
+
+    <div class="form-group">
+      <label for="tags">Tags (comma separated):</label>
+      <input type="text" id="tags" name="tags" value="{{ block.tags | join(", ") }}">
+    </div>
+
+    <div class="form-group">
+      <label for="text">Text Content:</label>
+      <textarea id="text" name="text" rows="10" style="width:100%; padding:1rem; border-radius:8px; background:#f9f9f9; border:1px solid #ccc;">{{ block.text }}</textarea>
+    </div>
+
+    {% if block.images %}
+      <div class="form-group">
+        <label>Images:</label>
+        <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+          {% for img in block.images %}
+            <img src="{{ url_for('static', filename='extracted_images/' + img) }}" style="max-width: 250px; border: 1px solid #ddd;">
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
+    <div style="margin-top: 1.5rem; display: flex; gap: 1rem;">
+      <button type="submit">💾 Save Changes</button>
+      <a class="btn btn-danger" href="{{ url_for('pdf_bp.delete_pdf_block', filename=filename, block_index=block_index) }}" onclick="return confirm('Are you sure you want to delete this block?')">🗑 Delete Block</a>
+      <a class="btn btn-outline" href="{{ url_for('pdf_bp.create_card_from_block', filename=filename, block_index=block_index) }}">📇 Create Card</a>
+      <a class="btn btn-outline" href="{{ url_for('pdf_bp.view_pdf_blocks', filename=filename) }}">⬅️ Back</a>
+    </div>
+  </form>
+</div>
+{% endblock %}

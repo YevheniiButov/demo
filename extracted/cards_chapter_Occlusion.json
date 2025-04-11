@@ -1,0 +1,108 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the maximum opening movement of the temporomandibular joint (TMJ) in adults?",
+      "answer": "The maximum opening movement of the TMJ is 50 to 60 mm, depending on the age and size of the individual.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "orthodontics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the concept of 'freedom in centric'.",
+      "answer": "Freedom in centric refers to the ability to close into maximum intercuspation without interference anywhere between centric relation and centric occlusion.",
+      "tags": [
+        "orthodontics",
+        "prosthodontics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which muscle is active during jaw-closing movements?",
+      "answer": "The superior head of the lateral pterygoid muscle.",
+      "tags": [
+        "physiology",
+        "orthodontics",
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the curve of Spee.",
+      "answer": "The curve of Spee is the curvature formed by the cusps and incisal ridges of the teeth when viewed from the sagittal plane.",
+      "tags": [
+        "anatomy",
+        "orthodontics"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "What is the significance of interdental spacing in primary dentition?",
+      "answer": "Interdental spacing in primary dentition is necessary for the proper alignment of the permanent dentition.",
+      "tags": [
+        "orthodontics",
+        "pedodontics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the role of the masseter muscle?",
+      "answer": "The masseter muscle is active during forceful jaw closing and may assist in protrusion of the mandible.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which permanent tooth typically erupts first in the mandibular arch?",
+      "answer": "The mandibular first molar.",
+      "tags": [
+        "orthodontics",
+        "pedodontics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Define 'centric occlusion'.",
+      "answer": "Centric occlusion is the position of maximal intercuspation of the teeth.",
+      "tags": [
+        "orthodontics",
+        "prosthodontics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the typical range for maximum lateral movement of the TMJ?",
+      "answer": "The maximum lateral movement is about 10 to 12 mm.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the term 'overjet'.",
+      "answer": "Overjet refers to the horizontal overlap of the maxillary teeth over the mandibular teeth.",
+      "tags": [
+        "orthodontics",
+        "definition"
+      ],
+      "image_hint": true
+    }
+  ]
+}

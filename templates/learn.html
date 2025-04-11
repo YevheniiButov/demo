@@ -1,0 +1,231 @@
+{% extends "base.html" %}
+{% block title %}Learning Modules{% endblock %}
+
+{% block scripts %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    feather.replace();
+  });
+</script>
+<style>
+  .container {
+    background: linear-gradient(to right, #f0f4ff, #e0f7fa);
+    padding: 2rem;
+    border-radius: 20px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  .module-card a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+  .module-card {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    padding: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 2px solid transparent;
+    position: relative;
+  }
+  .module-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    border-color: #b2ebf2;
+  }
+  .module-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .module-description {
+    font-size: 0.95rem;
+    color: #555;
+  }
+  .badge {
+    display: inline-block;
+    background-color: rgba(128, 222, 234, 0.6);
+    color: #004d40;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-top: 0.5rem;
+  }
+  .progress-bar-container {
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    height: 8px;
+    margin-top: 0.8rem;
+  }
+  .progress-bar-fill {
+    height: 100%;
+    border-radius: 10px;
+    background-color: rgba(0, 150, 136, 0.5);
+    width: var(--progress, 0%);
+  }
+  .icon {
+    stroke: #333;
+    stroke-width: 2;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 0.4rem;
+  }
+</style>
+{% endblock %}
+
+{% set translations = {
+  'en': {
+    'title': 'Select Your Learning Module',
+    'available': 'Available',
+    'coming': 'Coming Soon',
+    'locked': 'Locked',
+    'desc1': 'Basic structures of the human body relevant to dental care.',
+    'desc2': 'Key Dutch terms and phrases used in dental practice.',
+    'desc3': 'Learn how to speak to patients with confidence and clarity.'
+  },
+  'ru': {
+    'title': 'Выберите учебный модуль',
+    'available': 'Доступно',
+    'coming': 'Скоро',
+    'locked': 'Заблокировано',
+    'desc1': 'Основы анатомии человека, важные для стоматологов.',
+    'desc2': 'Ключевые голландские термины, используемые в стоматологии.',
+    'desc3': 'Научитесь уверенно и понятно общаться с пациентами.'
+  },
+  'nl': {
+    'title': 'Selecteer je leermodule',
+    'available': 'Beschikbaar',
+    'coming': 'Binnenkort',
+    'locked': 'Geblokkeerd',
+    'desc1': 'Basisstructuren van het menselijk lichaam voor tandheelkundige zorg.',
+    'desc2': 'Belangrijke Nederlandse termen en uitdrukkingen in de tandheelkunde.',
+    'desc3': 'Leer hoe je zelfverzekerd en duidelijk met patiënten communiceert.'
+  },
+  'uk': {
+    'title': 'Виберіть навчальний модуль',
+    'available': 'Доступно',
+    'coming': 'Незабаром',
+    'locked': 'Заблоковано',
+    'desc1': 'Основи анатомії людини для стоматологічної практики.',
+    'desc2': 'Ключові нідерландські терміни у стоматології.',
+    'desc3': 'Навчіться впевнено спілкуватися з пацієнтами.'
+  },
+  'es': {
+    'title': 'Selecciona tu módulo de aprendizaje',
+    'available': 'Disponible',
+    'coming': 'Próximamente',
+    'locked': 'Bloqueado',
+    'desc1': 'Estructuras básicas del cuerpo humano relevantes para la atención dental.',
+    'desc2': 'Términos y frases clave en neerlandés usados en odontología.',
+    'desc3': 'Aprende a comunicarte con los pacientes con confianza y claridad.'
+  },
+  'tr': {
+    'title': 'Öğrenme Modülünüzü Seçin',
+    'available': 'Mevcut',
+    'coming': 'Çok Yakında',
+    'locked': 'Kilitli',
+    'desc1': 'Diş bakımıyla ilgili insan vücudunun temel yapıları.',
+    'desc2': 'Diş hekimliğinde kullanılan temel Hollandaca terimler.',
+    'desc3': 'Hastalarla kendinden emin ve net bir şekilde iletişim kurmayı öğrenin.'
+  },
+  'fa': {
+    'title': 'ماژول آموزشی خود را انتخاب کنید',
+    'available': 'در دسترس',
+    'coming': 'به زودی',
+    'locked': 'قفل شده',
+    'desc1': 'ساختارهای پایه بدن انسان مرتبط با مراقبت‌های دندانپزشکی.',
+    'desc2': 'اصطلاحات کلیدی هلندی مورد استفاده در دندانپزشکی.',
+    'desc3': 'یاد بگیرید که با اعتماد به نفس با بیماران صحبت کنید.'
+  },
+  'pt': {
+    'title': 'Selecione seu módulo de aprendizado',
+    'available': 'Disponível',
+    'coming': 'Em breve',
+    'locked': 'Bloqueado',
+    'desc1': 'Estruturas básicas do corpo humano relevantes para a odontologia.',
+    'desc2': 'Termos e frases principais em holandês usados na prática odontológica.',
+    'desc3': 'Aprenda a se comunicar com os pacientes com confiança e clareza.'
+  }
+} %}
+
+{% set t = translations.get(lang, translations['en']) %}
+
+{% block content %}
+<div class="container">
+  <h1>{{ t.title }}</h1>
+  <div class="grid">
+    <div class="module-card">
+      <a href="{{ url_for('learnmod_bp.learning_block', module_id=1, block_index=0) }}" style="text-decoration: none;">
+        <div class="module-title">
+          <svg class="icon" fill="none" viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+          Anatomy & Physiology
+        </div>
+        <div class="module-description">{{ t.desc1 }}</div>
+        <div class="badge">{{ t.available }}</div>
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" style="--progress: 40%;"></div>
+        </div>
+      </a>
+    </div>
+    <div class="module-card">
+      <a href="{{ url_for('tests.full_test') }}">
+        <div class="module-title">
+          <svg class="icon" fill="none" viewBox="0 0 24 24"><path d="M12 20l9-5-9-5-9 5 9 5z"/></svg>
+          Dental Terminology
+        </div>
+        <div class="module-description">{{ t.desc2 }}</div>
+        <div class="badge">{{ t.coming }}</div>
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" style="--progress: 10%;"></div>
+        </div>
+      </a>
+    </div>
+    <div class="module-card">
+      <a href="{{ url_for('lesson_bp.lesson_view', module_id=categories.dutch[0].id if categories.dutch else -1, lesson_index=0, lang=lang) }}">
+        <div class="module-title">
+          <svg class="icon" fill="none" viewBox="0 0 24 24"><path d="M5 12h14"/></svg>
+          Patient Communication
+        </div>
+        <div class="module-description">{{ t.desc3 }}</div>
+        <div class="badge">{{ t.locked }}</div>
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" style="--progress: 0%;"></div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <h2 style="margin-top: 2rem; font-size: 1.5rem; font-weight: bold;">Other Modules</h2>
+  <div class="grid">
+    {% for module in categories.education[1:] + categories.bi_toets + categories.dutch[1:] %}
+    <div class="module-card">
+      <a href="{{ url_for('lesson_bp.lesson_view', module_id=module.id, lesson_index=0, lang=lang) }}">
+        <div class="module-title">
+          <svg class="icon" fill="none" viewBox="0 0 24 24"><path d="M4 4h16v16H4z"/></svg>
+          {{ module.title }}
+        </div>
+        <div class="module-description">{{ module.description }}</div>
+        {% set total = module.lessons|length %}
+        {% set done = module.lessons|selectattr('id', 'in', user.progress|map(attribute='lesson_id')|list)|list|length %}
+        <div class="badge">
+          {% if not user.has_subscription %}🔒 {{ t.locked }}{% else %}{{ t.available }}{% endif %}
+        </div>
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" style="--progress: {{ (done / total * 100) if total > 0 else 0 }}%;"></div>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

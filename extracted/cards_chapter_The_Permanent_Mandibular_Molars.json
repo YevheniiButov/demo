@@ -1,0 +1,145 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the common root base of molar teeth called?",
+      "answer": "The common root base is called the root trunk.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Which root is usually the longest in maxillary molars?",
+      "answer": "The lingual root is usually the longest.",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "From which aspect is the maxillary first molar's gross outline the reverse of the buccal aspect?",
+      "answer": "Lingual Aspect",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the shape of the distolingual cusp of the maxillary first molar.",
+      "answer": "The distolingual cusp is round and smooth, creating an arc that is almost a semicircle.",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "How many major fossae are present on the occlusal surface of the maxillary first molar?",
+      "answer": "Two major fossae: the central fossa and the distal fossa.",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the primary cusp triangle in maxillary molars?",
+      "answer": "The primary cusp triangle consists of the mesiolingual cusp and the two buccal cusps.",
+      "tags": [
+        "anatomy",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which cusp is the largest on the maxillary first molar?",
+      "answer": "Mesiolingual cusp",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the differences between the maxillary first and second molars.",
+      "answer": "The second molar has a shorter crown cervico-occlusally, smaller distobuccal and distolingual cusps, and usually no fifth cusp.",
+      "tags": [
+        "anatomy",
+        "summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the common occlusal shape of the maxillary third molar?",
+      "answer": "The maxillary third molar often has a heart-shaped occlusal outline.",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "At what age does the maxillary second molar typically erupt?",
+      "answer": "12–13 years",
+      "tags": [
+        "anatomy",
+        "exam_tip"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the oblique ridge on the maxillary molar?",
+      "answer": "The oblique ridge is a structural feature that crosses the occlusal surface obliquely, connecting the triangular ridge of the distobuccal cusp and the distal ridge of the mesiolingual cusp.",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which developmental groove is associated with the fifth cusp on the maxillary molar?",
+      "answer": "Fifth cusp groove",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the lingual root of the maxillary first molar.",
+      "answer": "The lingual root is conical, terminating in a bluntly rounded apex, and is the longest of the three roots.",
+      "tags": [
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "What are the key characteristics of the maxillary third molar?",
+      "answer": "The maxillary third molar often has a heart-shaped occlusal outline, a smaller crown, and roots that are shorter and often fused.",
+      "tags": [
+        "anatomy",
+        "summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the role of the maxillary molars in mastication?",
+      "answer": "Maxillary molars play a crucial role in grinding and chewing food, contributing to the overall process of mastication.",
+      "tags": [
+        "physiology"
+      ],
+      "image_hint": false
+    }
+  ]
+}

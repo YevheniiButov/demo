@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5">
+  <div class="card p-4 shadow-sm" style="max-width: 700px; margin: auto;">
+    <h2 class="mb-3 fw-bold">📝 Вопрос {{ index + 1 }} из {{ total }}</h2>
+    <p class="lead fw-semibold">{{ question.question }}</p>
+
+    <form method="POST">
+      {% for option in question.options %}
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="radio" name="selected" id="option_{{ option.id }}" value="{{ option.id }}" required>
+          <label class="form-check-label" for="option_{{ option.id }}">
+            {{ option.text }}
+          </label>
+        </div>
+      {% endfor %}
+      <button type="submit" class="btn btn-primary mt-3">Ответить</button>
+    </form>
+
+    {% if result %}
+      <p class="mt-4 fw-bold text-{{ 'success' if result == 'correct' else 'danger' }}">
+        {% if result == 'correct' %}✅ Правильно!{% else %}❌ Неправильно{% endif %}
+      </p>
+      <a href="/tests/card-test/{{ index + 1 }}" class="btn btn-outline-secondary mt-2">Следующий вопрос</a>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

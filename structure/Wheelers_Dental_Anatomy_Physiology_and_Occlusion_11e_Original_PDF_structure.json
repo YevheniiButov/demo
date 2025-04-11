@@ -1,0 +1,53 @@
+{
+  "chapters": [
+    {
+      "title": "Use of the current edition of the electronic version of this book (eBook)",
+      "theme": "Access and activation of the eBook version",
+      "start_page": 2,
+      "end_page": 2,
+      "content_block_ids": [
+        1
+      ]
+    },
+    {
+      "title": "WHEELER’S DENTAL ANATOMY, PHYSIOLOGY, AND OCCLUSION",
+      "theme": "Introduction and overview of the book",
+      "start_page": 3,
+      "end_page": 5,
+      "content_block_ids": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Preface",
+      "theme": "Acknowledgements and dedication",
+      "start_page": 8,
+      "end_page": 8,
+      "content_block_ids": [
+        5
+      ]
+    },
+    {
+      "title": "Contents",
+      "theme": "Table of contents",
+      "start_page": 9,
+      "end_page": 9,
+      "content_block_ids": [
+        6
+      ]
+    },
+    {
+      "title": "Introduction to Dental Anatomy",
+      "theme": "Overview of dental anatomy and learning objectives",
+      "start_page": 10,
+      "end_page": 12,
+      "content_block_ids": [
+        7,
+        8,
+        9
+      ]
+    }
+  ]
+}

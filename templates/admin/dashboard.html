@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Admin Dashboard{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <h1>🛠 Admin Panel</h1>
+    <p>Welcome, {{ user.name }}!</p>
+    <ul>
+      <li><a href="{{ url_for('admin_bp.import_modules', lang=lang) }}">📥 Import Modules</a></li>
+      <li><a href="{{ url_for('admin_bp.admin_users', lang=lang) }}">👤 View Users</a></li>
+      <li><a href="{{ url_for('admin_bp.create_module', lang=lang) }}">🧱 Create Modules</a></li>
+      <li><a href="{{ url_for('pdf_bp.pdf_upload') }}">📤 Upload & Extract PDF</a></li>
+
+      {% set example_structure = latest_structure_file if latest_structure_file else 'example_structure.json' %}
+      {% set example_blocks = latest_blocks_file if latest_blocks_file else 'example.json' %}
+
+      <li><a href="{{ url_for('pdf_bp.pdf_structure', filename=example_structure) }}">🧾 View Structure</a></li>
+      <li><a href="{{ url_for('pdf_bp.view_pdf_blocks', filename=example_blocks) }}">🔍 View PDF Blocks</a></li>
+      <li><a href="{{ url_for('pdf_bp.chapter_summary', filename=example_structure, chapter_index=0) }}">📋 Chapter Summary</a></li>
+      <li><a href="{{ url_for('pdf_bp.chapter_cards', filename=example_structure, chapter_index=0) }}">📇 Chapter Cards</a></li>
+      <!-- другие инструменты -->
+    </ul>
+  </div>
+{% endblock %}

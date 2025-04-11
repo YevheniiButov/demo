@@ -1,0 +1,26 @@
+<header style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+  <div class="brand-text">Become a Tandarts</div>
+  <nav style="flex-grow: 1; display: flex; justify-content: flex-end; align-items: center; gap: 1rem;">
+    <a href="{{ url_for('main_bp.index', lang=lang) }}">Home</a>
+    <a href="{{ url_for('main_bp.big_info', lang=lang) }}">BIG Info</a>
+    <a href="{{ url_for('auth_bp.register', lang=lang) }}">Register</a>
+
+    {% if session.user_id %}
+    <span style="font-size: 0.95rem; color: #444;">Hi, {{ session.user_name }} 👋</span>
+    <a href="{{ url_for('main_bp.profile', lang=lang) }}">Profile</a>
+    <a href="{{ url_for('auth_bp.logout', lang=lang) }}">Logout</a>
+    {% else %}
+    <a href="{{ url_for('auth_bp.login', lang=lang) }}">Login</a>
+    {% endif %}
+
+    <select class="lang-switch">
+      <option value="en" {% if lang == 'en' %}selected{% endif %}>EN</option>
+      <option value="nl" {% if lang == 'nl' %}selected{% endif %}>NL</option>
+      <option value="ru" {% if lang == 'ru' %}selected{% endif %}>RU</option>
+      <option value="uk" {% if lang == 'uk' %}selected{% endif %}>UA</option>
+      <option value="es" {% if lang == 'es' %}selected{% endif %}>ES</option>
+      <option value="tr" {% if lang == 'tr' %}selected{% endif %}>TR</option>
+      <option value="fa" {% if lang == 'fa' %}selected{% endif %}>FA</option>
+    </select>
+  </nav>
+</header>

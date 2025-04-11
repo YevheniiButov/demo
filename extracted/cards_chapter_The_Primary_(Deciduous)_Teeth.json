@@ -1,0 +1,158 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What are the major differences between primary and permanent teeth in terms of size and shape?",
+      "answer": "Primary teeth are smaller, have more prominent cervical ridges, narrower necks, lighter color, and roots that are more widely flared compared to permanent teeth.",
+      "tags": [
+        "anatomy",
+        "pedodontics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which primary tooth is typically the second to emerge into the oral cavity?",
+      "answer": "Central incisor",
+      "tags": [
+        "pedodontics",
+        "anatomy",
+        "exam_tip"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the role of primary teeth in maintaining space for permanent teeth.",
+      "answer": "Primary teeth maintain space for permanent teeth by holding the space in the dental arch, preventing crowding and misalignment of permanent teeth.",
+      "tags": [
+        "orthodontics",
+        "pedodontics",
+        "definition"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the process of exfoliation of primary teeth.",
+      "answer": "Exfoliation of primary teeth occurs between ages 7 and 12, starting with root resorption at the apical extremity and continuing until the root is fully resorbed and the crown is lost due to lack of support.",
+      "tags": [
+        "pedodontics",
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which primary molar is most likely to have a fifth cusp, known as the 'tubercle of Carabelli'?",
+      "answer": "Maxillary second molar",
+      "tags": [
+        "anatomy",
+        "pedodontics",
+        "exam_tip"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the typical pulp chamber and pulp canal characteristics in primary teeth.",
+      "answer": "Primary teeth have large pulp chambers and high pulp horns, with relatively thin enamel and dentin, making them more susceptible to caries.",
+      "tags": [
+        "endodontics",
+        "anatomy",
+        "pedodontics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the primary function of the dental pulp in teeth?",
+      "answer": "To form the dentin of the tooth",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "exam_tip"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Outline the typical sequence of eruption for primary teeth.",
+      "answer": "The sequence is central incisor, lateral incisor, first molar, canine, and second molar, with mandibular teeth generally erupting before maxillary teeth.",
+      "tags": [
+        "pedodontics",
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What are the clinical implications of different cementoenamel junction (CEJ) types?",
+      "answer": "Different CEJ types can impact periodontal health, sensitivity, caries risk, and the placement of dental restorations.",
+      "tags": [
+        "periodontology",
+        "anatomy",
+        "clinical_guideline"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which primary tooth has a crown form unlike any permanent tooth?",
+      "answer": "Mandibular first molar",
+      "tags": [
+        "anatomy",
+        "pedodontics",
+        "exam_tip"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the significance of developmental grooves on primary teeth.",
+      "answer": "Developmental grooves are lines on the surfaces of crowns and roots that can be sites of fractures or caries initiation.",
+      "tags": [
+        "anatomy",
+        "pathology",
+        "pedodontics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "What are the general functions of primary teeth?",
+      "answer": "Primary teeth function in mastication, speech development, and maintenance of space for permanent teeth.",
+      "tags": [
+        "pedodontics",
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which primary tooth typically erupts first in the oral cavity?",
+      "answer": "Mandibular central incisor",
+      "tags": [
+        "anatomy",
+        "pedodontics",
+        "exam_tip"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Discuss the importance of the size of teeth in relation to genetic and racial factors.",
+      "answer": "Tooth size is largely genetically determined, with notable racial differences, affecting occlusion and dental alignment.",
+      "tags": [
+        "anatomy",
+        "orthodontics",
+        "pedodontics"
+      ],
+      "image_hint": false
+    }
+  ]
+}

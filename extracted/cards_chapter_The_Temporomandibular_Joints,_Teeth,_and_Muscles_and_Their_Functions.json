@@ -1,0 +1,121 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the function of the articular disk in the temporomandibular joint (TMJ)?",
+      "answer": "The articular disk in the TMJ acts as a cushion between the condyle of the mandible and the mandibular fossa of the temporal bone, allowing smooth gliding movements and distributing load during jaw movement.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which artery supplies blood to the mandibular teeth?",
+      "answer": "Inferior alveolar artery",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "exam_tip",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the role of the lateral pterygoid muscle in jaw movement.",
+      "answer": "The lateral pterygoid muscle helps in opening the jaw by pulling the condyle forward and downward, and it stabilizes the position of the articular disk during jaw movements.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key anatomical features of the mandibular fossa.",
+      "answer": "The mandibular fossa is an oval depression in the temporal bone, part of the TMJ, bounded by the articular eminence, zygoma, and tympanic plate, accommodating the condyle of the mandible.",
+      "tags": [
+        "anatomy",
+        "summary",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the primary function of the sphenomandibular ligament?",
+      "answer": "To stabilize the mandible during jaw movements.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "exam_tip",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the significance of centric relation in dentistry.",
+      "answer": "Centric relation is a reproducible jaw position used in dentistry to ensure accurate transfer of the mandibular position to an articulator for prosthetic and orthodontic treatment.",
+      "tags": [
+        "prosthodontics",
+        "orthodontics",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Outline the components of the TMJ capsule.",
+      "answer": "The TMJ capsule consists of an internal synovial layer and an outer fibrous layer containing veins, nerves, and collagen fibers, providing structural support and lubrication.",
+      "tags": [
+        "anatomy",
+        "summary",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What type of joint is the temporomandibular joint classified as?",
+      "answer": "Ginglymoarthrodial",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the mandibular rest position?",
+      "answer": "The mandibular rest position is a postural position of the mandible determined largely by neuromuscular activity, with the muscles in a relaxed state.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Describe the role of the inferior alveolar nerve.",
+      "answer": "The inferior alveolar nerve provides sensory innervation to the mandibular teeth, lower lip, and chin, and branches into the mental and incisive nerves.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "summary",
+        "card_summary"
+      ],
+      "image_hint": false
+    }
+  ]
+}

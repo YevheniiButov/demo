@@ -1,0 +1,116 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "Какова основная функция зубной пульпы в период развития зуба?",
+      "answer": "Основная функция зубной пульпы в период развития зуба заключается в образовании дентина.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "endodontics",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Сколько обычно каналов в первом премоляре верхней челюсти?",
+      "answer": "Два",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Какова форма пульповой камеры в центральном резце верхней челюсти при поперечном сечении на уровне шейки?",
+      "answer": "Треугольная с округлыми углами",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Какой зуб имеет наибольшее лабиолингвальное измерение корня среди всех зубов?",
+      "answer": "Клык верхней челюсти имеет наибольшее лабиолингвальное измерение корня среди всех зубов.",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Где обычно расположен апикальный форамен у клыка верхней челюсти?",
+      "answer": "На верхушке корня",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Какой зуб имеет наибольшую вариативность в анатомии среди всех зубов верхней челюсти?",
+      "answer": "Третий моляр верхней челюсти имеет наибольшую вариативность в анатомии.",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Что такое дельта-система в корне зуба?",
+      "answer": "Дельта-система в корне зуба — это сложная сеть из нескольких мелких каналов, отходящих от основного канала.",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Какой зуб является самым маленьким в полости рта?",
+      "answer": "Центральный резец нижней челюсти",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Какие зубы обычно имеют три корня и три канала?",
+      "answer": "Первый моляр верхней челюсти обычно имеет три корня и три канала.",
+      "tags": [
+        "anatomy",
+        "endodontics",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Какое значение имеет вторичный дентин в зубах?",
+      "answer": "Вторичный дентин формируется в течение жизни зуба и уменьшает размер пульповой камеры.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "endodontics",
+        "card_learning"
+      ],
+      "image_hint": false
+    }
+  ]
+}

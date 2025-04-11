@@ -1,0 +1,155 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the typical shape of the root of the maxillary central incisor from the labial aspect?",
+      "answer": "The root of the central incisor from the labial aspect is cone-shaped, usually with a relatively blunt apex.",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the cervical outline of the maxillary central incisor.",
+      "answer": "The cervical outline of the crown follows a semicircular direction with the curvature rootwise.",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which aspect of the maxillary central incisor has a cingulum?",
+      "answer": "Lingual Aspect",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the function of the marginal ridges on the maxillary central incisor?",
+      "answer": "The marginal ridges are confluent with the cingulum and outline the lingual fossa, providing structural support.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the differences in curvature between the mesial and distal outlines of the maxillary central incisor.",
+      "answer": "The distal outline is more convex with a higher crest of curvature toward the cervical line compared to the mesial outline.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "At what age does the first evidence of calcification of the maxillary central incisor occur?",
+      "answer": "3–4 months",
+      "tags": [
+        "physiology",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the significance of the lingual fossa in the maxillary central incisor.",
+      "answer": "The lingual fossa is a shallow concavity bordered by the marginal ridges and the cingulum, contributing to the tooth's structural integrity.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "What are the typical dimensions of the maxillary central incisor crown and root?",
+      "answer": "The cervicoincisal length of the crown is 10.5 mm, and the root is typically 13.0 mm long.",
+      "tags": [
+        "anatomy",
+        "table",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which part of the maxillary central incisor is usually longer, the crown or the root?",
+      "answer": "The root is usually 2 or 3 mm longer than the crown.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What changes occur to the incisal outline of the maxillary central incisor after the tooth has been in function?",
+      "answer": "The incisal outline becomes regular and straight in a mesiodistal direction after the mamelons are obliterated.",
+      "tags": [
+        "anatomy",
+        "physiology"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Describe the typical appearance of the maxillary lateral incisor compared to the central incisor.",
+      "answer": "The maxillary lateral incisor is smaller in all dimensions except root length and has more curvature with rounded incisal angles.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the typical curvature of the cervical line on the mesial surface of the maxillary central incisor?",
+      "answer": "The cervical line curves incisally to a noticeable degree, greater than on any other tooth surface.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "How does the incisal edge of the maxillary central incisor align with the root?",
+      "answer": "A line drawn through the center of the root and crown tends to parallel the mesial outline of the crown and root.",
+      "tags": [
+        "anatomy",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which maxillary incisor is more prone to developmental anomalies?",
+      "answer": "Maxillary lateral incisor",
+      "tags": [
+        "pathology",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is a common variation found in the maxillary lateral incisor?",
+      "answer": "Maxillary lateral incisors may have a palatogingival groove, which can predispose to localized periodontal disease.",
+      "tags": [
+        "anatomy",
+        "pathology"
+      ],
+      "image_hint": false
+    }
+  ]
+}

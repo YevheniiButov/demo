@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Your Profile — Become a Tandarts{% endblock %}
+
+{% block content %}
+  <div class="form-container" style="max-width: 700px;">
+    <h1 class="profile-title">
+      {% if lang == 'ru' %}Добро пожаловать в профиль
+      {% elif lang == 'uk' %}Ласкаво просимо до профілю
+      {% elif lang == 'nl' %}Welkom op je profiel
+      {% elif lang == 'es' %}Bienvenido a tu perfil
+      {% elif lang == 'tr' %}Profiline hoş geldin
+      {% elif lang == 'fa' %}به پروفایل خود خوش آمدید
+      {% else %}Welcome to Your Profile
+      {% endif %}
+    </h1>
+
+    <div class="info">
+      <p><strong>Name:</strong> {{ name }}</p>
+      <p><strong>Email:</strong> {{ email }}</p>
+
+      {% if has_subscription %}
+        <p>🟢 {% if lang == 'ru' %}Подписка активна{% elif lang == 'uk' %}Підписка активна{% elif lang == 'nl' %}Abonnement actief{% elif lang == 'es' %}Suscripción activa{% elif lang == 'tr' %}Abonelik aktif{% elif lang == 'fa' %}اشتراک فعال است{% else %}Subscription: Active{% endif %}</p>
+      {% else %}
+        <p>🔒 {% if lang == 'ru' %}Нет активной подписки{% elif lang == 'uk' %}Підписка не активна{% elif lang == 'nl' %}Geen actief abonnement{% elif lang == 'es' %}Suscripción inactiva{% elif lang == 'tr' %}Abonelik yok{% elif lang == 'fa' %}اشتراک فعال نیست{% else %}Subscription: Not active{% endif %}</p>
+        <a href="/subscribe" class="btn btn-primary">
+          {% if lang == 'ru' %}Оформить подписку{% elif lang == 'uk' %}Оформити підписку{% elif lang == 'nl' %}Abonneren{% elif lang == 'es' %}Suscribirse{% elif lang == 'tr' %}Abone Ol{% elif lang == 'fa' %}خرید اشتراک{% else %}Subscribe Now{% endif %}
+        </a>
+      {% endif %}
+      
+      
+
+
+      <hr>
+      <h3>{% if lang == 'ru' %}Ваш прогресс{% elif lang == 'uk' %}Ваш прогрес{% elif lang == 'nl' %}Je voortgang{% elif lang == 'es' %}Tu progreso{% elif lang == 'tr' %}İlerlemeniz{% elif lang == 'fa' %}پیشرفت شما{% else %}Your Progress{% endif %}</h3>
+      <ul>
+        {% for module in progress %}
+          <li>
+            <strong>{{ module.title }}</strong><br>
+            {{ module.completed_lessons }}/{{ module.total_lessons }} {% if lang == 'ru' %}уроков пройдено{% elif lang == 'uk' %}уроків завершено{% elif lang == 'nl' %}lessen voltooid{% elif lang == 'es' %}lecciones completadas{% elif lang == 'tr' %}ders tamamlandı{% elif lang == 'fa' %}درس‌ها به پایان رسید{% else %}lessons completed{% endif %}
+          </li>
+        {% else %}
+          <li>{% if lang == 'ru' %}Нет прогресса. Начните <a href="/modules">здесь</a>.{% elif lang == 'uk' %}Ще немає прогресу. Почніть <a href="/modules">тут</a>.{% elif lang == 'nl' %}Nog geen voortgang. Begin <a href="/modules">hier</a>.{% elif lang == 'es' %}Sin progreso todavía. Empieza <a href="/modules">aquí</a>.{% elif lang == 'tr' %}Henüz ilerleme yok. <a href="/modules">Buradan</a> başlayın.{% elif lang == 'fa' %}هنوز پیشرفتی ندارید. <a href="/modules">اینجا</a> شروع کنید.{% else %}No progress yet. Start learning <a href="/modules">here</a>.{% endif %}</li>
+        {% endfor %}
+      </ul>
+
+      {% if is_admin %}
+        <hr>
+        <h3>🛠 Admin Panel</h3>
+        <ul>
+          <li><a href="/admin/users">👥 Manage Users</a></li>
+          <li><a href="/admin/import-modules">📦 Import Modules</a></li>
+          <li><a href="/admin/create-module">➕ Create Module</a></li>
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+{% endblock %}

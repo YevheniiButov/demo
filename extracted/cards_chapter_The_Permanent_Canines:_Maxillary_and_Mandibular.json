@@ -1,0 +1,108 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the main function of the mandibular central incisor?",
+      "answer": "The mandibular central incisor functions primarily for cutting food due to its sharp incisal edge.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the root characteristics of the mandibular central incisor.",
+      "answer": "The root of the mandibular central incisor is narrow mesiodistally and wide labiolingually, often featuring a distal curvature.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the cingulum in mandibular central incisors?",
+      "answer": "The cingulum provides structural support and is located at the cervical third of the lingual surface, though it shows few developmental lines.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which aspect of the mandibular central incisor shows bilateral symmetry?",
+      "answer": "Incisal aspect",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "How does the labial surface of the mandibular central incisor appear?",
+      "answer": "The labial surface is smooth with a flattened incisal third and a more convex middle third.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the curvature of the cervical line on the mesial surface of the mandibular central incisor?",
+      "answer": "Approximately one-third the length of the crown",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key features of the mandibular central incisor.",
+      "answer": "The mandibular central incisor is characterized by a narrow mesiodistal root, a smooth labial surface, a minimal cingulum, and bilateral symmetry in the incisal view.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What are the common variations found in mandibular central incisors?",
+      "answer": "Variations include differences in root curvature and length, as well as crown size and shape.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which feature helps differentiate mandibular central and lateral incisors?",
+      "answer": "The incisal edge of the central incisor is almost at right angles to a line bisecting the crown labiolingually.",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the role of the incisal ridge in mandibular central incisors?",
+      "answer": "The incisal ridge is responsible for the cutting function of the tooth, maintaining sharpness for efficient food processing.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "card_learning"
+      ],
+      "image_hint": false
+    }
+  ]
+}

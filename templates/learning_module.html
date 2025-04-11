@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block title %}{{ module.category_title }} – Tandarts Academy{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+  <div class="card border-0 rounded-5 shadow-lg mx-auto animate__animated animate__fadeIn" style="max-width: 800px; background: linear-gradient(to bottom, #fdfdfd, #eef6f9);">
+    <div class="card-body px-4 py-5">
+
+      <h2 class="h4 fw-bold text-center mb-4">{{ current_block.block_title }}</h2>
+
+      {% for card in current_block.cards %}
+        {% if card.type == 'text' %}
+          <div class="mb-4 animate__animated animate__fadeInUp" style="animation-delay: {{ loop.index * 0.15 }}s">
+            <p class="mb-0" style="white-space: pre-wrap;">{{ card.content }}</p>
+          </div>
+        {% elif card.type == 'image' %}
+          <div class="text-center mb-4 animate__animated animate__fadeIn">
+            <img src="{{ card.url }}" alt="{{ card.alt }}" class="img-fluid rounded" style="max-height: 400px;">
+            <small class="text-muted d-block mt-2">{{ card.alt }}</small>
+          </div>
+        {% endif %}
+      {% endfor %}
+
+      {% if current_block.test %}
+        <hr class="my-4">
+        <h3 class="h5 fw-semibold">{{ current_block.test.title }}</h3>
+        <form method="POST" action="/module/{{ module_id }}/block/{{ block_index }}/test">
+          {% for q in current_block.test.questions %}
+            <div class="mb-3">
+              <p><strong>{{ q.question }}</strong></p>
+              {% for opt in q.options %}
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="q{{ q.id }}" id="q{{ q.id }}_{{ loop.index }}" value="{{ opt }}">
+                  <label class="form-check-label" for="q{{ q.id }}_{{ loop.index }}">{{ opt }}</label>
+                </div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+          <button type="submit" class="btn btn-dark rounded-pill px-4 mt-3">Проверить</button>
+        </form>
+      {% else %}
+        <div class="text-end mt-4">
+          <a href="/module/{{ module_id }}/block/{{ block_index + 1 }}" class="btn btn-success rounded-pill px-4">Далее</a>
+        </div>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" />
+{% endblock %}

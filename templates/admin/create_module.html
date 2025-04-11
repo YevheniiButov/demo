@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}Create Module — Tandarts Academy{% endblock %}
+
+{% block content %}
+  <div class="form-container" style="max-width: 700px;">
+    <h1>Create New Module</h1>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul class="flashes">
+          {% for message in messages %}
+            <li>{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <form method="post">
+      <label for="title">Title:</label>
+      <input type="text" id="title" name="title" required>
+
+      <label for="description">Description:</label>
+      <textarea id="description" name="description"></textarea>
+
+      <label for="category">Category:</label>
+      <select id="category" name="category">
+        <option value="education">Education</option>
+        <option value="bi">BI-Toets</option>
+        <option value="dutch">Dutch for Dentists</option>
+      </select>
+
+      <label for="is_premium">
+        <input type="checkbox" id="is_premium" name="is_premium" checked>
+        Is Premium
+      </label>
+
+      <h3>First Lesson</h3>
+      <label for="lesson_title">Lesson Title:</label>
+      <input type="text" id="lesson_title" name="lesson_title" required>
+
+      <label for="lesson_content">Lesson Content:</label>
+      <textarea id="lesson_content" name="lesson_content"></textarea>
+
+      <label for="quiz_json">Quiz (JSON):</label>
+      <textarea id="quiz_json" name="quiz_json" placeholder='[{"question": "How many teeth?", "options": ["28", "32", "30"], "answer": "32"}]'></textarea>
+
+      <button type="submit">Create Module</button>
+    </form>
+  </div>
+{% endblock %}

@@ -1,0 +1,154 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What are the key features of the maxillary canine (right)?",
+      "answer": "The maxillary canine has a prominent incisal edge, with mesial and distal surfaces. The lingual surface is typically more pronounced than the facial/labial surface.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Describe the mandibular canine (right) morphology.",
+      "answer": "The mandibular canine is characterized by its incisal edge, with mesial and distal surfaces. It has a less pronounced lingual surface compared to the maxillary canine.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What distinguishes the maxillary first premolar?",
+      "answer": "The maxillary first premolar has an occlusal surface with mesial and distal surfaces. The facial/buccal surface is prominent, and it typically has two cusps.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Identify the features of the maxillary second premolar (right).",
+      "answer": "The maxillary second premolar has an occlusal surface with mesial and distal surfaces. It often has a single root and two cusps, similar to the first premolar.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What are the characteristics of the mandibular first premolar (right)?",
+      "answer": "The mandibular first premolar has an occlusal surface with mesial and distal surfaces. It typically has a prominent buccal cusp and a smaller lingual cusp.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Describe the mandibular second premolar (right).",
+      "answer": "The mandibular second premolar has an occlusal surface with mesial and distal surfaces. It often has two or three cusps and a larger lingual cusp compared to the first premolar.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What are the key features of the maxillary first molar (right)?",
+      "answer": "The maxillary first molar has an occlusal surface with mesial and distal surfaces. It typically has four cusps and a prominent oblique ridge.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Identify the characteristics of the maxillary second molar (right).",
+      "answer": "The maxillary second molar has an occlusal surface with mesial and distal surfaces. It usually has three to four cusps and a less pronounced oblique ridge compared to the first molar.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Describe the mandibular first molar (right).",
+      "answer": "The mandibular first molar has an occlusal surface with mesial and distal surfaces. It typically has five cusps, with three buccal cusps and two lingual cusps.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "What are the features of the mandibular second molar (right)?",
+      "answer": "The mandibular second molar has an occlusal surface with mesial and distal surfaces. It generally has four cusps arranged in a cross pattern.",
+      "tags": [
+        "anatomy",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "Which tooth is characterized by having a prominent oblique ridge?",
+      "answer": "Maxillary first molar",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which mandibular tooth typically has five cusps?",
+      "answer": "Mandibular first molar",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which premolar often has a larger lingual cusp compared to its counterpart?",
+      "answer": "Mandibular second premolar",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Which tooth is known for having three to four cusps and a less pronounced oblique ridge?",
+      "answer": "Maxillary second molar",
+      "tags": [
+        "anatomy",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key differences between maxillary and mandibular canines.",
+      "answer": "Maxillary canines have a more pronounced lingual surface and are generally larger than mandibular canines, which have a less pronounced lingual surface.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<!-- templates/admin/pdf_preview.html -->
+
+{% extends "base.html" %}
+{% block title %}PDF Preview{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>📄 PDF Preview: {{ filename }}</h1>
+
+  <iframe src="{{ url_for('static', filename='pdfjs/web/viewer.html') }}?file={{ url_for('static', filename='uploads/' + filename) }}" 
+          width="100%" height="600px" style="border:1px solid #ccc"></iframe>
+
+  <div style="margin-top: 1em">
+    <a href="{{ url_for('pdf_bp.view_pdf_blocks', filename=filename.replace('.pdf', '.json')) }}" class="btn">📄 View Extracted Blocks</a>
+    <a href="{{ url_for('pdf_bp.pdf_structure', filename=filename.replace('.pdf', '_structure.json')) }}" class="btn">🧠 View Structure</a>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,110 @@
+<!-- templates/admin/pdf_blocks.html -->
+
+{% extends "base.html" %}
+{% block title %}Extracted Blocks{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>🧩 Extracted Blocks for {{ filename }}</h1>
+
+  <a href="{{ url_for('pdf_bp.pdf_upload') }}">⬅ Back to Upload</a>
+
+  <input type="text" id="filterInput" placeholder="🔍 Search by tag, page, or image presence..." style="margin: 1em 0; padding: 6px; width: 100%; max-width: 400px;">
+
+  <table border="1" cellspacing="0" cellpadding="6" id="blocksTable">
+    <thead>
+      <tr>
+        <th onclick="sortTable(0)">#</th>
+        <th onclick="sortTable(1)">Text</th>
+        <th onclick="sortTable(2)">Page</th>
+        <th onclick="sortTable(3)">BBox</th>
+        <th>Images</th>
+        <th onclick="sortTable(5)">Tags</th>
+        <th onclick="sortTable(6)">Related to Image?</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for i, block in enumerate(blocks) %}
+      <tr>
+        <td>{{ i }}</td>
+        <td style="max-width: 300px; white-space: pre-wrap; word-wrap: break-word;">{{ block.text[:300] }}{% if block.text|length > 300 %}...{% endif %}</td>
+        <td>{{ block.page }}</td>
+        <td>{{ block.bbox }}</td>
+        <td>
+          {% if block.images %}
+            {% for img in block.images %}
+              <img src="/static/images/{{ img }}" style="max-height: 60px; margin: 2px;">
+            {% endfor %}
+          {% else %}
+            —
+          {% endif %}
+        </td>
+        <td>{{ block.tags|join(', ') if block.tags else '' }}</td>
+        <td>{{ block.is_related_to_image }}</td>
+        <td>
+          <a href="{{ url_for('pdf_bp.edit_pdf_block', filename=filename, block_index=i) }}">✏️ Edit</a>
+          |
+          <a href="{{ url_for('pdf_bp.create_card_from_block', filename=filename, block_index=i) }}">➕ Card</a>
+          |
+          <a href="{{ url_for('pdf_bp.delete_pdf_block', filename=filename, block_index=i) }}" onclick="return confirm('Delete block?')">🗑 Delete</a>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<script>
+  document.getElementById("filterInput").addEventListener("input", function () {
+    const filter = this.value.toLowerCase();
+    const rows = document.querySelectorAll("#blocksTable tbody tr");
+    rows.forEach(row => {
+      const tags = row.children[5].innerText.toLowerCase();
+      const page = row.children[2].innerText.toLowerCase();
+      const images = row.children[4].innerText.trim();
+      const hasImages = images !== '—';
+
+      const matches =
+        tags.includes(filter) ||
+        page.includes(filter) ||
+        (filter.includes("image") && hasImages);
+
+      row.style.display = matches ? "" : "none";
+    });
+  });
+
+  function sortTable(n) {
+    const table = document.getElementById("blocksTable");
+    let switching = true;
+    let dir = "asc";
+    let switchcount = 0;
+    while (switching) {
+      switching = false;
+      const rows = table.rows;
+      for (let i = 1; i < (rows.length - 1); i++) {
+        let shouldSwitch = false;
+        const x = rows[i].getElementsByTagName("TD")[n];
+        const y = rows[i + 1].getElementsByTagName("TD")[n];
+        const xVal = x.innerText.toLowerCase();
+        const yVal = y.innerText.toLowerCase();
+        if ((dir == "asc" && xVal > yVal) || (dir == "desc" && xVal < yVal)) {
+          shouldSwitch = true;
+          break;
+        }
+      }
+      if (shouldSwitch) {
+        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+        switching = true;
+        switchcount++;
+      } else {
+        if (switchcount == 0 && dir == "asc") {
+          dir = "desc";
+          switching = true;
+        }
+      }
+    }
+  }
+</script>
+
+{% endblock %}

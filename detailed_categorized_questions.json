@@ -1,0 +1,7394 @@
+[
+  {
+    "id": 1,
+    "question": "Lokale anaesthetica blokkeren ionkanalen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "анестезия",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 2,
+    "question": "Lokale anaesthetica stimuleren ionkanalen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анестезия",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 3,
+    "question": "Het effect van stimulatie van steroidreceptoren treedt langzaam in.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 4,
+    "question": "Het effect van stimulatie van steroidreceptoren treedt snel in.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 5,
+    "question": "Beta-blokkers worden onder andere toegepast bij bepaalde hartritmestoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 6,
+    "question": "Beta-blokkers kunnen niet worden toegepast bij hartritmestoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 7,
+    "question": "Beta-blokkers brengen bronchodilatatie teweeg en worden toegepast bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 8,
+    "question": "Beta-blokkers brengen geen bronchodilatatie teweeg en worden niet toegepast bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 9,
+    "question": "Beta-blokkers verlagen de bloeddruk.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 10,
+    "question": "Beta-blokkers verlagen niet de bloeddruk.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 11,
+    "question": "Beta2-sympathicomimetica brengen bronchodilatatie teweeg.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 12,
+    "question": "Acetylcholine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 13,
+    "question": "Acetylcholine is een neurotransmitter die vrijkomt in het perifeer zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 14,
+    "question": "Adrenaline is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 15,
+    "question": "Adrenaline is een neurotransmitter die vrijkomt in het perifeer zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 16,
+    "question": "Noradrenaline is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 17,
+    "question": "Noradrenaline is een neurotransmitter die vrijkomt in het perifeer zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 18,
+    "question": "Dopamine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 19,
+    "question": "Serotonine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 20,
+    "question": "GABA (gamma-aminoboterzuur) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 21,
+    "question": "Glutamaat is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 22,
+    "question": "Substantie P is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 23,
+    "question": "Endorfine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 24,
+    "question": "Enkefaline is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 25,
+    "question": "Histamine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 26,
+    "question": "Neuropeptide Y is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 27,
+    "question": "Vasopressine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 28,
+    "question": "Oxytocine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 29,
+    "question": "Angiotensine II is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 30,
+    "question": "Bradykinine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 31,
+    "question": "Stikstofmonoxide (NO) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 32,
+    "question": "Adenosine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 33,
+    "question": "ATP (adenosinetrifosfaat) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 34,
+    "question": "Anandamide is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 35,
+    "question": "2-arachidonoylglycerol (2-AG) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 36,
+    "question": "Ghrelin is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 37,
+    "question": "Leptine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 38,
+    "question": "Insuline is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 39,
+    "question": "Glucagon is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 40,
+    "question": "Cortisol is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 41,
+    "question": "Aldosteron is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 42,
+    "question": "TSH (thyreoïd stimulerend hormoon) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 43,
+    "question": "LH (luteïniserend hormoon) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 44,
+    "question": "FSH (follikelstimulerend hormoon) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 45,
+    "question": "Prolactine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 46,
+    "question": "Groeihormoon is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 47,
+    "question": "Melatonine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 48,
+    "question": "Endotheline is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 49,
+    "question": "Angiotensine I is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 50,
+    "question": "EPO (erytropoëtine) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 51,
+    "question": "ANP (atriaal natriuretisch peptide) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 52,
+    "question": "BNP (brain natriuretisch peptide) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 53,
+    "question": "TNF-alfa (tumor necrosis factor alfa) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 54,
+    "question": "Interleukine-1 (IL-1) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 55,
+    "question": "Interleukine-6 (IL-6) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 56,
+    "question": "Interferon-alfa is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 57,
+    "question": "Interferon-bèta is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 58,
+    "question": "Interferon-gamma is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 59,
+    "question": "BDNF (brain-derived neurotrophic factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 60,
+    "question": "NGF (nerve growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 61,
+    "question": "VEGF (vascular endothelial growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 62,
+    "question": "TGF-bèta (transforming growth factor bèta) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 63,
+    "question": "PDGF (platelet-derived growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 64,
+    "question": "EGF (epidermal growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 65,
+    "question": "FGF (fibroblast growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 66,
+    "question": "HGF (hepatocyte growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 67,
+    "question": "IGF-1 (insuline-like growth factor 1) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 68,
+    "question": "IGF-2 (insuline-like growth factor 2) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 69,
+    "question": "NGF-bèta (nerve growth factor bèta) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 70,
+    "question": "NT-3 (neurotrofine-3) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 71,
+    "question": "NT-4 (neurotrofine-4) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 72,
+    "question": "CNTF (ciliary neurotrophic factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 73,
+    "question": "GDNF (glial cell line-derived neurotrophic factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 74,
+    "question": "CTGF (connective tissue growth factor) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 75,
+    "question": "Midkine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 76,
+    "question": "Pleiotrofine is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 77,
+    "question": "BMP (bone morphogenetic protein) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 78,
+    "question": "Wnt-eiwitten zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 79,
+    "question": "Hedgehog-eiwitten zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 80,
+    "question": "Notch-receptoren zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 81,
+    "question": "Frizzled-receptoren zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 82,
+    "question": "Patched-receptoren zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 83,
+    "question": "Smoothened-receptoren zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 84,
+    "question": "Dishevelled is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 85,
+    "question": "Glycogeen is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 86,
+    "question": "Triglyceriden zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 87,
+    "question": "Fosfolipiden zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 88,
+    "question": "Cholesterol is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 89,
+    "question": "DNA (deoxyribonucleïnezuur) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 90,
+    "question": "RNA (ribonucleïnezuur) is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 91,
+    "question": "Proteïnen zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 92,
+    "question": "Koolhydraten zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 93,
+    "question": "Vetten zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 94,
+    "question": "Vitaminen zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 95,
+    "question": "Mineralen zijn neurotransmitters die vrijkomen in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 96,
+    "question": "Water is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 97,
+    "question": "Zuurstof is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 98,
+    "question": "Koolstofdioxide is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 99,
+    "question": "Stikstof is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 100,
+    "question": "Helium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 101,
+    "question": "Neon is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 102,
+    "question": "Argon is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 103,
+    "question": "Krypton is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 104,
+    "question": "Xenon is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 105,
+    "question": "Radon is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 106,
+    "question": "Fluor is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 107,
+    "question": "Chloor is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 108,
+    "question": "Broom is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 109,
+    "question": "Jodium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 110,
+    "question": "IJzer is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 111,
+    "question": "Koper is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 112,
+    "question": "Zink is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 113,
+    "question": "Mangaan is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 114,
+    "question": "Selenium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 115,
+    "question": "Molybdeen is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 116,
+    "question": "Chroom is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 117,
+    "question": "Vanadium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 118,
+    "question": "Nikkel is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 119,
+    "question": "Silicium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 120,
+    "question": "Borium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 121,
+    "question": "Arseen is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 122,
+    "question": "Cadmium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 123,
+    "question": "Lood is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 124,
+    "question": "Kwik is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 125,
+    "question": "Aluminium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 126,
+    "question": "Goud is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 127,
+    "question": "Zilver is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 128,
+    "question": "Platina is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 129,
+    "question": "Uraan is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 130,
+    "question": "Plutonium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 131,
+    "question": "Polonium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 132,
+    "question": "Astaat is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 133,
+    "question": "Seaborgium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 134,
+    "question": "Bohrium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 135,
+    "question": "Hassium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 136,
+    "question": "Meitnerium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 137,
+    "question": "Darmstadtium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 138,
+    "question": "Röntgenium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 139,
+    "question": "Copernicium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 140,
+    "question": "Nihonium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 141,
+    "question": "Flerovium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 142,
+    "question": "Moscovium is een neurotransmitter die vrijkomt in het centraal zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 143,
+    "question": "De incidentie van astma neemt toe met de leeftijd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 144,
+    "question": "De prevalentie van astma neemt toe met de leeftijd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 145,
+    "question": "Astma is een chronische inflammatoire aandoening van de luchtwegen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 146,
+    "question": "COPD is een chronische inflammatoire aandoening van de luchtwegen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 147,
+    "question": "Bij astma is er sprake van een irreversibele luchtwegvernauwing.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 148,
+    "question": "Bij COPD is er sprake van een irreversibele luchtwegvernauwing.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 149,
+    "question": "Astma wordt gekenmerkt door een wisselende mate van luchtwegobstructie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 150,
+    "question": "COPD wordt gekenmerkt door een wisselende mate van luchtwegobstructie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 151,
+    "question": "Bij astma reageren de luchtwegen overmatig op prikkels.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 152,
+    "question": "Bij COPD reageren de luchtwegen overmatig op prikkels.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 153,
+    "question": "De belangrijkste risicofactor voor astma is roken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 154,
+    "question": "De belangrijkste risicofactor voor COPD is roken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 155,
+    "question": "Astma kan op elke leeftijd ontstaan.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 156,
+    "question": "COPD ontstaat meestal op jongere leeftijd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 157,
+    "question": "Bij astma is de FEV1/FVC ratio meestal normaal of verhoogd buiten de exacerbaties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 158,
+    "question": "Bij COPD is de FEV1/FVC ratio meestal verlaagd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 159,
+    "question": "De behandeling van astma is voornamelijk gericht op het verminderen van de inflammatie en bronchospasmen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 160,
+    "question": "De behandeling van COPD is voornamelijk gericht op het verminderen van de inflammatie en bronchospasmen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 161,
+    "question": "Inhalatiecorticosteroïden zijn de belangrijkste onderhoudsbehandeling bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 162,
+    "question": "Inhalatiecorticosteroïden zijn de belangrijkste onderhoudsbehandeling bij COPD.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 163,
+    "question": "Kortwerkende bèta2-agonisten (SABA's) worden gebruikt als aanvalsmedicatie bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 164,
+    "question": "Langwerkende bèta2-agonisten (LABA's) worden gebruikt als aanvalsmedicatie bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 165,
+    "question": "Langwerkende muscarineantagonisten (LAMA's) worden voornamelijk gebruikt bij de behandeling van astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 166,
+    "question": "Langwerkende muscarineantagonisten (LAMA's) worden voornamelijk gebruikt bij de behandeling van COPD.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 167,
+    "question": "Theofylline is een eerstelijns medicijn bij de behandeling van astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 168,
+    "question": "Zuurstoftherapie is een belangrijk onderdeel van de behandeling van chronisch obstructieve longziekten (COPD) in een vergevorderd stadium.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 169,
+    "question": "Bij een acute astma-aanval is het belangrijk om de patiënt rustig te laten ademen en niet te forceren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 170,
+    "question": "Bij een acute COPD-exacerbatie is het geven van hoge concentraties zuurstof altijd geïndiceerd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 171,
+    "question": "Niet-selectieve bètablokkers zijn gecontra-indiceerd bij astmapatiënten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 172,
+    "question": "Selectieve bèta1-blokkers kunnen veilig worden gebruikt bij de meeste astmapatiënten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 173,
+    "question": "ACE-remmers kunnen bij sommige patiënten leiden tot hoesten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 174,
+    "question": "Angiotensine II-antagonisten hebben over het algemeen minder kans op het veroorzaken van hoesten dan ACE-remmers.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 175,
+    "question": "Diuretica verlagen de bloeddruk door het verminderen van het bloedvolume.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 176,
+    "question": "Thiazidediuretica kunnen leiden tot een verhoogde uitscheiding van calcium.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 177,
+    "question": "Lisdiuretica kunnen leiden tot hypokaliëmie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 178,
+    "question": "Kaliumsparende diuretica kunnen leiden tot hyperkaliëmie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 179,
+    "question": "Bètablokkers verhogen de hartfrequentie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 180,
+    "question": "Calciumantagonisten verlagen de bloeddruk door vasodilatatie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 181,
+    "question": "Nitraten worden gebruikt voor de behandeling van angina pectoris door het verwijden van de coronaire arteriën.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 182,
+    "question": "Statines verlagen het LDL-cholesterol door de remming van de HMG-CoA reductase.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "биохимия",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 183,
+    "question": "Fibraten verlagen voornamelijk de triglyceriden.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 184,
+    "question": "Acetylsalicylzuur (aspirine) remt de trombocytenaggregatie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 185,
+    "question": "Clopidogrel is een vitamine K-antagonist.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 186,
+    "question": "Warfarine (coumarine) remt de aanmaak van vitamine K-afhankelijke stollingsfactoren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 187,
+    "question": "Heparine werkt in op de factor Xa en trombine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 188,
+    "question": "Lage moleculaire gewicht heparines (LMWH) werken voornamelijk in op factor Xa.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 189,
+    "question": "Directe orale anticoagulantia (DOACs) hebben geen interacties met voedsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 190,
+    "question": "NSAID's (niet-steroïde anti-inflammatoire geneesmiddelen) remmen de cyclo-oxygenase (COX) enzymen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 191,
+    "question": "Paracetamol heeft een significant anti-inflammatoir effect.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 192,
+    "question": "Opioïden werken via receptoren in het centrale zenuwstelsel om pijn te verminderen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 193,
+    "question": "Morfine is een voorbeeld van een zwakwerkend opioïd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 194,
+    "question": "Codeïne is een voorbeeld van een sterkwerkend opioïd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 195,
+    "question": "Corticosteroïden hebben een breed anti-inflammatoir en immunosuppressief effect.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 196,
+    "question": "Langdurig gebruik van systemische corticosteroïden kan leiden tot osteoporose.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 197,
+    "question": "Antihistaminica blokkeren de werking van histamine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 198,
+    "question": "Eerstegeneratie antihistaminica veroorzaken over het algemeen minder sedatie dan tweedegeneratie antihistaminica.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 199,
+    "question": "Protonpompremmers (PPI's) verminderen de zuurproductie in de maag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 200,
+    "question": "H2-receptorantagonisten hebben een sterker effect op de zuurproductie dan PPI's.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 201,
+    "question": "Laxantia verhogen de motiliteit van de darmen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 202,
+    "question": "Loperamide is een voorbeeld van een laxativum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 203,
+    "question": "Antibiotica zijn effectief tegen virale infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 204,
+    "question": "Penicillines behoren tot de bètalactamantibiotica.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 205,
+    "question": "Macroliden remmen de bacteriële eiwitsynthese.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 206,
+    "question": "Tetracyclines zijn gecontra-indiceerd bij kinderen jonger dan 8 jaar vanwege het risico op tandverkleuring.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "педиатрическая стоматология"
+  },
+  {
+    "id": 207,
+    "question": "Chinolonen remmen de bacteriële DNA-gyrase.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 208,
+    "question": "Metronidazol wordt vaak gebruikt bij de behandeling van anaerobe bacteriële infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 209,
+    "question": "Antivirale middelen zijn effectief tegen bacteriële infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 210,
+    "question": "Acyclovir wordt gebruikt voor de behandeling van herpes simplex en varicella zoster infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 211,
+    "question": "Antifungale middelen worden gebruikt voor de behandeling van schimmelinfecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 212,
+    "question": "Nystatine is een voorbeeld van een systemisch antifungaal middel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 213,
+    "question": "Amfotericine B is een voorbeeld van een lokaal antifungaal middel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 214,
+    "question": "Antiprotozoaire middelen worden gebruikt voor de behandeling van infecties veroorzaakt door protozoën.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 215,
+    "question": "Metronidazol heeft ook een antiprotozoair effect.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 216,
+    "question": "Anthelmintica worden gebruikt voor de behandeling van infecties met wormen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 217,
+    "question": "Vaccinaties stimuleren het passieve immuunsysteem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 218,
+    "question": "Actieve immunisatie wordt verkregen door het toedienen van antistoffen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 219,
+    "question": "Levende verzwakte vaccins bootsen een natuurlijke infectie na.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 220,
+    "question": "Geïnactiveerde vaccins zijn over het algemeen veiliger dan levende verzwakte vaccins.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 221,
+    "question": "Subunitvaccins bevatten hele micro-organismen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 222,
+    "question": "Toxoïdvaccins zijn gebaseerd op inactieve toxines van bacteriën.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 223,
+    "question": "Conjugaatvaccins verbeteren de immunogeniteit van polysacharide antigenen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 224,
+    "question": "mRNA-vaccins introduceren het hele virus in het lichaam om een immuunrespons op te wekken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 225,
+    "question": "Adenovirus vectorvaccins gebruiken een onschadelijk virus om genetisch materiaal van een pathogeen in lichaamscellen te brengen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 226,
+    "question": "Monoklonale antistoffen zijn antistoffen die gericht zijn tegen meerdere antigenen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 227,
+    "question": "Humane monoklonale antistoffen hebben een lager risico op immuunreacties dan muizen monoklonale antistoffen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 228,
+    "question": "Infliximab is een voorbeeld van een monoklonaal antilichaam dat TNF-alfa blokkeert.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 229,
+    "question": "Adalimumab is een voorbeeld van een monoklonaal antilichaam dat interleukine-6 blokkeert.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 230,
+    "question": "Rituximab is een monoklonaal antilichaam dat gericht is tegen het CD20-eiwit op B-cellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 231,
+    "question": "Trastuzumab is een monoklonaal antilichaam dat gericht is tegen de HER2-receptor.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 232,
+    "question": "Pembrolizumab is een checkpoint inhibitor die de interactie tussen PD-1 en PD-L1 blokkeert.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 233,
+    "question": "Ipilimumab is een checkpoint inhibitor die CTLA-4 blokkeert.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 234,
+    "question": "CAR-T celtherapie is een vorm van passieve immunotherapie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 235,
+    "question": "Allergenen zijn stoffen die een allergische reactie kunnen veroorzaken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 236,
+    "question": "Een type I overgevoeligheidsreactie wordt gemedieerd door IgE-antistoffen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 237,
+    "question": "Anafylaxie is een ernstige, potentieel levensbedreigende type I overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 238,
+    "question": "Adrenaline is de eerstelijns behandeling voor anafylaxie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 239,
+    "question": "Een type II overgevoeligheidsreactie wordt gemedieerd door T-cellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 240,
+    "question": "Bloedtransfusie reacties kunnen een voorbeeld zijn van een type II overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 241,
+    "question": "Een type III overgevoeligheidsreactie wordt veroorzaakt door immuuncomplexen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 242,
+    "question": "Serumziekte is een voorbeeld van een type III overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 243,
+    "question": "Een type IV overgevoeligheidsreactie is een direct type reactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 244,
+    "question": "Contactdermatitis is een voorbeeld van een type IV overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 245,
+    "question": "Auto-immuunziekten ontstaan door een reactie van het immuunsysteem tegen lichaamseigen antigenen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 246,
+    "question": "Reumatoïde artritis is een auto-immuunziekte die voornamelijk de gewrichten aantast.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 247,
+    "question": "Systemische lupus erythematosus (SLE) is een auto-immuunziekte die alleen de huid aantast.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 248,
+    "question": "Multiple sclerose (MS) is een auto-immuunziekte van het perifere zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 249,
+    "question": "Diabetes type 1 is een auto-immuunziekte waarbij de insulineproducerende cellen in de pancreas worden vernietigd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "биохимия",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 250,
+    "question": "De ziekte van Crohn is een chronische inflammatoire darmziekte die het gehele spijsverteringskanaal kan aantasten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 251,
+    "question": "Colitis ulcerosa is een chronische inflammatoire darmziekte die voornamelijk het colon aantast.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 252,
+    "question": "Psoriasis is een auto-immuunziekte die voornamelijk de huid en gewrichten aantast.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 253,
+    "question": "Sjögren syndroom is een auto-immuunziekte die gekenmerkt wordt door droge ogen en een droge mond.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 254,
+    "question": "Myasthenia gravis is een auto-immuunziekte die de overdracht van zenuwimpulsen naar de spieren verstoort.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 255,
+    "question": "De ziekte van Hashimoto is een auto-immuunziekte van de bijnier.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 256,
+    "question": "De ziekte van Graves is een auto-immuunziekte die hyperthyreoïdie veroorzaakt.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 257,
+    "question": "Coeliakie is een auto-immuunziekte die wordt uitgelokt door gluten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 258,
+    "question": "Vitiligo is een auto-immuunziekte die leidt tot verlies van huidpigment.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 259,
+    "question": "Pernicieuze anemie wordt veroorzaakt door een auto-immuunreactie tegen de pariëtale cellen in de maag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 260,
+    "question": "De ziekte van Addison is een auto-immuunziekte van de schildklier.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 261,
+    "question": "Vasculitis is een ontsteking van de bloedvaten die door auto-immuunprocessen kan worden veroorzaakt.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 262,
+    "question": "De behandeling van auto-immuunziekten is voornamelijk gericht op het stimuleren van het immuunsysteem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 263,
+    "question": "Corticosteroïden worden vaak gebruikt om de ontstekingsreactie bij auto-immuunziekten te onderdrukken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 264,
+    "question": "DMARD's (disease-modifying antirheumatic drugs) worden gebruikt om de progressie van auto-immuunziekten te vertragen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 265,
+    "question": "Biologische DMARD's zijn synthetische geneesmiddelen die specifiek op bepaalde delen van het immuunsysteem inwerken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 266,
+    "question": "Immunosuppressiva worden gebruikt om de activiteit van het immuunsysteem te verminderen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 267,
+    "question": "Bloedgroep A heeft antistoffen tegen bloedgroep B.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 268,
+    "question": "Bloedgroep B heeft antistoffen tegen bloedgroep A.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 269,
+    "question": "Bloedgroep AB heeft antistoffen tegen bloedgroep A en B.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 270,
+    "question": "Bloedgroep O heeft geen antistoffen tegen bloedgroep A en B.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 271,
+    "question": "De Rhesusfactor is een ander belangrijk bloedgroepsysteem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 272,
+    "question": "Rhesus-positieve personen hebben het D-antigeen op hun rode bloedcellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 273,
+    "question": "Rhesus-negatieve personen hebben antistoffen tegen het D-antigeen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 274,
+    "question": "Rhesus-negatieve moeders kunnen tijdens de zwangerschap antistoffen tegen Rhesus-positieve foetussen ontwikkelen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 275,
+    "question": "Anti-D immunoglobuline (RhoGAM) wordt aan Rhesus-negatieve moeders gegeven om de vorming van anti-D antistoffen te voorkomen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 276,
+    "question": "Een bloedtransfusie met de verkeerde bloedgroep kan leiden tot een hemolytische reactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 277,
+    "question": "Universele bloeddonoren zijn personen met bloedgroep AB-negatief.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 278,
+    "question": "Universele bloedontvangers zijn personen met bloedgroep O-negatief.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 279,
+    "question": "Bloedgroep O-negatief wordt beschouwd als de universele donor.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 280,
+    "question": "Bloedgroep AB-positief wordt beschouwd als de universele ontvanger.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 281,
+    "question": "Lokale anesthetica blokkeren ionkanalen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 282,
+    "question": "Lokale anesthetica stimuleren ionkanalen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 283,
+    "question": "Het effect van stimulatie van steroidreceptoren treedt langzaam in.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 284,
+    "question": "Het effect van stimulatie van steroidreceptoren treedt snel in.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 285,
+    "question": "Beta-blokkers worden onder andere toegepast bij bepaalde hartritmestoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 286,
+    "question": "Beta-blokkers kunnen niet worden toegepast bij hartritmestoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 287,
+    "question": "Beta-blokkers brengen bronchodilatatie teweeg en worden toegepast bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 288,
+    "question": "Beta-blokkers brengen geen bronchodilatatie teweeg en worden niet toegepast bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 289,
+    "question": "Beta-blokkers verlagen de bloeddruk.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 290,
+    "question": "Beta-blokkers verlagen niet de bloeddruk.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 291,
+    "question": "Beta2-sympathicomimetica brengen bronchoconstrictie teweeg.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 292,
+    "question": "Beta2-sympathicomimetica brengen bronchodilatatie teweeg.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 293,
+    "question": "Acetylcholine is een neurotransmitter in het parasympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 294,
+    "question": "Noradrenaline is een neurotransmitter in het parasympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 295,
+    "question": "Acetylcholine is een neurotransmitter in het sympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 296,
+    "question": "Noradrenaline is een neurotransmitter in het sympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 297,
+    "question": "Anticholinergica remmen de werking van acetylcholine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 298,
+    "question": "Cholinergica versterken de werking van acetylcholine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 299,
+    "question": "Parasympathicomimetica bootsen de effecten van het parasympathische zenuwstelsel na.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 300,
+    "question": "Parasympathicolytica blokkeren de effecten van het parasympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 301,
+    "question": "Sympathicomimetica bootsen de effecten van het parasympathische zenuwstelsel na.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 302,
+    "question": "Sympathicolytica blokkeren de effecten van het sympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 303,
+    "question": "Adrenaline is een sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 304,
+    "question": "Pilocarpine is een sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 305,
+    "question": "Atropine is een parasympathicolyticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 306,
+    "question": "Propranolol is een parasympathicolyticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 307,
+    "question": "Salbutamol is een bèta2-sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 308,
+    "question": "Ipratropiumbromide is een bèta2-sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 309,
+    "question": "Diazepam is een benzodiazepine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 310,
+    "question": "Paracetamol is een benzodiazepine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 311,
+    "question": "Benzodiazepines werken onder andere anxiolytisch.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 312,
+    "question": "Benzodiazepines werken niet sederend.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 313,
+    "question": "Barbituraten worden tegenwoordig vaker voorgeschreven dan benzodiazepines vanwege hun veiligheidsprofiel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 314,
+    "question": "Barbituraten hebben een smaller therapeutisch venster dan benzodiazepines.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 315,
+    "question": "SSRI's (selectieve serotonine heropnameremmers) worden gebruikt bij de behandeling van depressie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 316,
+    "question": "SSRI's (selectieve serotonine heropnameremmers) hebben direct effect op de stemming.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 317,
+    "question": "TCA's (tricyclische antidepressiva) zijn selectiever dan SSRI's in hun werking.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 318,
+    "question": "MAO-remmers (monoamine-oxidaseremmers) vereisen een speciaal dieet om interacties te voorkomen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 319,
+    "question": "Lithium wordt gebruikt bij de behandeling van bipolaire stoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 320,
+    "question": "Antipsychotica worden alleen gebruikt bij psychotische stoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 321,
+    "question": "Klassieke antipsychotica hebben vaker extrapiramidale bijwerkingen dan atypische antipsychotica.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 322,
+    "question": "Levodopa wordt gebruikt bij de behandeling van de ziekte van Alzheimer.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 323,
+    "question": "Levodopa is een precursor van dopamine en wordt gebruikt bij de behandeling van de ziekte van Parkinson.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 324,
+    "question": "NSAID's (niet-steroïde anti-inflammatoire geneesmiddelen) hebben geen invloed op de maag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 325,
+    "question": "COX-2 selectieve NSAID's hebben een lager risico op maagklachten dan niet-selectieve NSAID's.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 326,
+    "question": "Paracetamol heeft een significant anti-inflammatoir effect.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 327,
+    "question": "Opioïden werken via perifere zenuwen om pijn te verminderen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 328,
+    "question": "Morfine kan leiden tot obstipatie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 329,
+    "question": "Naloxon is een opioïde antagonist.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 330,
+    "question": "Corticosteroïden hebben alleen lokale effecten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 331,
+    "question": "Inhalatiecorticosteroïden hebben minder systemische bijwerkingen dan orale corticosteroïden.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 332,
+    "question": "Antihistaminica van de eerste generatie veroorzaken vaak sufheid.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 333,
+    "question": "Loratadine is een voorbeeld van een tweedegeneratie antihistaminicum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 334,
+    "question": "Protonpompremmers (PPI's) verhogen de zuurproductie in de maag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 335,
+    "question": "Antacida neutraliseren maagzuur.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 336,
+    "question": "Laxantia verminderen de stoelgang.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 337,
+    "question": "Loperamide is een middel tegen diarree.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 338,
+    "question": "Antibiotica zijn effectief tegen schimmelinfecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 339,
+    "question": "Penicilline is een breedspectrum antibioticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 340,
+    "question": "Resistentie tegen antibiotica is een groeiend probleem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 341,
+    "question": "Antivirale middelen genezen virusinfecties volledig.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 342,
+    "question": "Influenzavaccinaties beschermen tegen alle soorten griep.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 343,
+    "question": "Antifungale middelen werken door de celwand van schimmels aan te tasten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 344,
+    "question": "Nystatine wordt vaak systemisch toegediend.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 345,
+    "question": "Antiprotozoaire middelen worden gebruikt om infecties met parasieten te behandelen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 346,
+    "question": "Malaria wordt veroorzaakt door een bacterie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 347,
+    "question": "Anthelmintica doden wormen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 348,
+    "question": "Mebendazol is een voorbeeld van een anthelminticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 349,
+    "question": "Vaccinaties werken door het passieve immuunsysteem te stimuleren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 350,
+    "question": "Een levend verzwakt vaccin is veiliger dan een geïnactiveerd vaccin.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 351,
+    "question": "Subunitvaccins bevatten alleen specifieke antigenen van een pathogeen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 352,
+    "question": "Toxoïdvaccins stimuleren een immuunrespons tegen bacteriële toxines.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 353,
+    "question": "Conjugaatvaccins worden vaak gebruikt voor virale infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 354,
+    "question": "mRNA-vaccins integreren in het DNA van de gastheercel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 355,
+    "question": "Adenovirus vectorvaccins kunnen bij iedereen herhaaldelijk worden toegediend zonder verlies van effectiviteit.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 356,
+    "question": "Monoklonale antistoffen worden in het laboratorium geproduceerd om specifiek één epitoop te herkennen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 357,
+    "question": "Volledig humane monoklonale antistoffen worden geproduceerd in muizen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 358,
+    "question": "Infliximab wordt gebruikt bij de behandeling van reumatoïde artritis.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 359,
+    "question": "Adalimumab is een monoklonaal antilichaam gericht tegen TNF-alfa.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 360,
+    "question": "Rituximab kan leiden tot depletie van B-cellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 361,
+    "question": "Trastuzumab wordt gebruikt bij bepaalde vormen van borstkanker.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 362,
+    "question": "Checkpoint inhibitors versterken de remmende signalen in het immuunsysteem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 363,
+    "question": "Ipilimumab bevordert de activiteit van T-cellen tegen tumorcellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 364,
+    "question": "CAR-T cellen worden in de patiënt zelf geproduceerd en genetisch gemodificeerd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 365,
+    "question": "Allergenen binden aan IgA-antistoffen om een allergische reactie te starten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 366,
+    "question": "Mastcellen en basofielen spelen een centrale rol in type I overgevoeligheidsreacties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 367,
+    "question": "Anafylaxie kan leiden tot een sterke daling van de bloeddruk en ademhalingsproblemen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "кардиология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 368,
+    "question": "Antihistaminica zijn de meest effectieve behandeling voor anafylaxie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 369,
+    "question": "Type II overgevoeligheidsreacties omvatten de vorming van immuuncomplexen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 370,
+    "question": "Hemolytische anemie door medicatie kan een voorbeeld zijn van een type II reactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 371,
+    "question": "Bij type III overgevoeligheidsreacties worden antigenen op celoppervlakken aangevallen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 372,
+    "question": "Artritis kan een symptoom zijn van een type III overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 373,
+    "question": "Type IV overgevoeligheidsreacties worden ook wel vertraagde overgevoeligheidsreacties genoemd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 374,
+    "question": "De Mantoux-test is een voorbeeld van een type IV overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 375,
+    "question": "Bij auto-immuunziekten herkent het immuunsysteem lichaamseigen stoffen als vreemd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 376,
+    "question": "Reumatoïde artritis is een auto-immuunziekte waarbij antistoffen tegen de schildklier worden gevormd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 377,
+    "question": "SLE kan verschillende organen en systemen in het lichaam aantasten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 378,
+    "question": "MS leidt tot demyelinisatie in het centrale zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 379,
+    "question": "Bij diabetes type 1 is er sprake van insulineresistentie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "биохимия",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 380,
+    "question": "De ziekte van Crohn veroorzaakt oppervlakkige ontstekingen in de darmwand.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 381,
+    "question": "Colitis ulcerosa begint meestal in het rectum en breidt zich proximaal uit.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 382,
+    "question": "Psoriasis wordt gekenmerkt door een versnelde deling van huidcellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 383,
+    "question": "Sjögren syndroom kan leiden tot schade aan de nieren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 384,
+    "question": "Bij myasthenia gravis worden antistoffen tegen de acetylcholine-receptoren gevormd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 385,
+    "question": "De ziekte van Hashimoto leidt tot hyperthyreoïdie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 386,
+    "question": "De ziekte van Graves veroorzaakt hypothyreoïdie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 387,
+    "question": "Coeliakie kan leiden tot malabsorptie van voedingsstoffen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 388,
+    "question": "Vitiligo is een infectieziekte van de huid.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 389,
+    "question": "Pernicieuze anemie leidt tot een vitamine B12-tekort.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 390,
+    "question": "De ziekte van Addison wordt gekenmerkt door een overproductie van cortisol.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "гормоны",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 391,
+    "question": "Vasculitis kan leiden tot schade aan verschillende organen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 392,
+    "question": "Immunosuppressiva verhogen de kans op infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 393,
+    "question": "Bloedgroep A kan bloed ontvangen van bloedgroep B.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 394,
+    "question": "Bloedgroep O kan bloed geven aan alle bloedgroepen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 395,
+    "question": "Rhesus-positieve personen kunnen veilig bloed ontvangen van Rhesus-negatieve donoren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 396,
+    "question": "Een Rhesus-negatieve moeder die zwanger is van een Rhesus-negatieve baby heeft geen risico op Rhesusziekte.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 397,
+    "question": "Universele bloeddonoren hebben bloedgroep AB-positief.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 398,
+    "question": "Universele bloedontvangers hebben bloedgroep O-negatief.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 399,
+    "question": "Lokale anesthetica blokkeren de geleiding van zenuwimpulsen door natriumkanalen te blokkeren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 400,
+    "question": "De werking van steroidhormonen is snel omdat ze direct inwerken op ionkanalen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 401,
+    "question": "Beta-blokkers verhogen de hartfrequentie en de contractiekracht van het hart.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 402,
+    "question": "Selectieve bèta1-blokkers hebben minder effect op de luchtwegen dan niet-selectieve bètablokkers.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 403,
+    "question": "Beta2-sympathicomimetica worden gebruikt als onderhoudsbehandeling bij astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 404,
+    "question": "Acetylcholine zorgt voor een verhoogde hartslag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 405,
+    "question": "Noradrenaline heeft voornamelijk effect op de bèta-receptoren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 406,
+    "question": "Anticholinergica kunnen leiden tot speekselvloed.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 407,
+    "question": "Cholinergica worden soms gebruikt bij glaucoom.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 408,
+    "question": "Parasympathicomimetica veroorzaken pupilverwijding.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 409,
+    "question": "Parasympathicolytica kunnen leiden tot obstipatie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 410,
+    "question": "Sympathicomimetica verlagen de hartslag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 411,
+    "question": "Sympathicolytica worden gebruikt bij de behandeling van hypertensie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 412,
+    "question": "Adrenaline heeft voornamelijk bèta-effecten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 413,
+    "question": "Pilocarpine wordt gebruikt om de pupillen te verwijden.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 414,
+    "question": "Atropine kan worden gebruikt om bradycardie te behandelen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 415,
+    "question": "Propranolol is een selectieve bèta1-blokker.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 416,
+    "question": "Salbutamol heeft een langdurige werking.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 417,
+    "question": "Ipratropiumbromide werkt bronchusverwijdend via bèta2-receptoren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 418,
+    "question": "Diazepam wordt soms gebruikt als spierrelaxans.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 419,
+    "question": "Benzodiazepines hebben een hoog risico op ademhalingsdepressie bij overdosering.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 420,
+    "question": "Flumazenil is een antagonist van benzodiazepines.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 421,
+    "question": "Beta2-sympathicomimetica brengen bronchoconstrictie teweeg.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 422,
+    "question": "Acetylcholine is een neurotransmitter in het parasympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 423,
+    "question": "Noradrenaline is een neurotransmitter in het parasympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 424,
+    "question": "Acetylcholine is een neurotransmitter in het sympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 425,
+    "question": "Noradrenaline is een neurotransmitter in het sympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 426,
+    "question": "Anticholinergica remmen de werking van acetylcholine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 427,
+    "question": "Cholinergica versterken de werking van acetylcholine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 428,
+    "question": "Parasympathicomimetica bootsen de effecten van het parasympathische zenuwstelsel na.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 429,
+    "question": "Parasympathicolytica blokkeren de effecten van het parasympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 430,
+    "question": "Sympathicomimetica bootsen de effecten van het parasympathische zenuwstelsel na.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 431,
+    "question": "Sympathicolytica blokkeren de effecten van het sympathische zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 432,
+    "question": "Adrenaline is een sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 433,
+    "question": "Pilocarpine is een sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 434,
+    "question": "Atropine is een parasympathicolyticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 435,
+    "question": "Propranolol is een parasympathicolyticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 436,
+    "question": "Salbutamol is een bèta2-sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 437,
+    "question": "Ipratropiumbromide is een bèta2-sympathicomimeticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 438,
+    "question": "Diazepam is een benzodiazepine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 439,
+    "question": "Paracetamol is een benzodiazepine.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 440,
+    "question": "Benzodiazepines werken onder andere anxiolytisch.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 441,
+    "question": "Benzodiazepines werken niet sederend.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 442,
+    "question": "Barbituraten worden tegenwoordig vaker voorgeschreven dan benzodiazepines vanwege hun veiligheidsprofiel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 443,
+    "question": "Barbituraten hebben een smaller therapeutisch venster dan benzodiazepines.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 444,
+    "question": "SSRI's (selectieve serotonine heropnameremmers) worden gebruikt bij de behandeling van depressie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 445,
+    "question": "SSRI's (selectieve serotonine heropnameremmers) hebben direct effect op de stemming.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 446,
+    "question": "TCA's (tricyclische antidepressiva) zijn selectiever dan SSRI's in hun werking.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 447,
+    "question": "MAO-remmers (monoamine-oxidaseremmers) vereisen een speciaal dieet om interacties te voorkomen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 448,
+    "question": "Lithium wordt gebruikt bij de behandeling van bipolaire stoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 449,
+    "question": "Antipsychotica worden alleen gebruikt bij psychotische stoornissen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 450,
+    "question": "Klassieke antipsychotica hebben vaker extrapiramidale bijwerkingen dan atypische antipsychotica.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 451,
+    "question": "Levodopa wordt gebruikt bij de behandeling van de ziekte van Alzheimer.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 452,
+    "question": "Levodopa is een precursor van dopamine en wordt gebruikt bij de behandeling van de ziekte van Parkinson.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 453,
+    "question": "NSAID's (niet-steroïde anti-inflammatoire geneesmiddelen) hebben geen invloed op de maag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 454,
+    "question": "COX-2 selectieve NSAID's hebben een lager risico op maagklachten dan niet-selectieve NSAID's.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 455,
+    "question": "Paracetamol heeft een significant anti-inflammatoir effect.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 456,
+    "question": "Opioïden werken via perifere zenuwen om pijn te verminderen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 457,
+    "question": "Morfine kan leiden tot obstipatie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 458,
+    "question": "Naloxon is een opioïde antagonist.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 459,
+    "question": "Corticosteroïden hebben alleen lokale effecten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 460,
+    "question": "Inhalatiecorticosteroïden hebben minder systemische bijwerkingen dan orale corticosteroïden.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 461,
+    "question": "Antihistaminica van de eerste generatie veroorzaken vaak sufheid.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 462,
+    "question": "Loratadine is een voorbeeld van een tweedegeneratie antihistaminicum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 463,
+    "question": "Protonpompremmers (PPI's) verhogen de zuurproductie in de maag.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 464,
+    "question": "Antacida neutraliseren maagzuur.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 465,
+    "question": "Laxantia verminderen de stoelgang.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 466,
+    "question": "Loperamide is een middel tegen diarree.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 467,
+    "question": "Antibiotica zijn effectief tegen schimmelinfecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 468,
+    "question": "Penicilline is een breedspectrum antibioticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 469,
+    "question": "Resistentie tegen antibiotica is een groeiend probleem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 470,
+    "question": "Antivirale middelen genezen virusinfecties volledig.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 471,
+    "question": "Influenzavaccinaties beschermen tegen alle soorten griep.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 472,
+    "question": "Antifungale middelen werken door de celwand van schimmels aan te tasten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 473,
+    "question": "Nystatine wordt vaak systemisch toegediend.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 474,
+    "question": "Antiprotozoaire middelen worden gebruikt om infecties met parasieten te behandelen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 475,
+    "question": "Malaria wordt veroorzaakt door een bacterie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 476,
+    "question": "Anthelmintica doden wormen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 477,
+    "question": "Mebendazol is een voorbeeld van een anthelminticum.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 478,
+    "question": "Vaccinaties werken door het passieve immuunsysteem te stimuleren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 479,
+    "question": "Een levend verzwakt vaccin is veiliger dan een geïnactiveerd vaccin.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 480,
+    "question": "Subunitvaccins bevatten alleen specifieke antigenen van een pathogeen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 481,
+    "question": "Toxoïdvaccins stimuleren een immuunrespons tegen bacteriële toxines.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 482,
+    "question": "Conjugaatvaccins worden vaak gebruikt voor virale infecties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 483,
+    "question": "mRNA-vaccins integreren in het DNA van de gastheercel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 484,
+    "question": "Adenovirus vectorvaccins kunnen bij iedereen herhaaldelijk worden toegediend zonder verlies van effectiviteit.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 485,
+    "question": "Monoklonale antistoffen worden in het laboratorium geproduceerd om specifiek één epitoop te herkennen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 486,
+    "question": "Volledig humane monoklonale antistoffen worden geproduceerd in muizen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 487,
+    "question": "Infliximab wordt gebruikt bij de behandeling van reumatoïde artritis.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 488,
+    "question": "Adalimumab is een monoklonaal antilichaam gericht tegen TNF-alfa.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 489,
+    "question": "Rituximab kan leiden tot depletie van B-cellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 490,
+    "question": "Trastuzumab wordt gebruikt bij bepaalde vormen van borstkanker.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 491,
+    "question": "Checkpoint inhibitors versterken de remmende signalen in het immuunsysteem.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 492,
+    "question": "Ipilimumab bevordert de activiteit van T-cellen tegen tumorcellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 493,
+    "question": "CAR-T cellen worden in de patiënt zelf geproduceerd en genetisch gemodificeerd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 494,
+    "question": "Allergenen binden aan IgA-antistoffen om een allergische reactie te starten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 495,
+    "question": "Mastcellen en basofielen spelen een centrale rol in type I overgevoeligheidsreacties.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 496,
+    "question": "Anafylaxie kan leiden tot een sterke daling van de bloeddruk en ademhalingsproblemen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "кардиология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 497,
+    "question": "Antihistaminica zijn de meest effectieve behandeling voor anafylaxie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "терапевтическая стоматология"
+  },
+  {
+    "id": 498,
+    "question": "Type II overgevoeligheidsreacties omvatten de vorming van immuuncomplexen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 499,
+    "question": "Hemolytische anemie door medicatie kan een voorbeeld zijn van een type II reactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 500,
+    "question": "Bij type III overgevoeligheidsreacties worden antigenen op celoppervlakken aangevallen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 501,
+    "question": "Artritis kan een symptoom zijn van een type III overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 502,
+    "question": "Type IV overgevoeligheidsreacties worden ook wel vertraagde overgevoeligheidsreacties genoemd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 503,
+    "question": "De Mantoux-test is een voorbeeld van een type IV overgevoeligheidsreactie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 504,
+    "question": "Bij auto-immuunziekten herkent het immuunsysteem lichaamseigen stoffen als vreemd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 505,
+    "question": "Reumatoïde artritis is een auto-immuunziekte waarbij antistoffen tegen de schildklier worden gevormd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 506,
+    "question": "SLE kan verschillende organen en systemen in het lichaam aantasten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 507,
+    "question": "MS leidt tot demyelinisatie in het centrale zenuwstelsel.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "нейротрансмиттеры",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 508,
+    "question": "Bij diabetes type 1 is er sprake van insulineresistentie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "биохимия",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 509,
+    "question": "De ziekte van Crohn veroorzaakt oppervlakkige ontstekingen in de darmwand.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 510,
+    "question": "Colitis ulcerosa begint meestal in het rectum en breidt zich proximaal uit.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 511,
+    "question": "Psoriasis wordt gekenmerkt door een versnelde deling van huidcellen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 512,
+    "question": "Sjögren syndroom kan leiden tot schade aan de nieren.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 513,
+    "question": "Bij myasthenia gravis worden antistoffen tegen de acetylcholine-receptoren gevormd.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "анатомия и физиология",
+    "difficulty": null,
+    "detailed_category": "анатомия и физиология"
+  },
+  {
+    "id": 514,
+    "question": "De ziekte van Hashimoto leidt tot hyperthyreoïdie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 515,
+    "question": "De ziekte van Graves veroorzaakt hypothyreoïdie.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 516,
+    "question": "Coeliakie kan leiden tot malabsorptie van voedingsstoffen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 517,
+    "question": "Vitiligo is een infectieziekte van de huid.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "патология и микробиология"
+  },
+  {
+    "id": 518,
+    "question": "Pernicieuze anemie leidt tot een vitamine B12-tekort.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 519,
+    "question": "De ziekte van Addison wordt gekenmerkt door een overproductie van cortisol.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "гормоны",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 520,
+    "question": "Vasculitis kan leiden tot schade aan verschillende organen.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 521,
+    "question": "De patiënt dient het gebruik van acetylsalicylzuur te staken voor een bloedige tandheelkundige ingreep.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 522,
+    "question": "Bij patiënten die cumarinederivaten gebruiken moet voor extractie van elementen de hoogte van de INR worden vastgesteld. De normaalwaarde bij gezonde personen is 1.0",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "хирургическая стоматология"
+  },
+  {
+    "id": 523,
+    "question": "De belangrijkste symptomen van astma zijn aanvalsgewijze perioden met kortademigheid, piepen op de borst en hoesten.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 524,
+    "question": "De voornaamste oorzaak van astma is roken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 525,
+    "question": "De voornaamste oorzaak van COPD is roken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "другое"
+  },
+  {
+    "id": 526,
+    "question": "De voornaamste oorzaak van COPD is astma.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "onjuist",
+    "explanation": null,
+    "category": "пульмонология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 527,
+    "question": "Het gebruik van inhalatiesteroïden bij astmapatiënten kan orale candidiasis veroorzaken.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "фармакология",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  },
+  {
+    "id": 528,
+    "question": "Patiënten met chronische bronchitis en longemfyseem kunnen vrijwel niet van elkaar worden onderscheiden.",
+    "type": "juist_onjuist",
+    "options": [
+      "juist",
+      "onjuist"
+    ],
+    "correct_answer": "juist",
+    "explanation": null,
+    "category": "другое",
+    "difficulty": null,
+    "detailed_category": "общая медицина и фармакология"
+  }
+]

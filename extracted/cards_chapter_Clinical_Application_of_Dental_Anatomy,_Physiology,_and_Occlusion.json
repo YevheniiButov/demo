@@ -1,0 +1,106 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the purpose of using explorers in dental diagnostics?",
+      "answer": "Explorers are used to locate cavitations, explore supragingival and subgingival tooth accretions, and examine root surfaces.",
+      "tags": [
+        "diagnostics",
+        "periodontology",
+        "endodontics"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "How do cone beam CT scans benefit dental implant procedures?",
+      "answer": "Cone beam CT scans provide a three-dimensional view of critical structures, aiding in the analysis of proximity to neural and vascular structures, and assessing bone thickness and height.",
+      "tags": [
+        "radiology",
+        "oral_surgery",
+        "diagnostics"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "Which type of forceps is best suited for extracting anterior teeth?",
+      "answer": "Forceps with a triangular or oval root shape and less flair due to smaller CEJ flair.",
+      "tags": [
+        "oral_surgery",
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Why are bite-wing radiographs preferred for viewing interproximal caries?",
+      "answer": "Bite-wing radiographs provide a more accurate view of interproximal caries depth due to the technique used to capture the images.",
+      "tags": [
+        "radiology",
+        "diagnostics"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the role of oral motor behavior in dental health.",
+      "answer": "Oral motor behavior involves the translation of thought, sensation, and emotion into actions, influencing functions like mastication and swallowing, which are essential for survival.",
+      "tags": [
+        "physiology",
+        "diagnostics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the typical movement involved in extracting bifurcated root teeth?",
+      "answer": "Engagement of the bifurcation with forcep beaks assists in tooth control, typically involving rotational and buccal-lingual movements.",
+      "tags": [
+        "oral_surgery",
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the importance of occlusal stability in dentistry.",
+      "answer": "Occlusal stability refers to the tendency of teeth, jaws, joints, and muscles to remain in an optimal functional state, involving factors like mesial migration, protective reflexes, and control of occlusal forces.",
+      "tags": [
+        "prosthodontics",
+        "orthodontics"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What anatomical features are considered when selecting preformed dental trays?",
+      "answer": "The size and shape of the alveolus, presence or absence of teeth, and bony projections or undercuts.",
+      "tags": [
+        "prosthodontics",
+        "anatomy"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "How does the anatomy of the temporomandibular joint affect oral surgery techniques?",
+      "answer": "Knowledge of the temporomandibular joint anatomy and health may require additional bone/mandibular bracing to counter extraction forces.",
+      "tags": [
+        "oral_surgery",
+        "anatomy"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the role of radiology in dental diagnostics.",
+      "answer": "Radiology provides a two-dimensional representation of three-dimensional structures, aiding in the analysis of anatomical details and helping to diagnose conditions like caries and root canal variations.",
+      "tags": [
+        "radiology",
+        "diagnostics"
+      ],
+      "image_hint": true
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "question": "1. Volgens verschillende onderzoeken wordt bij adolescenten ruim 50% meer dentinecariës gevonden op basis van röntgenfoto’s dan met spiegel en sonde. 1. Volgens verschillende onderzoeken wordt bij adolescenten ruim 50% meer dentinecariës gevonden op basis van röntgenfoto’s dan met spiegel en sonde.",
+    "options": [
+      "a.Juist a.Juist",
+      "b.Onjuist b.Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "2. De halsschaduw wordt veroorzaakt voor begin van cariës.2. De halsschaduw wordt veroorzaakt voor begin van cariës.",
+    "options": [
+      "a. Juista. Juist",
+      "b.Onjuist b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "3. Bij de bissectriceregel-techniek worden geen filmhouders (instelapparaten) toegepast. 3. Bij de bissectriceregel-techniek worden geen filmhouders (instelapparaten) toegepast.",
+    "options": [
+      "a. Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 4,
+    "question": "4. Welk van de volgende materialen is meer radioopaak 4. Welk van de volgende materialen is meer radioopaak De contrasten in een röntgenbeeld komen tot stand door een verschil in weglengte van de straling door het object.De contrasten in een röntgenbeeld komen tot stand door een verschil in weglengte van de straling door het object.",
+    "options": [
+      "a.porcelein b.amalgaam a.porcelein b.amalgaam",
+      "a. Juist",
+      "b.Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": ["b"]
+  },
+  {
+    "id": 5,
+    "question": "5. Kilovoltage is verband met 5. Kilovoltage is verband met b) hoeveelheidb) hoeveelheid",
+    "options": ["a) doordringen"],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "6. Parodontaalspleet is gezien op een rontgeenfoto als een lijn6. Parodontaalspleet is gezien op een rontgeenfoto als een lijn b) radiopaakb) radiopaak",
+    "options": [
+      "a) radiolucentie"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "7. We gebruiken bw's alleen voor opsporen van interproximale cariës7. We gebruiken bw's alleen voor opsporen van interproximale cariës b) onjuistb) onjuist",
+    "options": [
+      "a) Juist", "b) Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "8. Panorama opnamen is rechtwaardig als de patologie niet op een solo opnamen mogelijk om te zien is.8. Panorama opnamen is rechtwaardig als de patologie niet op een solo opnamen mogelijk om te zien is.",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "9. Als een patologie niet op een solo opnamen mogelijk om te zien is, dan er is rechtwaardigheid  voor een panorame.9. Als een patologie niet op een solo opnamen mogelijk om te zien is, dan er is rechtwaardigheid  voor een panorame.",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "10. Volgens ALARA principe is een loodschort nodig om de schildklier gebruiken als we foto's van zwangere vrouwen gaan nemen.10. Volgens ALARA principe is een loodschort nodig om de schildklier gebruiken als we foto's van zwangere vrouwen gaan nemen.",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 11,
+    "question": "11. Fosforplaatjes moeten gescand worden na belichting.11. Fosforplaatjes moeten gescand worden na belichting.",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 12,
+    "question": "12. Biologische effecten optreden op celdood celniveau met rontgeenstraling.12. Biologische effecten optreden op celdood celniveau met rontgeenstraling.",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 13,
+    "question": "13. Tandheelkundige intra-orale opnamen bij zwangere vrouwen kunnen normaal worden gemaakt indien gerechtvaardigd.13. Tandheelkundige intra-orale opnamen bij zwangere vrouwen kunnen normaal worden gemaakt indien gerechtvaardigd.",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "14.ALARA betekent",
+    "options": [
+      "a.as low as realistically achievable",
+      "b.as low as reasonably achievable"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "16.U maakt twee bitewingsopname in de praktijk; de beste plaats om tijdens een opname te gaan staan achter het hoofd van de patiënt met 2 meter afstand 16.U maakt twee bitewingsopname in de praktijk; de beste plaats om tijdens een opname te gaan staan achter het hoofd van de patiënt met 2 meter afstand",
+    "options": [
+      "a.Juist",
+      "b.Onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": null
+  },
+  {
+    "id": 16,
+    "question": "18.Een onscherp gedefinieerde begrenzing van een radiolucentie kan een aanwijzing zijn van maligne bottumor.18.Een onscherp gedefinieerde begrenzing van een radiolucentie kan een aanwijzing zijn van maligne bottumor.",
+    "options": [
+      "a.juist",
+      "b.onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 17,
+    "question": "19. Om bot afbraak te beoordelen moeten we de inrischting van de bundel overwegen.19. Om bot afbraak te beoordelen moeten we de inrischting van de bundel overwegen.      BI 2020 – Statistiek en Methodologie:BI 2020 – Statistiek en Methodologie:",
+    "options": [
+      "a.juist",
+      "b.onjuist"
+    ],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": null
+  },
+  {
+    "id": 18,
+    "question": "In een onderzoek naar eetgewoonten wordt gemeten:",
+    "options": [
+      "a Juist", "b Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "question": "Variabele slijtage van het gebit in mm mag de range bereken worden?",
+    "options": [
+      "a Juist", "Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 20,
+    "question": "Regressie vergelijking score examen (y)=3,5+0,5* voorbereidingstijd in uren (x)",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Gegeven is de onderstaande frequentieverdeling van de variabele X. De mediaan in deze verdeling is 8.",
+    "options": [
+      "a Juist", "b Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [
+      "table_22.png"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 22,
+    "question": "Gegeven is de onderstaande frequentieverdeling van de variabele X. ‘De mediaan=modus.’",
+    "options": [
+      "a Juist","b Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [
+      "table_23.png"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 23,
+    "question": "Gegeven is de onderstaande frequentieverdeling van de variabele X. ‘De gemiddelde >4.’",
+    "options": [
+      "a Juist", "b Onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [
+      "table_24.png"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 24,
+    "question": "7.  Gegeven zijn de onderstaande scores voor vijf patiënten op variabele X en Y.7.  Gegeven zijn de onderstaande scores voor vijf patiënten op variabele X en Y. ‘De Pearson correlatiecoëfficiënt tussen variabele X en Y is dichtbij (r = -1).’‘De Pearson correlatiecoëfficiënt tussen variabele X en Y is dichtbij (r = -1).’ b Onjuistb Onjuist",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [
+      "table_25.png"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "De power van een studie hangt onder ander af van effect grootte.",
+    "options": [
+      "a Juist", "b Onjuist"
+    ],
+    "category": "Onbekend",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 26,
+    "question": "9. t-toets p0,03, significantieniveau 5%. ‘In dit geval mag de nulhypothese verworpen worden.’9. t-toets p0,03, significantieniveau 5%. ‘In dit geval mag de nulhypothese verworpen worden.’ b Onjuistb Onjuist",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Onbekend",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 27,
+    "question": "10.Knarsen is met stres vergeleken in een t-toets. De nulhypothese kan worden verworpen. Er is geen verschil in niveau van stress tussen patiënten die knarsen en patiënten die niet knarsen.10.Knarsen is met stres vergeleken in een t-toets. De nulhypothese kan worden verworpen. Er is geen verschil in niveau van stress tussen patiënten die knarsen en patiënten die niet knarsen. b Onjuistb Onjuist",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 28,
+    "question": "11. One way ANOVA F=6,20, df1=1 df2=20. De bijbehorende overschrijdingskans op is kleiner dan 1%.11. One way ANOVA F=6,20, df1=1 df2=20. De bijbehorende overschrijdingskans op is kleiner dan 1%. b Onjuistb Onjuist",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Onbekend",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 29,
+    "question": "12. Een onderzoeker heeft gevonden X2= 4,86, df2 5%. Is er relatie tussen...12. Een onderzoeker heeft gevonden X2= 4,86, df2 5%. Is er relatie tussen... b Onjuistb Onjuist",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Onderzoek",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 30,
+    "question": "13. t-toets T=4,20 df=7, significantieniveau 1%. ‘In dit geval mag de nulhypothese niet verworpen worden.’13. t-toets T=4,20 df=7, significantieniveau 1%. ‘In dit geval mag de nulhypothese niet verworpen worden.’ b Onjuistb Onjuist  De laatste 3 vragen waren van die soort:De laatste 3 vragen waren van die soort:",
+    "options": [
+      "a Juista Juist"
+    ],
+    "category": "Onbekend",
+    "tables": [],
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "14.Een onderzoeker wil vier groepen patienten vergelijken die ieder een ander dieet volgen (dieet A, B,C en D) in de mate van gewichtsverandering in kilogram. \"Bij een keuze uit de independent-samples t toets, chi- kwadraattoets de chi-kwadraattoets de beste de chi-kwadraattoets en variantie-analyse, is de keuze vocr de chi- kwadraattoets de beste. 14.Een onderzoeker wil vier groepen patienten vergelijken die ieder een ander dieet volgen (dieet A, B,C en D) in de mate van gewichtsverandering in kilogram. \"Bij een keuze uit de independent-samples t toets, chi- kwadraattoets de chi-kwadraattoets de beste de chi-kwadraattoets en variantie-analyse, is de keuze vocr de chi- kwadraattoets de beste.",
+    "options": [
+      "a.juist a.juist",
+      "b.onjuist b.onjuist"
+    ],
+    "category": "Statistiek en Methodologie",
+    "tables": [],
+    "answer": "a"
+  },
+  {
+    "id": 32,
+    "question": "15.Een onder zoeker wil weten of patiönten boven of onder de 55 jaar (55+ of niet) beter zijn in het correct tellen van het aantal elementen in het gebit (correct/incorrect). Hij vergelijkt daartoe een groep 55-plussers met een groep patienten onder de 55 hoeveel correct of jaar en vraagt hen elementen ze hebben. Hij controleert dat aantal en de patient had het antwoord correct of incorrect. \"Bij een keuze uit de independent-samples t-toets, de chi kwadraattoets en variantie analyse, is de keuze voor de chi-kwadraattoets de beste. 15.Een onder zoeker wil weten of patiönten boven of onder de 55 jaar (55+ of niet) beter zijn in het correct tellen van het aantal elementen in het gebit (correct/incorrect). Hij vergelijkt daartoe een groep 55-plussers met een groep patienten onder de 55 hoeveel correct of jaar en vraagt hen elementen ze hebben. Hij controleert dat aantal en de patient had het antwoord correct of incorrect. \"Bij een keuze uit de independent-samples t-toets, de chi kwadraattoets en variantie analyse, is de keuze voor de chi-kwadraattoets de beste.   Self‐administered non‐invasive therapies with high‐fluoride dentifrices are an attractive alternative to traditional restorative management of root carious lesions (RCLs), but the available evidence is still scarce, particularly in community‐dwelling elders. The aim of this study was to compare the effectiveness of toothbrushing with 5,000 ppm versus 1,450 ppm fluoridated dentifrice (F‐ dentifrice) on preventing and arresting RCLs, in community‐dwelling elders. Self‐administered non‐invasive therapies with high‐fluoride dentifrices are an attractive alternative to traditional restorative management of root carious lesions (RCLs), but the available evidence is still scarce, particularly in community‐dwelling elders. The aim of this study was to compare the effectiveness of toothbrushing with 5,000 ppm versus 1,450 ppm fluoridated dentifrice (F‐ dentifrice) on preventing and arresting RCLs, in community‐dwelling elders. MATERIAL AND METHODS MATERIAL AND METHODS Participants were instructed to brush twice per day with either high‐fluoride (5,000 ppm F) or the control dentifrice (1,450 ppm F). Incidence of new and arrested existing RCLs was recorded at two years and compared with the baseline data. Participants were instructed to brush twice per day with either high‐fluoride (5,000 ppm F) or the control dentifrice (1,450 ppm F). Incidence of new and arrested existing RCLs was recorded at two years and compared with the baseline data. RESULTS RESULTS The percentage of teeth with active lesions varied significantly at two years, but in opposite directions for both groups. While the control group significantly increased the mean percentage of RCLs activity from baseline to two years, from 24.32% to 40.52%, the intervention decreased the percentage of activity from 29.74% to 3.72%. The incidence of RCL was 93.5% and 35.2% in participants of the 1,450 ppm and 5,000 ppm in the F‐ dentifrice groups, respectively, with a relative risk (RR) of 0.10 [CI: 0.05 ‐ 0.19]. The percentage of teeth with active lesions varied significantly at two years, but in opposite directions for both groups. While the control group significantly increased the mean percentage of RCLs activity from baseline to two years, from 24.32% to 40.52%, the intervention decreased the percentage of activity from 29.74% to 3.72%. The incidence of RCL was 93.5% and 35.2% in participants of the 1,450 ppm and 5,000 ppm in the F‐ dentifrice groups, respectively, with a relative risk (RR) of 0.10 [CI: 0.05 ‐ 0.19]. CONCLUSION CONCLUSION Non‐invasive treatment with 5,000 ppm F dentifrice is more effective than conventional dentifrices in preventing and arresting RCLs in community dwelling elders. RCLs can be effectively prevented and arrested with the use of 5,000 ppm F dentifrice. Oral health programs directed to community‐dwelling older adults might benefit from the inclusion of high fluoride dentifrice in their portfolio. Non‐invasive treatment with 5,000 ppm F dentifrice is more effective than conventional dentifrices in preventing and arresting RCLs in community dwelling elders. RCLs can be effectively prevented and arrested with the use of 5,000 ppm F dentifrice. Oral health programs directed to community‐dwelling older adults might benefit from the inclusion of high fluoride dentifrice in their portfolio.   B) Tot welk domein behoort de door u geformuleerde PICO‐vraag? Licht uw antwoord toe. B) Tot welk domein behoort de door u geformuleerde PICO‐vraag? Licht uw antwoord toe.  C) Welk onderzoeksdesign is in dit onderzoek gebruikt om de vraagstelling van de auteurs te beantwoorden (RCT, prospectief cohortonderzoek, retrospectief cohortonderzoek, patiënt‐ controleonderzoek, cross‐sectioneel onderzoek)? Licht uw antwoord toe C) Welk onderzoeksdesign is in dit onderzoek gebruikt om de vraagstelling van de auteurs te beantwoorden (RCT, prospectief cohortonderzoek, retrospectief cohortonderzoek, patiënt‐ controleonderzoek, cross‐sectioneel onderzoek)? Licht uw antwoord toe  D) Beoordeel de mate van risk of bias op basis van het aspect van de wijze van randomiseren (lage risk of bias, hoge risk of bias of onbekend). Licht uw antwoord toe aan de hand van het abstract. D) Beoordeel de mate van risk of bias op basis van het aspect van de wijze van randomiseren (lage risk of bias, hoge risk of bias of onbekend). Licht uw antwoord toe aan de hand van het abstract.  E) Beoordeel de mate van risk of bias op basis van het aspect blindering van de patiënt (lage risk of bias, hoge risk of bias of onbekend). Licht uw antwoord toe aan de hand van het abstract. E) Beoordeel de mate van risk of bias op basis van het aspect blindering van de patiënt (lage risk of bias, hoge risk of bias of onbekend). Licht uw antwoord toe aan de hand van het abstract.  F)Beschrijf hoe de betrouwbaarheid van de meting van klinisch aanhechtingsverlieskan worden bepaald, vastgesteld en berekend. Beschrijf alle stappen die hiervoor nodig zijn in de opzet en daana. F)Beschrijf hoe de betrouwbaarheid van de meting van klinisch aanhechtingsverlieskan worden bepaald, vastgesteld en berekend. Beschrijf alle stappen die hiervoor nodig zijn in de opzet en daana.   Endo praktischeEndo praktische  DETI Score en CEB klasse bepalen van 6 röntgenfoto'sDETI Score en CEB klasse bepalen van 6 röntgenfoto's 10 rontgenfoto's om de wortelkanaalbehandeling te beoordelen als voldoende of onvoeldondez met meerkeuzen vragen: 10 rontgenfoto's om de wortelkanaalbehandeling te beoordelen als voldoende of onvoeldondez met meerkeuzen vragen: GoedGoed Niet goed en niet behandelenNiet goed en niet behandelen Niet goed en wel behandelenNiet goed en wel behandelen",
+    "options": [
+      "a.juist",
+      "b.onjuist"],
+    "category": "Radiologie",
+    "tables": [],
+    "answer": "a"
+  }
+]

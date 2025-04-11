@@ -1,0 +1,119 @@
+{
+  "chapters": [
+    {
+      "title": "Eligibility and Test Overview",
+      "theme": "Requirements for taking the exam and an overview of the test components",
+      "start_page": 2,
+      "end_page": 2,
+      "content_block_ids": [
+        2
+      ]
+    },
+    {
+      "title": "Test Components",
+      "theme": "Detailed breakdown of the components of the exam",
+      "start_page": 3,
+      "end_page": 3,
+      "content_block_ids": [
+        3
+      ]
+    },
+    {
+      "title": "Study Tips",
+      "theme": "Tips for studying the theoretical aspects of the exam",
+      "start_page": 5,
+      "end_page": 5,
+      "content_block_ids": [
+        5
+      ]
+    },
+    {
+      "title": "Practical Exam Tips",
+      "theme": "Tips for the practical aspects of the exam",
+      "start_page": 6,
+      "end_page": 6,
+      "content_block_ids": [
+        6
+      ]
+    },
+    {
+      "title": "Manual Skills and Crown Preparation",
+      "theme": "Details about manual skills and crown preparation",
+      "start_page": 7,
+      "end_page": 8,
+      "content_block_ids": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Endodontics and Caries",
+      "theme": "Information about endodontic preparation and caries types",
+      "start_page": 9,
+      "end_page": 10,
+      "content_block_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "title": "Gebits Reiniging and Intake Gesprek",
+      "theme": "Details about dental cleaning and patient intake conversation",
+      "start_page": 11,
+      "end_page": 12,
+      "content_block_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Ethics and Treatment Planning",
+      "theme": "Discussion on ethics and treatment planning scenarios",
+      "start_page": 13,
+      "end_page": 14,
+      "content_block_ids": [
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Endo Casus and Other Cases",
+      "theme": "Specific cases related to endodontics and other scenarios",
+      "start_page": 15,
+      "end_page": 16,
+      "content_block_ids": [
+        15,
+        16
+      ]
+    },
+    {
+      "title": "Methodology and Statistics",
+      "theme": "Information about methodology and statistics in the exam",
+      "start_page": 17,
+      "end_page": 18,
+      "content_block_ids": [
+        17,
+        18
+      ]
+    },
+    {
+      "title": "Exam Procedures and Passing Scores",
+      "theme": "Details about exam procedures and passing score requirements",
+      "start_page": 19,
+      "end_page": 20,
+      "content_block_ids": [
+        19,
+        20
+      ]
+    },
+    {
+      "title": "Failure Consequences",
+      "theme": "Consequences of failing the exam and possible actions to take",
+      "start_page": 21,
+      "end_page": 21,
+      "content_block_ids": [
+        21
+      ]
+    }
+  ]
+}

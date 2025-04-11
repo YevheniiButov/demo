@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}Lesson: {{ lesson.title }}{% if lesson.quiz %}
+  <form method="post">
+    <h3>Quiz</h3>
+    {% set score = 0 %}
+    {% for q in lesson.quiz %}
+      <div class="quiz-question" style="margin-bottom: 1.5rem;">
+        <p><strong>{{ q.question }}</strong></p>
+        {% for opt in q.options %}
+          <label style="display: block;">
+            <input type="radio" name="q{{ loop.index0 }}" value="{{ opt }}"> {{ opt }}
+          </label>
+        {% endfor %}
+      </div>
+    {% endfor %}
+    <button type="submit" class="btn btn-success">Submit</button>
+  </form>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <h1>{{ module.title }}</h1>
+    <h2>{{ lesson.title }}</h2>
+
+    <div class="lesson-content" style="margin-top: 1rem; margin-bottom: 2rem;">
+      {{ lesson.content | safe }}
+    </div>
+
+    {% if show_continue %}
+    <form method="get">
+      <button type="submit" class="btn btn-primary">Continue</button>
+    </form>
+  {% endif %}
+
+  {% if result %}
+      <div class="quiz-result" style="margin-bottom: 2rem; padding: 1rem; background-color: #eef; border-radius: 8px;">
+        <p><strong>Your result:</strong> {{ result.score }}/{{ result.total }} ({{ result.percent }}%)</p>
+        {% if result.percent >= 70 %}
+          <p style="color: green;">✅ Congratulations! You passed this quiz.</p>
+        {% else %}
+          <p style="color: red;">❌ Unfortunately, you didn't pass. Try again!</p>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% if index + 1 < total %}
+      <a href="{{ url_for('lesson_bp.lesson_view', module_id=module.id, lesson_index=index + 1, lang=lang) }}" class="btn btn-primary">Next Lesson</a>
+    {% else %}
+      <p><strong>🎉 You’ve completed all lessons in this module!</strong></p>
+<a href="{{ url_for('main_bp.learn', lang=lang) }}" class="btn btn-outline-success" style="margin-top: 1rem;">Return to Modules</a>
+    {% endif %}
+  </div>
+{% endblock %}

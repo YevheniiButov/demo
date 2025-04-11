@@ -1,0 +1,52 @@
+<!-- templates/admin/pdf_upload.html -->
+
+{% extends "base.html" %}
+{% block title %}Upload PDF{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>📤 Upload & Extract PDF</h1>
+
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <div class="flash-messages">
+        {% for message in messages %}
+          <p>{{ message }}</p>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  <form method="POST" enctype="multipart/form-data">
+    <label for="pdf">Select PDF file:</label>
+    <input type="file" name="pdf" id="pdf" accept="application/pdf" required>
+
+    <label for="mode">Mode:</label>
+    <select name="mode" id="mode">
+      <option value="fast">Fast (ToC only)</option>
+      <option value="full">Full (no AI)</option>
+      <option value="ai" selected>AI Analysis</option>
+    </select>
+
+    <div>
+      <label><input type="checkbox" name="show_pdf"> Show PDF preview</label><br>
+      <label><input type="checkbox" name="show_blocks" checked> Show extracted blocks</label><br>
+      <label><input type="checkbox" name="show_images"> Show extracted images</label>
+    </div>
+
+    <button type="submit">Upload & Extract</button>
+  </form>
+
+  {% if extracted_files %}
+    <hr>
+    <h2>📂 Extracted Files</h2>
+    <ul>
+      {% for file in extracted_files %}
+        <li>
+          <a href="{{ url_for('pdf_bp.view_pdf_blocks', filename=file) }}">{{ file }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
+{% endblock %}

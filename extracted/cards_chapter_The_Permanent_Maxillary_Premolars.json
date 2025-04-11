@@ -1,0 +1,113 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What are the main characteristics of the maxillary first premolar from the buccal aspect?",
+      "answer": "The crown is roughly trapezoidal with little curvature at the cervical line. The mesial slope of the buccal cusp is longer and straighter than the distal slope, placing the cusp tip distal to the center line. The buccal surface is convex with a prominent buccal ridge.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "learning",
+      "question": "Describe the lingual aspect of the maxillary first premolar.",
+      "answer": "The lingual aspect shows a crown that tapers towards the lingual side with a narrower lingual cusp. The lingual cusp is spheroidal and smooth, with a pointed tip and a lingual ridge.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "Which cusp is usually longer in the maxillary first premolar?",
+      "answer": "Buccal cusp",
+      "tags": [
+        "anatomy",
+        "question_block",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the buccal ridge on the maxillary first premolar?",
+      "answer": "The buccal ridge is a continuous ridge from the cusp tip to the cervical margin, indicating strong development of the middle buccal lobe.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the differences between the maxillary first and second premolars.",
+      "answer": "The first premolar typically has two roots and a sharper buccal cusp. The second premolar has a more rounded appearance with a single root and less pronounced cusps.",
+      "tags": [
+        "anatomy",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What are the developmental lobes of maxillary premolars?",
+      "answer": "Maxillary premolars develop from four lobes: three buccal lobes and one lingual lobe.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the usual number of roots found in the maxillary first premolar?",
+      "answer": "Two roots",
+      "tags": [
+        "anatomy",
+        "question_block",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the mesial developmental depression in the maxillary first premolar.",
+      "answer": "The mesial developmental depression is a concavity found on the mesial surface of the crown and root, which helps in distinguishing the maxillary first premolar from the second premolar.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "How does the lingual cusp of the maxillary first premolar compare to the buccal cusp?",
+      "answer": "The lingual cusp is usually about 1 mm shorter than the buccal cusp.",
+      "tags": [
+        "anatomy",
+        "question_block",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the function of the maxillary first premolar's sharp buccal cusp?",
+      "answer": "The sharp buccal cusp assists the canine as a prehensile or tearing tooth.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "card_learning"
+      ],
+      "image_hint": false
+    }
+  ]
+}

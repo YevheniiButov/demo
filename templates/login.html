@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}Login — Become a Tandarts{% endblock %}
+
+{% block content %}
+  <div class="form-container">
+    <h1>
+      {% if lang == 'ru' %} Вход в аккаунт
+      {% elif lang == 'uk' %} Увійти до акаунта
+      {% elif lang == 'nl' %} Inloggen
+      {% elif lang == 'es' %} Iniciar sesión
+      {% elif lang == 'tr' %} Giriş yap
+      {% elif lang == 'fa' %} ورود
+      {% else %} Log In
+      {% endif %}
+    </h1>
+
+    <form method="post" action="{{ url_for('auth_bp.login', lang=lang) }}">
+      <input type="hidden" name="lang" value="{{ lang }}">
+
+      <label for="name">
+        {% if lang == 'ru' %} Имя
+        {% elif lang == 'uk' %} Ім’я
+        {% elif lang == 'nl' %} Naam
+        {% elif lang == 'es' %} Nombre
+        {% elif lang == 'tr' %} İsim
+        {% elif lang == 'fa' %} نام
+        {% else %} Name
+        {% endif %}
+      </label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="password">
+        {% if lang == 'ru' %} Пароль
+        {% elif lang == 'uk' %} Пароль
+        {% elif lang == 'nl' %} Wachtwoord
+        {% elif lang == 'es' %} Contraseña
+        {% elif lang == 'tr' %} Şifre
+        {% elif lang == 'fa' %} رمز عبور
+        {% else %} Password
+        {% endif %}
+      </label>
+      <input type="password" id="password" name="password" required>
+
+      {% if error %}
+        <div class="error">{{ error }}</div>
+      {% endif %}
+
+      <button type="submit">
+        {% if lang == 'ru' %} Войти
+        {% elif lang == 'uk' %} Увійти
+        {% elif lang == 'nl' %} Inloggen
+        {% elif lang == 'es' %} Entrar
+        {% elif lang == 'tr' %} Giriş
+        {% elif lang == 'fa' %} ورود
+        {% else %} Log In
+        {% endif %}
+      </button>
+    </form>
+  </div>
+{% endblock %}

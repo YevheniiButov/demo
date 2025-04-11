@@ -1,0 +1,405 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: linear-gradient(to bottom, #f7f2ec, #e2eaf1); /* Пастельные тона фона */
+  color: #2a2a2a; /* Темно-серый основной текст */
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.85); /* Белый полупрозрачный фон контейнера */
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); /* Более легкая тень */
+  max-width: 900px;
+  width: 100%;
+  overflow: hidden;
+  padding: 2rem;
+  backdrop-filter: blur(8px); /* Усиленный эффект размытия */
+  margin: 2rem auto;
+}
+
+nav a {
+  color: #444 !important; /* Темно-серый цвет ссылок навигации */
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+}
+
+nav a:hover {
+  color: #777 !important; /* Более светлый серый при наведении */
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 2rem 1rem; /* Уменьшены верхний и нижний отступы */
+}
+
+.hero h1 {
+  font-size: 2.2rem; /* Немного уменьшен размер заголовка */
+  font-weight: 300;
+  color: #333; /* Темно-серый заголовок */
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1rem; /* Немного уменьшен размер параграфа */
+  margin: 0.75rem 0 1.5rem; /* Уменьшены отступы */
+  color: #555; /* Серый цвет параграфа */
+}
+
+.hero-inner {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.8rem 1.8rem; /* Уменьшены отступы кнопки */
+  background: #a7b6c2; /* Пастельный серо-голубой */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500; /* Немного легче шрифт */
+  font-size: 1rem; /* Уменьшен размер шрифта */
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #8c9bab; /* Более темный пастельный серо-голубой при наведении */
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem; /* Уменьшен верхний отступ */
+}
+
+.features {
+  padding: 2.5rem 2rem; /* Уменьшены отступы */
+}
+
+.features h2 {
+  text-align: center;
+  font-size: 1.8rem; /* Уменьшен размер заголовка */
+  margin-bottom: 1.5rem;
+  color: #444; /* Темно-серый заголовок */
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem; /* Уменьшен промежуток между карточками */
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 12px; /* Более скругленные углы */
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03); /* Еще более легкая тень */
+  flex: 1 1 180px; /* Уменьшена минимальная ширина */
+  max-width: 200px; /* Уменьшена максимальная ширина */
+  padding: 1rem; /* Уменьшены внутренние отступы */
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02); /* Менее выраженное увеличение при наведении */
+}
+
+.card h3 {
+  margin: 0.5rem 0 0.25rem; /* Уменьшены отступы */
+  font-size: 1rem; /* Уменьшен размер заголовка карточки */
+  color: #333; /* Темно-серый заголовок */
+}
+
+.card p {
+  font-size: 0.8rem; /* Уменьшен размер параграфа карточки */
+  color: #666; /* Более темный серый */
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem; /* Уменьшены отступы */
+  font-size: 0.8rem; /* Уменьшен размер шрифта */
+  color: #777; /* Более светлый серый */
+}
+
+/* Brand Text */
+.brand-text {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: 1.4rem; /* Уменьшен размер шрифта */
+  color: #444; /* Темно-серый */
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.brand-text:hover {
+  transform: scale(1.03); /* Менее выраженное увеличение */
+  color: #777; /* Более светлый серый при наведении */
+  text-shadow: none; /* Убрана тень */
+}
+
+/* Floating button (mobile) */
+.mobile-fab {
+  display: none;
+  position: fixed;
+  bottom: 15px; /* Меньший отступ снизу */
+  left: 50%;
+  transform: translateX(-50%);
+  background: #a7b6c2; /* Пастельный серо-голубой */
+  color: white;
+  padding: 0.7rem 1.2rem; /* Меньшие отступы */
+  border-radius: 30px; /* Меньший радиус */
+  font-weight: 500; /* Легче шрифт */
+  text-decoration: none;
+  font-size: 0.9rem; /* Меньший размер шрифта */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Меньшая тень */
+  z-index: 1000;
+}
+
+/* Login & Register */
+.form-container {
+  max-width: 360px; /* Уменьшена максимальная ширина */
+  margin: 2rem auto; /* Уменьшены отступы */
+  padding: 1.5rem; /* Уменьшены внутренние отступы */
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 10px; /* Меньший радиус */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); /* Меньшая тень */
+  text-align: left;
+}
+
+.form-container h1 {
+  text-align: center;
+  margin-bottom: 1rem; /* Уменьшен нижний отступ */
+  font-weight: 400;
+  font-size: 1.6rem; /* Уменьшен размер шрифта */
+  color: #333; /* Темно-серый */
+}
+
+form label {
+  display: block;
+  margin-top: 0.75rem; /* Уменьшен верхний отступ */
+  font-weight: 500;
+  font-size: 0.9rem; /* Уменьшен размер шрифта */
+  color: #444; /* Темно-серый */
+}
+
+form input[type="text"],
+form input[type="password"],
+form input[type="email"] {
+  width: 100%;
+  padding: 0.6rem; /* Уменьшены внутренние отступы */
+  border: 1px solid #ddd; /* Более светлая граница */
+  border-radius: 6px;
+  margin-top: 0.2rem; /* Уменьшен верхний отступ */
+  font-size: 0.95rem; /* Уменьшен размер шрифта */
+  box-sizing: border-box;
+}
+
+form button {
+  margin-top: 1.5rem; /* Уменьшен верхний отступ */
+  max-width: 200px; /* Уменьшена максимальная ширина */
+  width: 100%;
+  padding: 0.7rem 1.2rem; /* Уменьшены внутренние отступы */
+  background: #a7b6c2; /* Пастельный серо-голубой */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500; /* Легче шрифт */
+  font-size: 0.95rem; /* Уменьшен размер шрифта */
+  cursor: pointer;
+  transition: background 0.3s;
+  align-self: center;
+}
+
+form button:hover {
+  background: #8c9bab; /* Более темный пастельный серо-голубой */
+}
+
+.error {
+  color: #cc3333; /* Более приглушенный красный */
+  margin-top: 0.75rem; /* Уменьшен верхний отступ */
+  font-weight: 500;
+  text-align: center;
+  font-size: 0.9rem; /* Уменьшен размер шрифта */
+}
+
+/* Profile */
+.profile-title {
+  text-align: center;
+  font-weight: 400;
+  color: #444; /* Темно-серый */
+  margin-bottom: 1.5rem; /* Уменьшен нижний отступ */
+  font-size: 1.6rem; /* Уменьшен размер шрифта */
+}
+
+.upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* Уменьшен промежуток */
+  margin-top: 1.5rem; /* Уменьшен верхний отступ */
+}
+
+.upload-form label {
+  font-weight: 600;
+  font-size: 0.9rem; /* Уменьшен размер шрифта */
+  color: #444; /* Темно-серый */
+}
+
+.upload-form input[type="file"] {
+  font-size: 0.9rem; /* Уменьшен размер шрифта */
+}
+
+.upload-form button {
+  margin-top: 0.75rem; /* Уменьшен верхний отступ */
+  padding: 0.7rem 1.2rem; /* Уменьшены отступы */
+  background-color: #a7b6c2; /* Пастельный серо-голубой */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem; /* Уменьшен размер шрифта */
+  font-weight: 500; /* Легче шрифт */
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.upload-form button:hover {
+  background-color: #8c9bab; /* Более темный пастельный серо-голубой */
+}
+
+/* BIG Page */
+.registration {
+  max-width: 850px; /* Уменьшена максимальная ширина */
+  margin: 0 auto;
+  padding: 2.5rem 1rem; /* Уменьшены отступы */
+}
+
+.registration-title {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.8rem; /* Уменьшен размер шрифта */
+  color: #444; /* Темно-серый */
+  margin-bottom: 1.5rem; /* Уменьшен нижний отступ */
+}
+
+.step {
+  background-color: #fff;
+  border-radius: 8px; /* Меньший радиус */
+  padding: 1.2rem; /* Уменьшены отступы */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03); /* Меньшая тень */
+  margin-bottom: 1rem; /* Уменьшен нижний отступ */
+}
+
+.step h2 {
+  font-size: 1.1rem; /* Уменьшен размер шрифта */
+  margin-bottom: 0.5rem; /* Уменьшен нижний отступ */
+  color: #444; /* Темно-серый */
+}
+
+.step p {
+  font-size: 0.9rem; /* Уменьшен размер шрифта */
+  line-height: 1.5; /* Меньший межстрочный интервал */
+  color: #555; /* Серый */
+}
+
+.big-layout {
+  display: flex;
+  gap: 1.5rem; /* Уменьшен промежуток */
+  align-items: flex-start;
+  padding: 1.5rem 0.5rem; /* Уменьшены отступы */
+  flex-wrap: wrap;
+}
+
+.big-sidebar {
+  flex: 0 0 180px; /* Уменьшена ширина */
+  position: sticky;
+  top: 1.5rem; /* Уменьшен отступ сверху */
+  background: #f8f8f8; /* Светло-серый */
+  padding: 0.8rem; /* Уменьшены отступы */
+  border-radius: 10px; /* Меньший радиус */
+  box-shadow: 0 1px 4px rgba(0,0,0,0.02); /* Меньшая тень */
+}
+
+.big-sidebar nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.big-sidebar nav ul li {
+  margin-bottom: 0.75rem; /* Уменьшен нижний отступ */
+}
+
+.big-sidebar nav ul li a {
+  text-decoration: none;
+  color: #555; /* Серый */
+  font-weight: 400; /* Легче шрифт */
+  transition: color 0.2s;
+  font-size: 0.9rem; /* Уменьшен размер шрифта */
+}
+
+.big-sidebar nav ul li a:hover {
+  color: #777; /* Более светлый серый */
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .hero {
+      padding: 1.5rem 1rem;
+  }
+
+  .hero h1 {
+      font-size: 1.6rem;
+  }
+
+  .hero p {
+      font-size: 0.9rem;
+  }
+
+  .buttons a {
+      width: 100%;
+      text-align: center;
+      padding: 0.6rem 1rem; /* Меньшие отступы */
+      font-size: 0.9rem; /* Меньший размер шрифта */
+  }
+
+  .features {
+      padding: 2rem 1rem;
+  }
+
+  .features h2 {
+      font-size: 1.6rem;
+      margin-bottom: 1rem;
+  }
+
+  .cards {
+      flex-direction: column;
+      align-items: center;
+      gap: 0.75rem; /* Меньший промежуток */
+  }
+
+  .card {
+      max-width: 95%;
+      padding: 0.8rem; /* Меньшие отступы */
+  }
+
+  .card h3 {
+      font-size: 0.9rem;
+      margin: 0.4rem 0 0.2rem; /* Меньшие отступы */
+  }
+
+  .card p {
+      font-size: 0.8rem;
+  }
+
+  nav {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.3rem;
+  }
+
+  .lang-switch {
+      margin-top: 0.3rem;

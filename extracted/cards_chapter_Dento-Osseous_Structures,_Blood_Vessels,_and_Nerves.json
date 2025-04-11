@@ -1,0 +1,119 @@
+{
+  "cards": [
+    {
+      "type": "learning",
+      "question": "What is the function of the maxillary sinus?",
+      "answer": "The maxillary sinus reduces the weight of the maxilla, enhances voice resonance, and warms and humidifies inhaled air.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "Where is the mental foramen typically located?",
+      "answer": "Below the second premolar tooth.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "oral_surgery",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Describe the location of the infraorbital foramen.",
+      "answer": "The infraorbital foramen is located on the anterior surface of the maxilla, directly below the infraorbital ridge.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key features of the mandibular condyle.",
+      "answer": "The mandibular condyle is the rounded articular part of the mandible that fits into the mandibular fossa of the temporal bone, forming the temporomandibular joint.",
+      "tags": [
+        "anatomy",
+        "summary",
+        "card_summary"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "What is the significance of the zygomatic process of the maxilla?",
+      "answer": "The zygomatic process of the maxilla contributes to the prominence of the cheek and forms part of the lateral wall and floor of the orbit.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "test",
+      "question": "What structure does the lingula provide attachment for?",
+      "answer": "Sphenomandibular ligament.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "oral_surgery",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Explain the role of the mylohyoid line.",
+      "answer": "The mylohyoid line is a ridge on the internal surface of the mandible that serves as the attachment site for the mylohyoid muscle, which forms the floor of the mouth.",
+      "tags": [
+        "anatomy",
+        "physiology",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "test",
+      "question": "What is the typical shape of the alveolus for a maxillary canine?",
+      "answer": "Oval with the labial width greater than the lingual.",
+      "tags": [
+        "anatomy",
+        "diagnostics",
+        "orthodontics",
+        "card_test"
+      ],
+      "image_hint": false
+    },
+    {
+      "type": "learning",
+      "question": "Identify the components of the alveolar process.",
+      "answer": "The alveolar process consists of the facial (labial and buccal) and lingual plates of bone, which surround and support the roots of the teeth.",
+      "tags": [
+        "anatomy",
+        "definition",
+        "card_learning"
+      ],
+      "image_hint": true
+    },
+    {
+      "type": "summary",
+      "question": "Summarize the key differences between the maxilla and mandible.",
+      "answer": "The maxilla is a fixed bone forming the upper jaw and part of the facial skeleton, while the mandible is a movable bone forming the lower jaw, articulating with the temporal bone at the temporomandibular joint.",
+      "tags": [
+        "anatomy",
+        "summary",
+        "card_summary"
+      ],
+      "image_hint": false
+    }
+  ]
+}

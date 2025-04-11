@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5 text-center">
+  <h2>✅ Тест завершён!</h2>
+  <p class="lead">Вы набрали <strong>{{ score }}</strong> из <strong>{{ total }}</strong> баллов.</p>
+
+  {% if score / total >= 0.7 %}
+    <div class="alert alert-success mt-3">Отличный результат! 🎉</div>
+  {% else %}
+    <div class="alert alert-warning mt-3">Можно лучше. Попробуйте ещё раз!</div>
+  {% endif %}
+
+  <a href="/tests/full-test" class="btn btn-primary mt-4">Пройти снова</a>
+  <a href="/tests/" class="btn btn-outline-secondary mt-4 ms-2">Назад к разделам</a>
+</div>
+{% endblock %}
